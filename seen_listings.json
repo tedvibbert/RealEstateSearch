@@ -1,0 +1,29 @@
+[
+  {
+    "address": "2322 Bayshore Road, Nokomis, FL 34275",
+    "price": 1995000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3948,
+    "url": "https://www.redfin.com/FL/Nokomis/2322-Bayshore-Rd-34275/home/47610257",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "address": "1109 Delacroix Circle, Nokomis, FL 34275",
+    "price": 849900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3169,
+    "url": "https://www.redfin.com/FL/Nokomis/1109-Delacroix-Cir-34275/home/47702233",
+    "first_seen": "2026-08-30"
+  },
+  {
+    "address": "6913 Prairie Oak Way, Nokomis, FL 34275",
+    "price": 739288,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2721,
+    "url": "https://www.bexrealty.com/FL/Nokomis/6913-prairie-oak-way/home/MFRA4693078",
+    "first_seen": "2026-08-30"
+  }
+]
