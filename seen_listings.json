@@ -25,5 +25,32 @@
     "sqft": 2721,
     "url": "https://www.bexrealty.com/FL/Nokomis/6913-prairie-oak-way/home/MFRA4693078",
     "first_seen": "2026-08-30"
+  },
+  {
+    "address": "12002 Granite Woods Loop, Venice, FL 34292",
+    "price": 499000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2930,
+    "url": "https://www.redfin.com/FL/Venice/12002-Granite-Woods-Loop-34292/home/47603075",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "address": "181 S Auburn Road, Venice, FL 34292",
+    "price": 1500000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3570,
+    "url": "https://www.redfin.com/FL/Venice/181-S-Auburn-Rd-34292/home/47710772",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "address": "20455 Granlago Drive, Venice, FL 34293",
+    "price": 569000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2243,
+    "url": "https://www.redfin.com/FL/Venice/20455-Granlago-Dr-34293/home/144611362",
+    "first_seen": "2026-08-31"
   }
 ]
