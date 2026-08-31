@@ -52,5 +52,50 @@
     "sqft": 2243,
     "url": "https://www.redfin.com/FL/Venice/20455-Granlago-Dr-34293/home/144611362",
     "first_seen": "2026-08-31"
+  },
+  {
+    "address": "75 Osprey Point Drive, Osprey, FL 34229",
+    "price": 1649000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 4001,
+    "url": "https://www.redfin.com/FL/Osprey/75-Osprey-Point-Dr-34229/home/47683897",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "address": "15360 Isla Palma Lane, Nokomis, FL 34275",
+    "price": 759000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2582,
+    "url": "https://www.zillow.com/homedetails/15360-Isla-Palma-Ln-Nokomis-FL-34275/339883056_zpid/",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "address": "432 S Shore Drive, Osprey, FL 34229",
+    "price": 799000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2607,
+    "url": "https://www.zillow.com/homedetails/432-S-Shore-Dr-Osprey-FL-34229/47535577_zpid/",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "address": "3181 Fallow Road, Venice, FL 34293",
+    "price": 440000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://www.redfin.com/FL/Venice/3181-Fallow-Rd-34293/home/47725684",
+    "first_seen": "2026-08-31"
+  },
+  {
+    "address": "10868 Sun Drop Street, Venice, FL 34293",
+    "price": 520000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://bellaverderealty.com/idx/mls-a4654496-10868_sun_drop_street_venice_fl_34293",
+    "first_seen": "2026-08-31"
   }
 ]
