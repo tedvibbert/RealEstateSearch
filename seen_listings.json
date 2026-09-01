@@ -124,5 +124,32 @@
     "sqft": 2600,
     "url": "https://www.taylormorrison.com/fl/sarasota/nokomis/tiburon/available-homes",
     "first_seen": "2026-09-01"
+  },
+  {
+    "address": "5820 Oxalis Road, Venice, FL 34293",
+    "price": 535000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1947,
+    "url": "https://www.redfin.com/FL/Venice/Oxalis-Rd-34293/home/47733814",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "address": "10908 Bullrush Drive, Venice, FL 34293",
+    "price": 1350000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3254,
+    "url": "https://www.redfin.com/FL/Venice/10908-Bullrush-Dr-34293/home/112472976",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "address": "164 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 530265,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2830,
+    "url": "https://www.homes.com/new-homes/community/magnolia-bay-reserve-series/kvnevwf0m65g2/",
+    "first_seen": "2026-09-01"
   }
 ]
