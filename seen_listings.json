@@ -97,5 +97,32 @@
     "sqft": null,
     "url": "https://bellaverderealty.com/idx/mls-a4654496-10868_sun_drop_street_venice_fl_34293",
     "first_seen": "2026-08-31"
+  },
+  {
+    "address": "1523 Danforth Lane, Osprey, FL 34229",
+    "price": 1100000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 4031,
+    "url": "https://www.zillow.com/homedetails/1523-Danforth-Ln-Osprey-FL-34229/47535410_zpid/",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "address": "12642 Harney Street, Venice, FL 34293",
+    "price": 895990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 4024,
+    "url": "https://www.bexrealty.com/real-estate/Venice/Grand-Palm/",
+    "first_seen": "2026-09-01"
+  },
+  {
+    "address": "7057 Foxboro Way, Nokomis, FL 34275",
+    "price": 599164,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2600,
+    "url": "https://www.taylormorrison.com/fl/sarasota/nokomis/tiburon/available-homes",
+    "first_seen": "2026-09-01"
   }
 ]
