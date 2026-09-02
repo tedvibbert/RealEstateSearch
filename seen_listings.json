@@ -151,5 +151,50 @@
     "sqft": 2830,
     "url": "https://www.homes.com/new-homes/community/magnolia-bay-reserve-series/kvnevwf0m65g2/",
     "first_seen": "2026-09-01"
+  },
+  {
+    "address": "609 Laguna Drive, Venice, FL 34285",
+    "price": 1300000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3992,
+    "url": "https://www.redfin.com/FL/Venice/609-Laguna-Dr-34285/home/47691389",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "address": "168 Park Trace Boulevard, Osprey, FL 34229",
+    "price": 935000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2778,
+    "url": "https://www.redfin.com/FL/Osprey/168-Park-Trace-Blvd-34229/home/47835968",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "address": "801 Oak Briar Lane, Osprey, FL 34229",
+    "price": 749900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2330,
+    "url": "https://www.redfin.com/FL/Osprey/801-Oak-Briar-Ln-34229/home/47836559",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "address": "583 Pine Ranch East Road, Osprey, FL 34229",
+    "price": 569000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2203,
+    "url": "https://rayrausa.michaelsaunders.com/listing/A4670669/583-pine-ranch-east-road-osprey-fl-34229/",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "address": "1230 Creek Nine Drive, North Port, FL 34291",
+    "price": 625000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3144,
+    "url": "https://www.zillow.com/homedetails/1230-Creek-Nine-Dr-North-Port-FL-34291/70427580_zpid/",
+    "first_seen": "2026-09-02"
   }
 ]
