@@ -196,5 +196,32 @@
     "sqft": 3144,
     "url": "https://www.zillow.com/homedetails/1230-Creek-Nine-Dr-North-Port-FL-34291/70427580_zpid/",
     "first_seen": "2026-09-02"
+  },
+  {
+    "address": "401 Sunset Drive, Venice, FL 34285",
+    "price": 1450000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2370,
+    "url": "https://www.redfin.com/FL/Venice/401-Sunset-Dr-34285/home/47694280",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "address": "5031 Bella Terra Drive, Venice, FL 34293",
+    "price": 724000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3008,
+    "url": "https://www.redfin.com/FL/Venice/5031-Bella-Terra-Dr-34293/home/47731281",
+    "first_seen": "2026-09-02"
+  },
+  {
+    "address": "286 Shamrock Drive, Venice, FL 34293",
+    "price": 600000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3080,
+    "url": "https://www.redfin.com/FL/Venice/286-Shamrock-Dr-34293/home/144609726",
+    "first_seen": "2026-09-02"
   }
 ]
