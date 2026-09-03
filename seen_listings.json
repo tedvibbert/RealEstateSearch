@@ -259,5 +259,32 @@
     "sqft": 3388,
     "url": "https://www.zillow.com/homedetails/6068-Tidwell-St-North-Port-FL-34291/47592464_zpid/",
     "first_seen": "2026-09-03"
+  },
+  {
+    "address": "7664 Meroni Boulevard, North Port, FL 34291",
+    "price": 525000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1775,
+    "url": "https://www.redfin.com/FL/North-Port/7664-Meroni-Blvd-34291/home/47752120",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "address": "5635 Blue Reef Place, Nokomis, FL 34275",
+    "price": 625000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2402,
+    "url": "https://www.zillow.com/homedetails/5635-Blue-Reef-Pl-Nokomis-FL-34275/383221570_zpid/",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "address": "2180 Mesic Hammock Way, Venice, FL 34292",
+    "price": 589000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2644,
+    "url": "https://www.zillow.com/homedetails/2180-Mesic-Hammock-Way-Venice-FL-34292/80418977_zpid/",
+    "first_seen": "2026-09-03"
   }
 ]
