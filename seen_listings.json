@@ -223,5 +223,41 @@
     "sqft": 3080,
     "url": "https://www.redfin.com/FL/Venice/286-Shamrock-Dr-34293/home/144609726",
     "first_seen": "2026-09-02"
+  },
+  {
+    "address": "4251 Tennyson Way, Venice, FL 34293",
+    "price": 680000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2095,
+    "url": "https://www.redfin.com/FL/Venice/4251-Tennyson-Way-34293/home/47725307",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "address": "746 Eagle Point Drive, Venice, FL 34285",
+    "price": 1995000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3723,
+    "url": "https://www.redfin.com/FL/Venice/746-Eagle-Point-Dr-34285/home/47708102",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "address": "1668 Lugano Circle, Nokomis, FL 34275",
+    "price": 870990,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3651,
+    "url": "https://www.raveis.com/prop/R4908847/1668-lugano-circle-nokomis-fl-34275",
+    "first_seen": "2026-09-03"
+  },
+  {
+    "address": "6068 Tidwell Street, North Port, FL 34291",
+    "price": 824900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3388,
+    "url": "https://www.zillow.com/homedetails/6068-Tidwell-St-North-Port-FL-34291/47592464_zpid/",
+    "first_seen": "2026-09-03"
   }
 ]
