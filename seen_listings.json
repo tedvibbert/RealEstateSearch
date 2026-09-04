@@ -286,5 +286,14 @@
     "sqft": 2644,
     "url": "https://www.zillow.com/homedetails/2180-Mesic-Hammock-Way-Venice-FL-34292/80418977_zpid/",
     "first_seen": "2026-09-03"
+  },
+  {
+    "address": "315 Park Blvd N, Venice, FL 34285",
+    "price": 1050000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2721,
+    "url": "https://www.redfin.com/FL/Venice/315-Park-Blvd-N-34285/home/47690970",
+    "first_seen": "2026-09-04"
   }
 ]
