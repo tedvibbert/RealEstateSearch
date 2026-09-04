@@ -295,5 +295,23 @@
     "sqft": 2721,
     "url": "https://www.redfin.com/FL/Venice/315-Park-Blvd-N-34285/home/47690970",
     "first_seen": "2026-09-04"
+  },
+  {
+    "address": "11225 Blissby Street, Venice, FL 34293",
+    "price": 1595000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3753,
+    "url": "https://www.redfin.com/FL/Venice/11225-Blissby-St-34293/home/194133567",
+    "first_seen": "2026-09-04"
+  },
+  {
+    "address": "5017 Bella Terra Drive, Venice, FL 34293",
+    "price": 515000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1824,
+    "url": "https://www.redfin.com/FL/Venice/5017-Bella-Terra-Dr-34293/home/47731274",
+    "first_seen": "2026-09-04"
   }
 ]
