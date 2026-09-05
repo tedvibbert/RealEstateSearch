@@ -376,5 +376,23 @@
     "sqft": null,
     "url": "https://www.zillow.com/homedetails/13349-Verandi-St-Venice-FL-34293/305880259_zpid/",
     "first_seen": "2026-09-05"
+  },
+  {
+    "address": "101 Runaway Field Avenue, Nokomis, FL 34275",
+    "price": 529405,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://gulfsandsrealty.com/properties/161374-Residential-101-RUNAWAY-FIELD-AVENUE-Nokomis-Florida-34275-3-Rooms-4-Bedrooms-2-Bathrooms-USD529-405/",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "519 Sun Chaser Drive, Nokomis, FL 34275",
+    "price": 580260,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.zillow.com/homedetails/519-Sun-Chaser-Dr-Nokomis-FL-34275/347730567_zpid/",
+    "first_seen": "2026-09-05"
   }
 ]
