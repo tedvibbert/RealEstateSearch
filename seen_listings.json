@@ -313,5 +313,68 @@
     "sqft": 1824,
     "url": "https://www.redfin.com/FL/Venice/5017-Bella-Terra-Dr-34293/home/47731274",
     "first_seen": "2026-09-04"
+  },
+  {
+    "address": "20237 Bandera Place, Venice, FL 34293",
+    "price": 785000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2895,
+    "url": "https://www.zillow.com/homedetails/20237-Bandera-Pl-Venice-FL-34293/305879515_zpid/",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "11115 Balfour Street, Venice, FL 34293",
+    "price": 549900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2640,
+    "url": "https://www.sellingtheflcoast.com/property/24-A4664693-11115-balfour-street-venice-FL-34293",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "3598 Trinity Street, North Port, FL 34291",
+    "price": 490000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1831,
+    "url": "https://www.zillow.com/homedetails/3598-Trinity-St-North-Port-FL-34291/339884810_zpid/",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "4476 Blackman Street, North Port, FL 34291",
+    "price": 334900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1861,
+    "url": "https://www.redfin.com/FL/North-Port/4476-Blackman-St-34291/for-sale/47754272",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "7008 Foxboro Way, Nokomis, FL 34275",
+    "price": 561021,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2582,
+    "url": "https://www.taylormorrison.com/fl/sarasota/nokomis/tiburon/available-homes",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "7012 Foxboro Way, Nokomis, FL 34275",
+    "price": 570951,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2582,
+    "url": "https://www.taylormorrison.com/fl/sarasota/nokomis/tiburon/available-homes",
+    "first_seen": "2026-09-05"
+  },
+  {
+    "address": "13349 Verandi Street, Venice, FL 34293",
+    "price": 1200000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": null,
+    "url": "https://www.zillow.com/homedetails/13349-Verandi-St-Venice-FL-34293/305880259_zpid/",
+    "first_seen": "2026-09-05"
   }
 ]
