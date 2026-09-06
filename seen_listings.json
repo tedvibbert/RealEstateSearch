@@ -394,5 +394,113 @@
     "sqft": null,
     "url": "https://www.zillow.com/homedetails/519-Sun-Chaser-Dr-Nokomis-FL-34275/347730567_zpid/",
     "first_seen": "2026-09-05"
+  },
+  {
+    "address": "401 Walls Way, Osprey, FL 34229",
+    "price": 1825000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 4388,
+    "url": "https://www.zillow.com/homedetails/401-Walls-Way-Osprey-FL-34229/47533385_zpid/",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "100 Vintage Glen Road, Nokomis, FL 34275",
+    "price": 441885,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2193,
+    "url": "https://www.raveis.com/prop/O6364655/100-vintage-glen-road-nokomis-fl-34275",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "108 Lazy Shore Dr, Nokomis, FL 34275",
+    "price": 440805,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2193,
+    "url": "https://www.zillow.com/homedetails/108-Lazy-Shore-Dr-Nokomis-FL-34275/",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "11123 Pinot Dr, Venice, FL 34293",
+    "price": 468597,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2032,
+    "url": "https://cdn.lennar.net/new-homes/florida/sarasota-manatee/venice/antigua-at-wellen-park/trevi",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "12833 Pinnacle Ln, Venice, FL 34293",
+    "price": 799900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2386,
+    "url": "https://www.tollbrothers.com/luxury-homes-for-sale/Florida/Solstice-at-Wellen-Park/Summit-Collection/Quick-Move-In/MLS-A4579099",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "9576 Vibrant Ln, Venice, FL 34292",
+    "price": 486920,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2384,
+    "url": "https://www.zillow.com/homedetails/9576-Vibrant-Ln-Venice-FL-34292/352237583_zpid/",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "7578 Tasco Dr, North Port, FL 34291",
+    "price": 335000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1796,
+    "url": "https://www.allisonjamesinc.com/property/24-A4617627-7578-tasco-drive-north-port-FL-34291",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "6296 Hornbuckle Blvd, North Port, FL 34291",
+    "price": 429900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3000,
+    "url": "https://www.palmparadiserealty.com/north-port/north-port-new-construction-homes/",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "1246 Wasilla St, North Port, FL 34291",
+    "price": 440626,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2338,
+    "url": "https://www.highrises.com/realestateandhomes-detail/1246-Wasilla-St_North-Port_FL_34291_M97873-32695",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "3522 Renault Cir, North Port, FL 34291",
+    "price": 399000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2059,
+    "url": "https://www.zillow.com/homedetails/3522-Renault-Cir-North-Port-FL-34291/87675059_zpid/",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "7546 Blutter Rd, North Port, FL 34286",
+    "price": 285000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1893,
+    "url": "https://www.paradiseexclusive.com/property/24-O6433696-7546-Blutter-Road-North-Port-FL-34286",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "2777 Lucaya Ave, North Port, FL 34286",
+    "price": 739900,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2679,
+    "url": "https://www.zillow.com/homedetails/2777-Lucaya-Ave-North-Port-FL-34286/99817922_zpid/",
+    "first_seen": "2026-09-06"
   }
 ]
