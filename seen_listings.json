@@ -502,5 +502,23 @@
     "sqft": 2679,
     "url": "https://www.zillow.com/homedetails/2777-Lucaya-Ave-North-Port-FL-34286/99817922_zpid/",
     "first_seen": "2026-09-06"
+  },
+  {
+    "address": "1736 Natrona Dr, North Port, FL 34286",
+    "price": 470000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2180,
+    "url": "https://www.redfin.com/FL/North-Port/1736-Natrona-Dr-34286/for-sale/47772899",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "address": "2199 Terracina Dr, Venice, FL 34292",
+    "price": 499000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2329,
+    "url": "https://www.redfin.com/city/18790/FL/Venice/homes-for-sale-under-500000",
+    "first_seen": "2026-09-06"
   }
 ]
