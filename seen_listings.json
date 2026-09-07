@@ -520,5 +520,41 @@
     "sqft": 2329,
     "url": "https://www.redfin.com/city/18790/FL/Venice/homes-for-sale-under-500000",
     "first_seen": "2026-09-06"
+  },
+  {
+    "address": "5838 Trumpet St, North Port, FL 34291",
+    "price": 549900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2564,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/5838-trumpet-st/pid_49218417/",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "address": "304 Caserta Ct, Nokomis, FL 34275",
+    "price": 699900,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3009,
+    "url": "https://www.zillow.com/homedetails/304-Caserta-Ct-Nokomis-FL-34275/333779455_zpid/",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "address": "4975 Tuscola Blvd, North Port, FL 34287",
+    "price": 339000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1822,
+    "url": "https://www.zillow.com/homedetails/4975-Tuscola-Blvd-North-Port-FL-34287/443235025_zpid/",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "address": "15033 Shady Palms Ln, Nokomis, FL 34275",
+    "price": 575000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2927,
+    "url": "https://relocatetampahomes.com/listing/flmfrA4653504/a-070668",
+    "first_seen": "2026-09-07"
   }
 ]
