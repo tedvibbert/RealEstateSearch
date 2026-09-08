@@ -556,5 +556,51 @@
     "sqft": 2927,
     "url": "https://relocatetampahomes.com/listing/flmfrA4653504/a-070668",
     "first_seen": "2026-09-07"
+  },
+  {
+    "address": "1291 Creek Nine Dr, North Port, FL 34291",
+    "price": 599000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3133,
+    "url": "https://www.55places.com/property/1291-creek-nine-dr-north-port-fl-34291-ffpid_26488575",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "address": "1117 Allegheny Ln, North Port, FL 34286",
+    "price": 479900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2342,
+    "url": "https://www.zillow.com/homedetails/1117-Allegheny-Ln-North-Port-FL-34286/80426466_zpid/",
+    "first_seen": "2026-09-08",
+    "note": "exact list price uncertain, sources show range ~$475,000-$490,000"
+  },
+  {
+    "address": "3971 Albin Ave, North Port, FL 34286",
+    "price": 1431000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 2781,
+    "url": "https://riancerealty.net/listing-details/florida_N6141604--3971-ALBIN-AVENUE-North-Port-FL-34286/",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "address": "3138 Lucaya Ave, North Port, FL 34286",
+    "price": 499900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.redfin.com/FL/North-Port/3138-Lucaya-Ave-34286/home/47773566",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "address": "7045 Foxboro Way, Nokomis, FL 34275",
+    "price": 574499,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2394,
+    "url": "https://www.afgflorida.com/search/florida/nokomis/tiburon/7045-foxboro-way-bid-30-A4702345",
+    "first_seen": "2026-09-08"
   }
 ]
