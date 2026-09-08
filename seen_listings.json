@@ -602,5 +602,33 @@
     "sqft": 2394,
     "url": "https://www.afgflorida.com/search/florida/nokomis/tiburon/7045-foxboro-way-bid-30-A4702345",
     "first_seen": "2026-09-08"
+  },
+  {
+    "address": "1050 Olympia Road, Venice, FL 34293",
+    "price": 305000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1292,
+    "url": "https://www.redfin.com/FL/Venice/Olympia-Rd-34293/home/47727182",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "address": "2160 Weaver Bird Lane, Venice, FL 34292",
+    "price": 465000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2604,
+    "url": "https://www.sctre.com/details?MLNum=A4698189",
+    "first_seen": "2026-09-08"
+  },
+  {
+    "address": "779 Nectar Road, Venice, FL 34293",
+    "price": 574990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2458,
+    "url": "https://www.zillow.com/homedetails/779-Nectar-Rd-Venice-FL-34293/90163548_zpid/",
+    "first_seen": "2026-09-08",
+    "note": "exact list price uncertain, sources show range ~$564,990-$574,990"
   }
 ]
