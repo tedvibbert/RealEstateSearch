@@ -648,5 +648,53 @@
     "sqft": 2416,
     "url": "https://www.redfin.com/FL/Venice/1037-Beckley-Cir-34292/home/47711617",
     "first_seen": "2026-09-09"
+  },
+  {
+    "address": "4700 Forbes Trail, Venice, FL 34292",
+    "price": 880000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2000,
+    "url": "https://www.zillow.com/homedetails/4700-Forbes-Trl-Venice-FL-34292/87676432_zpid/",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "address": "20017 Golden Glow Loop, Venice, FL 34292",
+    "price": 489990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1833,
+    "url": "https://www.zillow.com/homedetails/20017-Golden-Glow-Loop-OIYOT8-Venice-FL-34292/450150576_zpid/",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "address": "17483 Montgomery Court, Venice, FL 34293",
+    "price": 1497430,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 5065,
+    "url": "https://benootrealty.com/property/MFR802245854/",
+    "first_seen": "2026-09-09",
+    "note": "Toll Brothers Venice Woodlands new construction, currently under construction; a separate snippet showed a possibly stale $899,000/3,193 sqft figure for this address"
+  },
+  {
+    "address": "1305 Greenfield Circle, Venice, FL 34292",
+    "price": 895000,
+    "beds": 5,
+    "baths": 5,
+    "sqft": 3358,
+    "url": "https://www.michaelsaunders.com/listing/TB8375264/1305-greenfield-circle-venice-fl-34292/",
+    "first_seen": "2026-09-09",
+    "note": "exact list price uncertain, sources show range ~$795,000-$895,000; main house plus guest house on 1.09 acres"
+  },
+  {
+    "address": "11723 Tempest Harbor Loop, Venice, FL 34292",
+    "price": 545000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2260,
+    "url": "https://www.zillow.com/homedetails/11723-Tempest-Harbor-Loop-Venice-FL-34292/80426449_zpid/",
+    "first_seen": "2026-09-09",
+    "note": "exact list price uncertain, sources show range ~$289,990-$545,000; property recently went through foreclosure auction"
   }
 ]
