@@ -630,5 +630,23 @@
     "url": "https://www.zillow.com/homedetails/779-Nectar-Rd-Venice-FL-34293/90163548_zpid/",
     "first_seen": "2026-09-08",
     "note": "exact list price uncertain, sources show range ~$564,990-$574,990"
+  },
+  {
+    "address": "12920 Richezza Drive, Venice, FL 34293",
+    "price": 678000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://www.trulia.com/home/12920-richezza-dr-venice-fl-34293-99849108",
+    "first_seen": "2026-09-09"
+  },
+  {
+    "address": "1037 Beckley Circle, Venice, FL 34292",
+    "price": 589000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2416,
+    "url": "https://www.redfin.com/FL/Venice/1037-Beckley-Cir-34292/home/47711617",
+    "first_seen": "2026-09-09"
   }
 ]
