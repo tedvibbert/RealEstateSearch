@@ -736,5 +736,64 @@
     "url": "https://www.redfin.com/FL/Venice/2157-Weaver-Bird-Ln-34292/home/47603171",
     "first_seen": "2026-09-10",
     "note": "Conflicting status across sources (one site showed 'not for sale') - verify current availability before pursuing"
+  },
+  {
+    "address": "5640 Blue Reef Place, Nokomis, FL 34275",
+    "price": 725000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2410,
+    "url": "https://www.swfloridafinehomes.com/property/C7501416/",
+    "first_seen": "2026-09-10",
+    "note": "New construction (2023), MLS C7501416"
+  },
+  {
+    "address": "17847 Triangle Court, Venice, FL 34293",
+    "price": 667990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2962,
+    "url": "https://www.sellstatesouthshore.com/property/24-A4689882-17847-Triangle-Court-Venice-FL-34293",
+    "first_seen": "2026-09-10"
+  },
+  {
+    "address": "2049 Mesic Hammock Way, Venice, FL 34292",
+    "price": 490000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1668,
+    "url": "https://www.wagnerrealty.com/p/2049-Mesic-Hammock-Way-Venice-FL-34292/dmgid_174322196",
+    "first_seen": "2026-09-10",
+    "note": "2018-built Stoneybrook waterfront home, MLS N6135915"
+  },
+  {
+    "address": "11702 Anhinga Avenue, Venice, FL 34292",
+    "price": 459000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://www.coldwellbankerhomes.com/fl/venice/11702-anhinga-ave/pid_72623978/",
+    "first_seen": "2026-09-10",
+    "note": "Stoneybrook at Venice, MLS N6144856, listed 2026-07-21"
+  },
+  {
+    "address": "448 Park Trace Blvd, Osprey, FL 34229",
+    "price": 999000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3060,
+    "url": "https://www.redfin.com/FL/Osprey/448-Park-Trace-Blvd-34229/home/47836511",
+    "first_seen": "2026-09-10",
+    "note": "Conflicting status across sources (Opendoor shows 'not for sale', Redfin/Zillow show active MLS N6133208) - verify before pursuing"
+  },
+  {
+    "address": "472 Park Trace Blvd, Osprey, FL 34229",
+    "price": 645000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2217,
+    "url": "https://www.redfin.com/FL/Osprey/472-Park-Trace-Blvd-34229/home/47836513",
+    "first_seen": "2026-09-10",
+    "note": "exact list price uncertain, sources show range ~$609,000-$645,000; MLS A4680326"
   }
 ]
