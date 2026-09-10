@@ -696,5 +696,45 @@
     "url": "https://www.zillow.com/homedetails/11723-Tempest-Harbor-Loop-Venice-FL-34292/80426449_zpid/",
     "first_seen": "2026-09-09",
     "note": "exact list price uncertain, sources show range ~$289,990-$545,000; property recently went through foreclosure auction"
+  },
+  {
+    "address": "108 Canoe Bend Avenue, Nokomis, FL 34275",
+    "price": 439080,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2340,
+    "url": "https://www.zillow.com/nokomis-fl-34275/4_p/",
+    "first_seen": "2026-09-10",
+    "note": "New construction by Meritage Homes; exact per-listing Zillow URL not confirmed, sourced from zip-code search results"
+  },
+  {
+    "address": "6929 Prairie Oak Way, Nokomis, FL 34275",
+    "price": 642084,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2394,
+    "url": "https://www.taylormorrison.com/fl/sarasota/nokomis/tiburon/available-homes",
+    "first_seen": "2026-09-10",
+    "note": "Taylor Morrison Tiburon community, Grenada floor plan, new construction with July completion; sources show price range ~$642,000-$667,000"
+  },
+  {
+    "address": "5923 Imbe St, North Port, FL 34286",
+    "price": 899900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2618,
+    "url": "https://www.zillow.com/homedetails/5923-Imbe-St-North-Port-FL-34286/47592162_zpid/",
+    "first_seen": "2026-09-10",
+    "note": "One-of-a-kind estate home on 4.5 acres; recent price cut from $995,000"
+  },
+  {
+    "address": "2157 Weaver Bird Ln, Venice, FL 34292",
+    "price": 677000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2334,
+    "url": "https://www.redfin.com/FL/Venice/2157-Weaver-Bird-Ln-34292/home/47603171",
+    "first_seen": "2026-09-10",
+    "note": "Conflicting status across sources (one site showed 'not for sale') - verify current availability before pursuing"
   }
 ]
