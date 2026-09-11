@@ -795,5 +795,85 @@
     "url": "https://www.redfin.com/FL/Osprey/472-Park-Trace-Blvd-34229/home/47836513",
     "first_seen": "2026-09-10",
     "note": "exact list price uncertain, sources show range ~$609,000-$645,000; MLS A4680326"
+  },
+  {
+    "address": "4364 Corso Venetia Blvd, Venice, FL 34293",
+    "price": 499000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2912,
+    "url": "https://www.redfin.com/FL/Venice/4364-Corso-Venetia-Blvd-34293/home/47589540",
+    "first_seen": "2026-09-11",
+    "note": "MLS N6145187, gated Venetia community, listed Aug 1 2026, new tile roof July 2026"
+  },
+  {
+    "address": "9824 Hilltop Dr, Venice, FL 34292",
+    "price": 495000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://www.zillow.com/homedetails/9824-Hilltop-Dr-Venice-FL-34292/246058899_zpid/",
+    "first_seen": "2026-09-11",
+    "note": "MLS N6144955, Watercrest gated community, built 2018"
+  },
+  {
+    "address": "144 Park Trace Blvd, Osprey, FL 34229",
+    "price": 850000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2468,
+    "url": "https://www.trulia.com/home/144-park-trace-blvd-osprey-fl-34229-54264855",
+    "first_seen": "2026-09-11",
+    "note": "MLS A4704235, Park Trace Estates, built 2001"
+  },
+  {
+    "address": "2651 Peake St, North Port, FL 34286",
+    "price": 429000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 1975,
+    "url": "https://www.homes.com/north-port-fl/wellen-park-neighborhood/houses-for-sale/4-bedroom/under-500k/",
+    "first_seen": "2026-09-11",
+    "note": "found via aggregator search snippets; no single confirmed direct MLS listing page, verify current status before pursuing"
+  },
+  {
+    "address": "498 Sun Chaser Drive, Nokomis, FL 34275",
+    "price": 620470,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": null,
+    "url": "https://www.meritagehomes.com/state/fl/tampa/magnolia-bay-reserve-series/emilia-4m20/449-sun-chaser-drive",
+    "first_seen": "2026-09-11",
+    "note": "Meritage Homes 'Prato' plan, Magnolia Bay Reserve Series, new construction"
+  },
+  {
+    "address": "522 Sun Chaser Drive, Nokomis, FL 34275",
+    "price": 578880,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1908,
+    "url": "https://www.meritagehomes.com/state/fl/tampa/magnolia-bay-reserve-series/corsica-4m10/522-sun-chaser-drive",
+    "first_seen": "2026-09-11",
+    "note": "Meritage Homes 'Corsica' model home; exact list price uncertain, sources show range ~$440,000-$578,880"
+  },
+  {
+    "address": "Everly - Costa Mesa 2 Plan, Venice, FL 34293",
+    "price": 821990,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3360,
+    "url": "https://www.trulia.com/builder-community-plan/Everly-Costa-Mesa-2-2057744414",
+    "first_seen": "2026-09-11",
+    "note": "Neal Signature Homes plan in Wellen Park's Everly community; base price does not include homesite/lot or options, sources show up to $867,990+; no fixed street address confirmed"
+  },
+  {
+    "address": "2602 Firetree Ln, Venice, FL 34292",
+    "price": 966000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3196,
+    "url": "https://www.movoto.com/home/2602-firetree-ln-venice-fl-34292-431_a4165066",
+    "first_seen": "2026-09-11",
+    "note": "MLS O6436722, on 3.47 acres; property has multiple older MLS numbers from a 2022 sale, current active status per Movoto/Zillow with 2026 A/C update mentioned"
   }
 ]
