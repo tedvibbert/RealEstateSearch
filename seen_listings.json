@@ -875,5 +875,55 @@
     "url": "https://www.movoto.com/home/2602-firetree-ln-venice-fl-34292-431_a4165066",
     "first_seen": "2026-09-11",
     "note": "MLS O6436722, on 3.47 acres; property has multiple older MLS numbers from a 2022 sale, current active status per Movoto/Zillow with 2026 A/C update mentioned"
+  },
+  {
+    "address": "460 Bard Road, Venice, FL 34293",
+    "price": 499000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2135,
+    "url": "https://www.nexthomel3.com/property/24-N6139022-460-Bard-Road-Venice-FL-34293",
+    "first_seen": "2026-09-11",
+    "note": "MLS N6139022, former Adams Homes model built 2021 in South Venice; exact list price uncertain, sources show range ~$409,000-$499,000"
+  },
+  {
+    "address": "6563 Starfish Ave, North Port, FL 34291",
+    "price": 349999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1710,
+    "url": "https://www.zillow.com/homedetails/6563-Starfish-Ave-North-Port-FL-34291/99772981_zpid/",
+    "first_seen": "2026-09-11",
+    "note": "MLS C7521833; conflicting sqft/price across sources (also seen as $395,999/2,111 sqft)"
+  },
+  {
+    "address": "406 Laurel Rd E, Nokomis, FL 34275",
+    "price": 895000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1751,
+    "url": "https://www.redfin.com/FL/Nokomis/406-Laurel-Rd-E-34275/home/47688460",
+    "first_seen": "2026-09-11",
+    "note": "Active/New listing on 0.5 acre lot; parcel includes two residential buildings plus detached garage/shed, built 1957, zoned RSF-3 - verify configuration matches a single 4BR home before pursuing"
+  },
+  {
+    "address": "13652 Classico Court, Venice, FL 34293",
+    "price": 918000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2365,
+    "url": "https://www.wagnerrealty.com/p/13652-Classico-Court-Venice-FL-34293/dmgid_176949567",
+    "first_seen": "2026-09-11",
+    "note": "MLS N6137415, Gran Paradiso gated community, built 2018, confirmed active"
+  },
+  {
+    "address": "24268 Gallberry Drive, Venice, FL 34293",
+    "price": 859000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2386,
+    "url": "https://www.zillow.com/homedetails/24268-Gallberry-Dr-Venice-FL-34293/246059007_zpid/",
+    "first_seen": "2026-09-11",
+    "note": "Sarasota National Phase 4 community; exact list price uncertain, sources show range ~$575,000-$884,900; verify current status before pursuing"
   }
 ]
