@@ -964,5 +964,55 @@
     "url": "https://www.redfin.com/FL/Venice/4111-Hibiscus-Rd-34293/home/47728816",
     "first_seen": "2026-09-12",
     "note": "MLS A4547045/N6124955, South Venice, built 1981 on 0.41 acre lot, screened pool, new roof 2022/new AC 2023"
+  },
+  {
+    "address": "1226 Cielo Court, North Venice, FL 34275",
+    "price": 785000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2576,
+    "url": "https://www.propertypanorama.com/instaview/stellar/T3477270",
+    "first_seen": "2026-09-12",
+    "note": "MLS T3477270, built 2013, screened porch backing to preserved land"
+  },
+  {
+    "address": "400 Nokomis Avenue S, Venice, FL 34285",
+    "price": 1499000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3316,
+    "url": "https://www.zillow.com/homedetails/400-Nokomis-Ave-S-Venice-FL-34285/47557178_zpid/",
+    "first_seen": "2026-09-12",
+    "note": "MLS A4644286, The Island neighborhood, built 1961; exact list price uncertain, sources show range ~$1,499,000-$1,685,000; ST2 zoning permits residential/commercial mixed use, was formerly a doctor's office - verify it's usable as a straightforward single-family home before pursuing"
+  },
+  {
+    "address": "1093 Laurel Woods Drive, Nokomis, FL 34275",
+    "price": 875000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2751,
+    "url": "https://www.zillow.com/homedetails/1093-Laurel-Woods-Dr-Nokomis-FL-34275/47538325_zpid/",
+    "first_seen": "2026-09-12",
+    "note": "Built 1995, screened pool with lake views, 3-car garage; one source showed a higher price (~$1,100,000) - verify current list price"
+  },
+  {
+    "address": "3466 Lanai, North Port, FL 34288",
+    "price": 369900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1650,
+    "url": "https://www.zillow.com/homedetails/3466-Lanai-North-Port-FL-34288/462317539_zpid/",
+    "first_seen": "2026-09-12",
+    "note": "MLS C7525982, new construction (built 2026); zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
+  },
+  {
+    "address": "120 Lookout Point Drive, Osprey, FL 34229",
+    "price": 1199000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2925,
+    "url": "https://www.zillow.com/homedetails/120-Lookout-Point-Dr-Osprey-FL-34229/47535417_zpid/",
+    "first_seen": "2026-09-12",
+    "note": "Southbay Yacht and Racquet Club, built 1985; officially listed as 3 bedrooms + a bonus room/4th bedroom upstairs, so 4BR status is not fully confirmed - verify before pursuing"
   }
 ]
