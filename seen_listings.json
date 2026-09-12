@@ -925,5 +925,44 @@
     "url": "https://www.zillow.com/homedetails/24268-Gallberry-Dr-Venice-FL-34293/246059007_zpid/",
     "first_seen": "2026-09-11",
     "note": "Sarasota National Phase 4 community; exact list price uncertain, sources show range ~$575,000-$884,900; verify current status before pursuing"
+  },
+  {
+    "address": "4260 Corso Venetia Blvd, Venice, FL 34293",
+    "price": 599999,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2862,
+    "url": "https://www.redfin.com/FL/Venice/4260-Corso-Venetia-Blvd-34293/home/47838714",
+    "first_seen": "2026-09-12",
+    "note": "MLS T3475360/O6189842, gated Venetia community, built 2002, pool overlooking conservation/pond"
+  },
+  {
+    "address": "9621 Vibrant Ln, Venice, FL 34292",
+    "price": 526339,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2336,
+    "url": "https://www.zillow.com/homedetails/9621-Vibrant-Ln-Venice-FL-34292/443583367_zpid/",
+    "first_seen": "2026-09-12",
+    "note": "New construction, Brighton/Vero community by Park Square Homes"
+  },
+  {
+    "address": "11871 Granite Woods Loop, Venice, FL 34292",
+    "price": 535000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2250,
+    "url": "https://www.homes.com/property/11871-granite-woods-loop-venice-fl/4p1fqq19tzwb4/",
+    "first_seen": "2026-09-12"
+  },
+  {
+    "address": "4111 Hibiscus Rd, Venice, FL 34293",
+    "price": 569000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1650,
+    "url": "https://www.redfin.com/FL/Venice/4111-Hibiscus-Rd-34293/home/47728816",
+    "first_seen": "2026-09-12",
+    "note": "MLS A4547045/N6124955, South Venice, built 1981 on 0.41 acre lot, screened pool, new roof 2022/new AC 2023"
   }
 ]
