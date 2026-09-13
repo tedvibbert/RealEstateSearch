@@ -1014,5 +1014,25 @@
     "url": "https://www.zillow.com/homedetails/120-Lookout-Point-Dr-Osprey-FL-34229/47535417_zpid/",
     "first_seen": "2026-09-12",
     "note": "Southbay Yacht and Racquet Club, built 1985; officially listed as 3 bedrooms + a bonus room/4th bedroom upstairs, so 4BR status is not fully confirmed - verify before pursuing"
+  },
+  {
+    "address": "408 Alberata Way, Nokomis, FL 34275",
+    "price": 840211,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2628,
+    "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/vistera-of-venice/magnolia-plan/408-alberata-way",
+    "first_seen": "2026-09-13",
+    "note": "Magnolia plan, Vistera of Venice, M/I Homes new construction, estimated move-in 9/20/2026"
+  },
+  {
+    "address": "296 Pine Ranch Trail, Osprey, FL 34229",
+    "price": 1100000,
+    "beds": 5,
+    "baths": 3.5,
+    "sqft": 3481,
+    "url": "https://www.redfin.com/FL/Osprey/296-Pine-Ranch-Trl-34229/home/47683738",
+    "first_seen": "2026-09-13",
+    "note": "Pine Ranch East (26-home enclave, no HOA fees), 1.137-acre lot with heated pool/spa; sqft varies by source (3,354-3,481), MLS A4653218/A4704317"
   }
 ]
