@@ -1034,5 +1034,35 @@
     "url": "https://www.redfin.com/FL/Osprey/296-Pine-Ranch-Trl-34229/home/47683738",
     "first_seen": "2026-09-13",
     "note": "Pine Ranch East (26-home enclave, no HOA fees), 1.137-acre lot with heated pool/spa; sqft varies by source (3,354-3,481), MLS A4653218/A4704317"
+  },
+  {
+    "address": "Undisclosed Address, Osprey, FL 34229",
+    "price": 799000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2607,
+    "url": "https://www.redfin.com/FL/Osprey/Undisclosed-address-34229/home/47836636",
+    "first_seen": "2026-09-13",
+    "note": "MLS A4699089, Park Trace Estates, extensively remodeled with $200k+ in upgrades, new roof, heated saltwater pool; seller has kept exact street address undisclosed"
+  },
+  {
+    "address": "19160 Bordeaux Court, Venice, FL 34293",
+    "price": 425597,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2032,
+    "url": "https://cdn.lennar.net/new-homes/florida/sarasota-manatee/venice/antigua-at-wellen-park/venice/6588600131",
+    "first_seen": "2026-09-13",
+    "note": "Lennar 'Trevi' plan quick move-in home, Antigua at Wellen Park gated community, HOA ~$294/mo"
+  },
+  {
+    "address": "277 Villoresi Boulevard, Nokomis, FL 34275",
+    "price": 699900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2023,
+    "url": "https://www.sellingtheflcoast.com/property/24-A4683565-277-villoresi-boulevard-nokomis-FL-34275",
+    "first_seen": "2026-09-13",
+    "note": "MLS A4683565, Toscana Isles, Delray floor plan built 2022, heated pool/spa, corner lot with lake views, 3-car garage; open house held recently"
   }
 ]
