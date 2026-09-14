@@ -1064,5 +1064,35 @@
     "url": "https://www.sellingtheflcoast.com/property/24-A4683565-277-villoresi-boulevard-nokomis-FL-34275",
     "first_seen": "2026-09-13",
     "note": "MLS A4683565, Toscana Isles, Delray floor plan built 2022, heated pool/spa, corner lot with lake views, 3-car garage; open house held recently"
+  },
+  {
+    "address": "655 N Clermont Road, Venice, FL 34292",
+    "price": 1295000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3680,
+    "url": "https://www.redfin.com/FL/Venice/655-N-Clermont-Rd-34292/home/47704700",
+    "first_seen": "2026-09-14",
+    "note": "Venice Farms, 7-acre open-use zoned lot near Fox Lea Farm, built 1986, renovated with new standing seam roof and saltwater pool, listed Aug 13 2026; exact list price uncertain, sources show range ~$1,295,000-$1,595,000 and sqft 3,680-4,000"
+  },
+  {
+    "address": "17824 Broadleaf Loop, Venice, FL 34293",
+    "price": 591768,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2813,
+    "url": "https://opalhomesgroup.com/listing/mfrmls/R4909980/VENICE/17700-BROADLEAF-LOOP/",
+    "first_seen": "2026-09-14",
+    "note": "MLS R4911976, Palmera at Wellen Park by M/I Homes, new construction quick move-in; a nearby source showed a higher $775,000 figure, verify exact price/model before pursuing"
+  },
+  {
+    "address": "5 Debrita Road, North Port, FL 34291",
+    "price": 395000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1990,
+    "url": "https://www.buythesuncoast.com/home-details/5-debrita-rd-/mfra4641678",
+    "first_seen": "2026-09-14",
+    "note": "MLS A4641678, British West Indies style new construction, impact windows, luxury vinyl plank flooring"
   }
 ]
