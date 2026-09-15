@@ -1114,5 +1114,14 @@
     "url": "https://www.trulia.com/home/3259-langmaid-ave-north-port-fl-34288-99855255",
     "first_seen": "2026-09-14",
     "note": "MLS O6433461; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
+  },
+  {
+    "address": "861 Nectar Rd, Venice, FL 34293",
+    "price": 699999,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2900,
+    "url": "https://www.redfin.com/FL/Venice/861-Nectar-Rd-34293/home/47730537",
+    "first_seen": "2026-09-15"
   }
 ]
