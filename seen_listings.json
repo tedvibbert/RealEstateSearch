@@ -1123,5 +1123,95 @@
     "sqft": 2900,
     "url": "https://www.redfin.com/FL/Venice/861-Nectar-Rd-34293/home/47730537",
     "first_seen": "2026-09-15"
+  },
+  {
+    "address": "24413 Bandoni Place, Venice, FL 34293",
+    "price": 469000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1821,
+    "url": "https://www.redfin.com/FL/Venice/24413-Bandoni-Pl-34293/home/104242382",
+    "first_seen": "2026-09-15",
+    "note": "MLS A4697643, Rapalo gated community, built 2016, low HOA, X flood zone"
+  },
+  {
+    "address": "9505 Vibrant Lane, Venice, FL 34292",
+    "price": 464270,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2116,
+    "url": "https://www.mihomes.com/new-homes/florida/southwest-florida/venice/brighton/captiva-plan/9505-vibrant-lane",
+    "first_seen": "2026-09-15",
+    "note": "M/I Homes 'Captiva' plan, Brighton community, new construction; bath count uncertain across sources (2-3)"
+  },
+  {
+    "address": "156 Daylily Boulevard, North Venice, FL 34275",
+    "price": 679900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2596,
+    "url": "https://www.tollbrothers.com/luxury-homes-for-sale/Florida/Toll-Brothers-at-Venice-Woodlands/Quick-Move-In/264035",
+    "first_seen": "2026-09-15",
+    "note": "Toll Brothers 'Sanderling Craftsman' quick move-in home, Venice Woodlands, 3-car garage"
+  },
+  {
+    "address": "15532 Foxtail Lane, Nokomis, FL 34275",
+    "price": 566559,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2394,
+    "url": "https://www.edouardrealestate.com/homes-for-sale/FL/nokomis/34275/15532_foxtail_lane/bid-30-A4678575",
+    "first_seen": "2026-09-15",
+    "note": "New construction, Vistera of Venice (Neal Communities/Taylor Morrison); exact list price uncertain, sources show range ~$566,559-$583,559"
+  },
+  {
+    "address": "608 Gardenia Drive, Venice, FL 34285",
+    "price": 1570000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3364,
+    "url": "https://www.zillow.com/homedetails/608-Gardenia-Dr-Venice-FL-34285/",
+    "first_seen": "2026-09-15",
+    "note": "Golden Beach neighborhood, Venice Island, Prairie-style architecture; exact list price uncertain, sources show range ~$1,570,000-$1,699,000, verify before pursuing"
+  },
+  {
+    "address": "1129 Riviera Street, Venice, FL 34285",
+    "price": 980000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1766,
+    "url": "https://www.zillow.com/homedetails/1129-Riviera-St-Venice-FL-34285/47563550_zpid/",
+    "first_seen": "2026-09-15",
+    "note": "MLS A4690799, Venice Island, fully renovated, heated pool, private deeded beach access"
+  },
+  {
+    "address": "10475 Medjool Drive, Venice, FL 34293",
+    "price": 760000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://www.redfin.com/FL/Venice/10475-Medjool-Dr-34293/home/144609942",
+    "first_seen": "2026-09-15",
+    "note": "Sarasota National; one source shows an older 2023 sale at $650,000 - verify this is a current active listing before pursuing"
+  },
+  {
+    "address": "3228 Marita Avenue, North Port, FL 34286",
+    "price": 344400,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1721,
+    "url": "https://www.trulia.com/",
+    "first_seen": "2026-09-15",
+    "note": "Found via search snippet, listed very recently; no confirmed direct listing page URL - verify current status before pursuing"
+  },
+  {
+    "address": "2842 Dumont Lane, North Port, FL 34286",
+    "price": 340000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2002,
+    "url": "https://www.trulia.com/",
+    "first_seen": "2026-09-15",
+    "note": "Found via search snippet, pool and screened lanai, move-in ready; no confirmed direct listing page URL - verify current status before pursuing"
   }
 ]
