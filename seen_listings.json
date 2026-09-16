@@ -1213,5 +1213,55 @@
     "url": "https://www.trulia.com/",
     "first_seen": "2026-09-15",
     "note": "Found via search snippet, pool and screened lanai, move-in ready; no confirmed direct listing page URL - verify current status before pursuing"
+  },
+  {
+    "address": "3783 Cordova Terrace, North Port, FL 34291",
+    "price": 359900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1810,
+    "url": "https://virtualhomesrealty.com/listing-detail/1185700162/3783-CORDOVA-TER-North-Port-FL",
+    "first_seen": "2026-09-16",
+    "note": "MLS TB8527876, built 2025; exact list price uncertain, sources show range ~$329,900-$359,900"
+  },
+  {
+    "address": "2713 Embassy Road, North Port, FL 34291",
+    "price": 399000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1824,
+    "url": "https://www.zillow.com/homedetails/2713-Embassy-Rd-North-Port-FL-34291/99875618_zpid/",
+    "first_seen": "2026-09-16",
+    "note": "MLS A4659723/C7528119, built 2023; exact list price uncertain, sources show range ~$379,900-$399,000"
+  },
+  {
+    "address": "1274 Ronald Street, North Port, FL 34286",
+    "price": 449900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2401,
+    "url": "https://www.annamariahomes.com/homes/1274-Ronald-Street/North-Port/FL/34286/179919422/",
+    "first_seen": "2026-09-16",
+    "note": "MLS A4701966, new construction built 2026"
+  },
+  {
+    "address": "3789 Cinderella Road, North Port, FL 34286",
+    "price": 395000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2132,
+    "url": "https://www.zillow.com/homedetails/3789-Cinderella-Rd-North-Port-FL-34286/99837204_zpid/",
+    "first_seen": "2026-09-16",
+    "note": "MLS N6139723; exact list price/sqft uncertain across sources (price $349,999-$395,000, sqft 1,835-2,132)"
+  },
+  {
+    "address": "312 Bayshore Road, Nokomis, FL 34275",
+    "price": 1200000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2351,
+    "url": "https://www.redfin.com/FL/Nokomis/312-Bayshore-Rd-34275/home/47688682",
+    "first_seen": "2026-09-16",
+    "note": "This is a duplex/multi-family property (two units), not a standard single-family home - verify it fits before pursuing; exact list price uncertain, sources show range ~$1,100,000-$1,200,000; short walk to beach, resort-style heated pool"
   }
 ]
