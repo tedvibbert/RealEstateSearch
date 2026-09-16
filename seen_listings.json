@@ -1263,5 +1263,25 @@
     "url": "https://www.redfin.com/FL/Nokomis/312-Bayshore-Rd-34275/home/47688682",
     "first_seen": "2026-09-16",
     "note": "This is a duplex/multi-family property (two units), not a standard single-family home - verify it fits before pursuing; exact list price uncertain, sources show range ~$1,100,000-$1,200,000; short walk to beach, resort-style heated pool"
+  },
+  {
+    "address": "620 Nasturtium Court, Nokomis, FL 34275",
+    "price": 599000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2333,
+    "url": "https://www.zillow.com/homedetails/620-Nasturtium-Ct-Nokomis-FL-34275/2056479434_zpid/",
+    "first_seen": "2026-09-16",
+    "note": "MLS A4651556, Venice Woodlands Ph 2B, built 2023, gated community with clubhouse/fitness center/pool; exact list price uncertain, sources show range ~$585,000-$599,000"
+  },
+  {
+    "address": "4110 Union Lane, North Port, FL 34288",
+    "price": 391300,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2169,
+    "url": "https://www.zillow.com/homedetails/4110-Union-Ln-North-Port-FL-34288/462661817_zpid/",
+    "first_seen": "2026-09-16",
+    "note": "MLS A4693600, new construction/under construction; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
   }
 ]
