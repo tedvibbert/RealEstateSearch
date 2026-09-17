@@ -1373,5 +1373,25 @@
     "sqft": 1856,
     "url": "https://rocket.com/homes/listings/7724-swiss-ave-n-port-fl-34291",
     "first_seen": "2026-09-17"
+  },
+  {
+    "address": "810 Carnoustie Dr, Venice, FL 34293",
+    "price": 870000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 3529,
+    "url": "https://www.redfin.com/FL/Venice/810-Carnoustie-Dr-34293/home/47721954",
+    "first_seen": "2026-09-17",
+    "note": "MLS N6142889, gated Plantation Woods community at Plantation Golf & Country Club; one source showed a higher $995,000 figure, verify current price before pursuing"
+  },
+  {
+    "address": "13885 Vancanza Dr, Venice, FL 34293",
+    "price": 709000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2251,
+    "url": "https://www.theagencyre.com/listing/3923370-vancanza-dr-Gran-Paradiso-North-Port-FL-34293",
+    "first_seen": "2026-09-17",
+    "note": "Lennar 'Princeton II' model, Gran Paradiso community, built 2019, heated saltwater pool, 3-car garage"
   }
 ]
