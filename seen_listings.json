@@ -1283,5 +1283,95 @@
     "url": "https://www.zillow.com/homedetails/4110-Union-Ln-North-Port-FL-34288/462661817_zpid/",
     "first_seen": "2026-09-16",
     "note": "MLS A4693600, new construction/under construction; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
+  },
+  {
+    "address": "617 Mistiflower Cir, North Venice, FL 34275",
+    "price": 939000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2808,
+    "url": "https://www.remax.com/luxury/fl/nokomis/home-details/617-mistiflower-cir-nokomis-fl-34275/11118256115658223357/M00000146/A4691699",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "101 Portofino Dr, North Venice, FL 34275",
+    "price": 1099999,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 3463,
+    "url": "https://www.redfin.com/FL/North-Venice/101-Portofino-Dr-34275/home/47592397",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "1254 Cielo Court, North Venice, FL 34275",
+    "price": 615000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2576,
+    "url": "https://www.compass.com/listing/1254-cielo-court-north-venice-fl-34275/1806532339228619865/",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "218 Pesaro Drive, North Venice, FL 34275",
+    "price": 1025000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3312,
+    "url": "https://www.topsarasotahomesforsale.com/listings/TB8377571",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "12540 Canavese Ln, Venice, FL 34293",
+    "price": 636000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://www.redfin.com/FL/Venice/12540-Canavese-Ln-34293/home/105427763",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "12736 Richezza Dr, Venice, FL 34293",
+    "price": 470900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2032,
+    "url": "https://www.redfin.com/FL/Venice/12736-Richezza-Dr-34293/home/92909274",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "12600 Richezza Dr, Venice, FL 34293",
+    "price": 425000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2552,
+    "url": "https://www.trulia.com/home/12600-richezza-dr-venice-fl-34293-126001452",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "17577 Foxtail Loop, Venice, FL 34293",
+    "price": 839990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2506,
+    "url": "https://www.davidweekleyhomes.com/new-homes/fl/tampa/venice/palmera-at-wellen-park",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "13430 Attaviano St, Venice, FL 34293",
+    "price": 605000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2537,
+    "url": "https://www.coldwellbanker.com/fl/venice/13430-attaviano-st/lid-P00800000HD4uaFB0gEMBPQwKqwl2uStnJFShWNo",
+    "first_seen": "2026-09-17"
+  },
+  {
+    "address": "7724 Swiss Ave, North Port, FL 34291",
+    "price": 443253,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1856,
+    "url": "https://rocket.com/homes/listings/7724-swiss-ave-n-port-fl-34291",
+    "first_seen": "2026-09-17"
   }
 ]
