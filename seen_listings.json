@@ -1393,5 +1393,41 @@
     "url": "https://www.theagencyre.com/listing/3923370-vancanza-dr-Gran-Paradiso-North-Port-FL-34293",
     "first_seen": "2026-09-17",
     "note": "Lennar 'Princeton II' model, Gran Paradiso community, built 2019, heated saltwater pool, 3-car garage"
+  },
+  {
+    "address": "11225 Blissby St, Venice, FL 34293",
+    "price": 1595000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3753,
+    "url": "https://www.redfin.com/FL/Venice/11225-Blissby-St-34293/home/194133567",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "address": "1129 Riviera St, Venice, FL 34285",
+    "price": 980000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1766,
+    "url": "https://www.zillow.com/homedetails/1129-Riviera-St-Venice-FL-34285/47563550_zpid/",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "address": "1998 Embassy Rd, North Port, FL 34291",
+    "price": 379000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2096,
+    "url": "https://thecuervoteam.com/listing-detail/1172201660/1998-EMBASSY-RD-North-Port-FL",
+    "first_seen": "2026-09-18"
+  },
+  {
+    "address": "2828 Shalimar Ter, North Port, FL 34286",
+    "price": 349900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2052,
+    "url": "https://www.dwellingwell.com/property/2828-shalimar-terrace-north-port-fl-34286/pid-26154462/",
+    "first_seen": "2026-09-18"
   }
 ]
