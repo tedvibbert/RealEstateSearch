@@ -1429,5 +1429,14 @@
     "sqft": 2052,
     "url": "https://www.dwellingwell.com/property/2828-shalimar-terrace-north-port-fl-34286/pid-26154462/",
     "first_seen": "2026-09-18"
+  },
+  {
+    "address": "2105 Bennett Lane, North Port, FL 34288",
+    "price": 690000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2062,
+    "url": "https://www.coldwellbanker.com/fl/north-port/2105-bennett-ln/lid-P00800000H8obNxOYJzZllBKSSi9psgmSMMuEL4o",
+    "first_seen": "2026-09-18"
   }
 ]
