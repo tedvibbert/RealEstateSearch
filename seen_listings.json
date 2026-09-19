@@ -1465,5 +1465,14 @@
     "sqft": 1810,
     "url": "https://www.zillow.com/homedetails/1028-Connie-St-North-Port-FL-34288/463562423_zpid/",
     "first_seen": "2026-09-19"
+  },
+  {
+    "address": "352 Lake Rd, Venice, FL 34293",
+    "price": 360000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2512,
+    "url": "https://www.redfin.com/FL/Venice/352-Lake-Rd-34293/home/47718012",
+    "first_seen": "2026-09-19"
   }
 ]
