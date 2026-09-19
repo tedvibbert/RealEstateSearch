@@ -1438,5 +1438,32 @@
     "sqft": 2062,
     "url": "https://www.coldwellbanker.com/fl/north-port/2105-bennett-ln/lid-P00800000H8obNxOYJzZllBKSSi9psgmSMMuEL4o",
     "first_seen": "2026-09-18"
+  },
+  {
+    "address": "7004 Foxboro Way, Nokomis, FL 34275",
+    "price": 588221,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2582,
+    "url": "https://www.redfin.com/city/24390/FL/Nokomis/new-homes",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "address": "5666 Granito Ave, North Port, FL 34291",
+    "price": 476000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2078,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/granito-ave/pid_55913295/",
+    "first_seen": "2026-09-19"
+  },
+  {
+    "address": "1028 Connie St, North Port, FL 34288",
+    "price": 304000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1810,
+    "url": "https://www.zillow.com/homedetails/1028-Connie-St-North-Port-FL-34288/463562423_zpid/",
+    "first_seen": "2026-09-19"
   }
 ]
