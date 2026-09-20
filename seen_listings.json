@@ -1510,5 +1510,68 @@
     "sqft": 1990,
     "url": "https://www.ipre.com/property/24-A4641624-36-Gilbert-Street-North-Port-FL-34288/",
     "first_seen": "2026-09-20"
+  },
+  {
+    "address": "1684 Lugano Circle, Nokomis, FL 34275",
+    "price": 1099000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3174,
+    "url": "https://www.sarasotarealestatepro.com/idx/listing/FL-MID/N6145002/1684-LUGANO-CIRCLE-Nokomis-FL-34275",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "18840 Valleta Ave, Venice, FL 34293",
+    "price": 1015000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2762,
+    "url": "https://www.redfin.com/FL/Venice/18840-Valleta-Ave-34293/home/178938539",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "1417 Landview Lane, Osprey, FL 34229",
+    "price": 1399000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3255,
+    "url": "https://www.zillow.com/osprey-fl-34229/houses/",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "12492 Davie Ct, Venice, FL 34293",
+    "price": 1195000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2868,
+    "url": "https://www.zillow.com/homedetails/12492-Davie-Ct-Venice-FL-34293/305879461_zpid/",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "442 Tremingham Way, Venice, FL 34293",
+    "price": 1290000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3479,
+    "url": "https://www.zillow.com/homedetails/442-Tremingham-Way-Venice-FL-34293/47570149_zpid/",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "2173 Weaver Bird Lane, Venice, FL 34292",
+    "price": 524900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2005,
+    "url": "https://thewiszteam.com/listing/mid-florida/2173-weaver-bird-lane-venice-fl-34292/TB8517419",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "1241 Creek Nine Dr, North Port, FL 34291",
+    "price": 599999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2714,
+    "url": "https://www.bhhsfloridaproperties.com/property/24-D6144947-1241-Creek-Nine-Drive-North-Port-FL-34291",
+    "first_seen": "2026-09-20"
   }
 ]
