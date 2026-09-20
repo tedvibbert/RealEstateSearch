@@ -1474,5 +1474,41 @@
     "sqft": 2512,
     "url": "https://www.redfin.com/FL/Venice/352-Lake-Rd-34293/home/47718012",
     "first_seen": "2026-09-19"
+  },
+  {
+    "address": "11542 Blackfin Street, Venice, FL 34292",
+    "price": 575000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2422,
+    "url": "https://www.redfin.com/FL/Venice/11542-Blackfin-St-34292/home/110293242",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "10720 Tarflower Drive, Venice, FL 34293",
+    "price": 1185000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2548,
+    "url": "https://www.redfin.com/FL/VENICE/10720-TARFLOWER-DR-34293/home/170103616",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "3843 San Mateo Drive, North Port, FL 34288",
+    "price": 359900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1859,
+    "url": "https://www.zillow.com/homedetails/3843-San-Mateo-Dr-North-Port-FL-34288/99856626_zpid/",
+    "first_seen": "2026-09-20"
+  },
+  {
+    "address": "36 Gilbert Street, North Port, FL 34288",
+    "price": 395000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1990,
+    "url": "https://www.ipre.com/property/24-A4641624-36-Gilbert-Street-North-Port-FL-34288/",
+    "first_seen": "2026-09-20"
   }
 ]
