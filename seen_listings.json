@@ -1,5 +1,14 @@
 [
   {
+    "address": "2535 Trico Road, North Port, FL 34287",
+    "price": 530000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1948,
+    "url": "https://www.zillow.com/homedetails/2535-Trico-Rd-North-Port-FL-34287/99877103_zpid/",
+    "first_seen": "2026-09-21"
+  },
+  {
     "address": "2322 Bayshore Road, Nokomis, FL 34275",
     "price": 1995000,
     "beds": 4,
