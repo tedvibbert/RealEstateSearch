@@ -1591,5 +1591,50 @@
     "sqft": 2714,
     "url": "https://www.bhhsfloridaproperties.com/property/24-D6144947-1241-Creek-Nine-Drive-North-Port-FL-34291",
     "first_seen": "2026-09-20"
+  },
+  {
+    "address": "11141 Pinot Dr, Venice, FL 34293",
+    "price": 566201,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2032,
+    "url": "https://www.lennar.com/new-homes/florida/sarasota-manatee/venice/lakespur-at-wellen-park/trevi",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "address": "15317 Isla Palma Ln, Nokomis, FL 34275",
+    "price": 639900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2403,
+    "url": "https://www.redfin.com/FL/Nokomis/15317-Isla-Palma-Ln-34275/home/184614315",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "address": "515 Sun Chaser Drive, Nokomis, FL 34275",
+    "price": 620470,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.meritagehomes.com/state/fl/tampa/magnolia-bay-reserve-series",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "address": "2137 Kamsler Ave, North Port, FL 34286",
+    "price": 455827,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2786,
+    "url": "https://www.zillow.com/homedetails/2137-Kamsler-Ave-North-Port-FL-34286/99795287_zpid/",
+    "first_seen": "2026-09-22"
+  },
+  {
+    "address": "3113 Jollivette Rd, North Port, FL 34288",
+    "price": 384900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2079,
+    "url": "https://www.estately.com/listings/info/jollivette-road",
+    "first_seen": "2026-09-22"
   }
 ]
