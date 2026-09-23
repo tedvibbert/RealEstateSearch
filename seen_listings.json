@@ -1654,5 +1654,45 @@
     "sqft": 2068,
     "url": "https://www.zillow.com/homedetails/1405-Strada-D-Argento-Venice-FL-34292/47553421_zpid/",
     "first_seen": "2026-09-23"
+  },
+  {
+    "address": "12424 Destin Loop, Venice, FL 34293",
+    "price": 1003990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2907,
+    "url": "https://www.zillow.com/homedetails/12424-Destin-Loop-Venice-FL-34293/305879368_zpid/",
+    "first_seen": "2026-09-23",
+    "note": "Grand Palm community, Neal Communities Kiawah plan, quick move-in new construction; one source showed a higher ,018,990 figure for a 4bd/4ba/3783sqft variant at this address"
+  },
+  {
+    "address": "1787 Kilruss Dr, Venice, FL 34292",
+    "price": 600000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2465,
+    "url": "https://www.zillow.com/homedetails/1787-Kilruss-Dr-Venice-FL-34292/47552508_zpid/",
+    "first_seen": "2026-09-23",
+    "note": "MLS N6143213, Waterford community, built 1995, listed by Michael Saunders & Company"
+  },
+  {
+    "address": "11111 Pinot Dr, Venice, FL 34293",
+    "price": 465597,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2032,
+    "url": "https://cdn.lennar.net/new-homes/florida/sarasota-manatee/venice/antigua-at-wellen-park/trevi",
+    "first_seen": "2026-09-23",
+    "note": "Lennar Trevi plan, Antigua at Wellen Park; address found via aggregator snippet alongside sibling addresses 11123/11141 Pinot Dr on the same street - verify exact address before pursuing"
+  },
+  {
+    "address": "6127 Otis Rd, North Port, FL 34287",
+    "price": 370000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2206,
+    "url": "https://www.zillow.com/homedetails/6127-Otis-Rd-North-Port-FL-34287/47599949_zpid/",
+    "first_seen": "2026-09-23",
+    "note": "MLS C7512184; conflicting status across sources (one aggregator shows it as sold) - verify current active status before pursuing"
   }
 ]
