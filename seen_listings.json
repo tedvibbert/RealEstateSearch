@@ -1704,5 +1704,75 @@
     "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes",
     "first_seen": "2026-09-24",
     "note": "M/I Homes new construction, Cassata Lakes community (gated, west of I-75 off Laurel Road); no confirmed per-listing URL, sourced from community/model search results - verify exact address and current price before pursuing"
+  },
+  {
+    "address": "5710 Humkey St, North Port, FL 34291",
+    "price": 388900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1696,
+    "url": "https://www.zillow.com/homedetails/5710-Humkey-St-North-Port-FL-34291/99872180_zpid/",
+    "first_seen": "2026-09-24",
+    "note": "MLS TB8342613, recent price reduction"
+  },
+  {
+    "address": "2509 Wyola Avenue, North Port, FL 34286",
+    "price": 350000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1800,
+    "url": "https://thekerin.com/listing-detail/24-A4675842-2509-Wyola-Avenue-North-Port-FL-34286/",
+    "first_seen": "2026-09-24",
+    "note": "MLS A4675842, brand-new never-lived-in home completed 2025; exact list price uncertain, only one source confirmed $350,000"
+  },
+  {
+    "address": "11631 Dancing River Dr, Venice, FL 34292",
+    "price": 534900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2207,
+    "url": "https://www.redfin.com/FL/Venice/11631-Dancing-River-Dr-34292/home/47595962",
+    "first_seen": "2026-09-24",
+    "note": "MLS N6144477, Stoneybrook at Venice, heated pool overlooking preserve; exact list price uncertain, sources show range ~$534,900-$645,000"
+  },
+  {
+    "address": "4512 Ulster Ave, North Port, FL 34287",
+    "price": 739000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3144,
+    "url": "https://www.zillow.com/homedetails/4512-Ulster-Ave-North-Port-FL-34287/47595164_zpid/",
+    "first_seen": "2026-09-24",
+    "note": "MLS A4600602, fully remodeled with new roof, price reduction noted"
+  },
+  {
+    "address": "1289 Oregon Ln, North Port, FL 34286",
+    "price": 549000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2244,
+    "url": "https://www.zillow.com/homedetails/1289-Oregon-Ln-North-Port-FL-34286/99842476_zpid/",
+    "first_seen": "2026-09-24",
+    "note": "MLS O6334434, 'The Port House', newly completed 2025 with private in-law suite; exact list price uncertain, sources show range ~$514,495-$549,000"
+  },
+  {
+    "address": "2309 Pilger Ave, North Port, FL 34286",
+    "price": 369900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2253,
+    "url": "https://www.redfin.com/FL/North-Port/2309-Pilger-Ave-34286/home/47775417",
+    "first_seen": "2026-09-24",
+    "note": "Conflicting bed count across sources (Redfin title shows 4 beds/2 baths, another source shows 3 beds) - verify bedroom count before pursuing"
+  },
+  {
+    "address": "12457 Davie Court, Venice, FL 34293",
+    "price": 1179000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2908,
+    "url": "https://www.redfin.com/FL/Venice/12457-Davie-Ct-34293/",
+    "first_seen": "2026-09-24",
+    "note": "Grand Palm Ph 2C, active new listing"
   }
 ]
