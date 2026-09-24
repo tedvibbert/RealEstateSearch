@@ -1694,5 +1694,15 @@
     "url": "https://www.zillow.com/homedetails/6127-Otis-Rd-North-Port-FL-34287/47599949_zpid/",
     "first_seen": "2026-09-23",
     "note": "MLS C7512184; conflicting status across sources (one aggregator shows it as sold) - verify current active status before pursuing"
+  },
+  {
+    "address": "2064 Varese Street, Nokomis, FL 34275",
+    "price": 799999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2579,
+    "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes",
+    "first_seen": "2026-09-24",
+    "note": "M/I Homes new construction, Cassata Lakes community (gated, west of I-75 off Laurel Road); no confirmed per-listing URL, sourced from community/model search results - verify exact address and current price before pursuing"
   }
 ]
