@@ -1774,5 +1774,59 @@
     "url": "https://www.redfin.com/FL/Venice/12457-Davie-Ct-34293/",
     "first_seen": "2026-09-24",
     "note": "Grand Palm Ph 2C, active new listing"
+  },
+  {
+    "address": "4627 Schoen St, North Port, FL 34291",
+    "price": 389900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1779,
+    "url": "https://www.zillow.com/homedetails/4627-Schoen-St-North-Port-FL-34291/337159488_zpid/",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "address": "2355 Ribble St, North Port, FL 34291",
+    "price": 499000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1942,
+    "url": "https://www.paradiseexclusive.com/details.php?mls=24&mlsid=N6132138",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "address": "4135 Geoffrey St, North Port, FL 34291",
+    "price": 374999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1773,
+    "url": "https://www.zillow.com/homedetails/4135-Geoffrey-St-North-Port-FL-34291/456834666_zpid/",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "address": "2551 Averland Loop, North Port, FL 34287",
+    "price": 360000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1835,
+    "url": "https://www.land.com/property/2551-averland-loop-north-port-florida-34287/25031596/",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "address": "2419 Roxbury Cir, North Port, FL 34287",
+    "price": 210000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1516,
+    "url": "https://www.redfin.com/FL/North-Port/2419-Roxbury-Cir-34287/home/47771623",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "address": "13238 Famiglia Drive, Venice, FL 34293",
+    "price": 629000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2254,
+    "url": "https://www.barclaysrealestategroup.net/property/24-A4684623-13238-famiglia-drive-venice-FL-34293",
+    "first_seen": "2026-09-25"
   }
 ]
