@@ -1828,5 +1828,34 @@
     "sqft": 2254,
     "url": "https://www.barclaysrealestategroup.net/property/24-A4684623-13238-famiglia-drive-venice-FL-34293",
     "first_seen": "2026-09-25"
+  },
+  {
+    "address": "13350 Campanile Ct, Venice, FL 34293",
+    "price": 1075000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2795,
+    "url": "https://www.redfin.com/FL/Venice/13350-Campanile-Ct-34293/home/47610385",
+    "first_seen": "2026-09-25"
+  },
+  {
+    "address": "20794 Valprato Ct, Venice, FL 34293",
+    "price": 650000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2365,
+    "url": "https://www.zillow.com/homedetails/20794-Valprato-Ct-Venice-FL-34293/250948651_zpid/",
+    "first_seen": "2026-09-25",
+    "note": "list price uncertain, sources show a wide range (~$369K-$775K), likely mixing historical data"
+  },
+  {
+    "address": "12616 Richezza Dr, Venice, FL 34293",
+    "price": 575000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2251,
+    "url": "https://www.redfin.com/FL/Venice/12616-Richezza-Dr-34293/home/105427766",
+    "first_seen": "2026-09-25",
+    "note": "bedroom count uncertain, some sources show 3 beds/3 baths for this address"
   }
 ]
