@@ -1907,5 +1907,15 @@
     "url": "https://www.zillow.com/homedetails/13785-Tomaro-St-Venice-FL-34293/242998543_zpid/",
     "first_seen": "2026-09-26",
     "note": "MLS A4668037, Islandwalk at the West Villages, 'Tangerly Oak' model, built 2019; one source listed 3bd/2.5ba - verify bed count before pursuing"
+  },
+  {
+    "address": "5438 Cold Spring Lane, North Port, FL 34291",
+    "price": 975000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3312,
+    "url": "https://www.raveis.com/prop/C7524928/5438-cold-spring-lane-north-port-fl-34291",
+    "first_seen": "2026-09-26",
+    "note": "MLS C7524928, North Port Estates, built 2002, on nearly 4 acres behind private gate; sources show price range $875,000-$975,000; North Port Estates acreage area - drive time to school may be closer to 20-25 min, verify before pursuing"
   }
 ]
