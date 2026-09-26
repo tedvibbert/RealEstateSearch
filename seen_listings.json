@@ -1857,5 +1857,55 @@
     "url": "https://www.redfin.com/FL/Venice/12616-Richezza-Dr-34293/home/105427766",
     "first_seen": "2026-09-25",
     "note": "bedroom count uncertain, some sources show 3 beds/3 baths for this address"
+  },
+  {
+    "address": "12457 Davie Ct, Venice, FL 34293",
+    "price": 1179000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2908,
+    "url": "https://www.movoto.com/venice-fl/12457-davie-ct-venice-fl-34293/",
+    "first_seen": "2026-09-26",
+    "note": "MLS N6143213, Grand Palm Ph 2C; no single confirmed direct listing page URL, verify current status before pursuing"
+  },
+  {
+    "address": "1975 White Feather Ln, Nokomis, FL 34275",
+    "price": 775000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2404,
+    "url": "https://www.zillow.com/homedetails/1975-White-Feather-Ln-Nokomis-FL-34275/47549696_zpid/",
+    "first_seen": "2026-09-26",
+    "note": "Calusa Lakes, built 1996, on market ~15 days as of this run"
+  },
+  {
+    "address": "20909 Loggia Ct, Venice, FL 34293",
+    "price": 699900,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2668,
+    "url": "https://www.zillow.com/homedetails/20909-Loggia-Ct-Venice-FL-34293/99773616_zpid/",
+    "first_seen": "2026-09-26",
+    "note": "Estate home backing to Gopher Tortoise Preserve, built 2014; exact list price uncertain, sources show range ~$679,900-$749,900"
+  },
+  {
+    "address": "13012 Rinella St, Venice, FL 34293",
+    "price": 630000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1997,
+    "url": "https://www.zillow.com/homedetails/13012-Rinella-St-Venice-FL-34293/305880072_zpid/",
+    "first_seen": "2026-09-26",
+    "note": "MLS A4669492, Islandwalk at the West Villages, built 2021, water view lot"
+  },
+  {
+    "address": "13785 Tomaro St, Venice, FL 34293",
+    "price": 885000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2757,
+    "url": "https://www.zillow.com/homedetails/13785-Tomaro-St-Venice-FL-34293/242998543_zpid/",
+    "first_seen": "2026-09-26",
+    "note": "MLS A4668037, Islandwalk at the West Villages, 'Tangerly Oak' model, built 2019; one source listed 3bd/2.5ba - verify bed count before pursuing"
   }
 ]
