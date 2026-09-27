@@ -1917,5 +1917,41 @@
     "url": "https://www.raveis.com/prop/C7524928/5438-cold-spring-lane-north-port-fl-34291",
     "first_seen": "2026-09-26",
     "note": "MLS C7524928, North Port Estates, built 2002, on nearly 4 acres behind private gate; sources show price range $875,000-$975,000; North Port Estates acreage area - drive time to school may be closer to 20-25 min, verify before pursuing"
+  },
+  {
+    "address": "309 S Stone Briar Creek Dr, Venice, FL 34292",
+    "price": 1150000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3446,
+    "url": "https://www.redfin.com/FL/Venice/309-Stone-Briar-Creek-Dr-34292/home/47712375",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "address": "176 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 522870,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2574,
+    "url": "https://www.highrises.com/realestateandhomes-detail/176-Shady-Edge-Loop_Nokomis_FL_34275_M93506-07897",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "address": "4409 Lacoco St, North Port, FL 34291",
+    "price": 395999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2111,
+    "url": "https://www.redfin.com/city/12742/FL/North-Port/homes-for-sale-under-400000",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "address": "6571 Starfish Ave, North Port, FL 34291",
+    "price": 395999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2111,
+    "url": "https://www.redfin.com/FL/NORTH-PORT/STARFISH-AVE-34291/home/47754313",
+    "first_seen": "2026-09-27"
   }
 ]
