@@ -1953,5 +1953,50 @@
     "sqft": 2111,
     "url": "https://www.redfin.com/FL/NORTH-PORT/STARFISH-AVE-34291/home/47754313",
     "first_seen": "2026-09-27"
+  },
+  {
+    "address": "733 Laurel Ave, Venice, FL 34285",
+    "price": 349900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1400,
+    "url": "https://www.redfin.com/FL/Venice/733-Laurel-Ave-34285/home/47709838",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "address": "779 Nectar Rd, Venice, FL 34293",
+    "price": 574990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2458,
+    "url": "https://www.zillow.com/homedetails/779-Nectar-Rd-Venice-FL-34293/90163548_zpid/",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "address": "107 Wayforest Drive, Venice, FL 34292",
+    "price": 589900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2331,
+    "url": "https://www.coldwellbankerhomes.com/fl/venice/107-wayforest-dr/pid_64151777/",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "address": "168 Park Trace Blvd, Osprey, FL 34229",
+    "price": 935000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2778,
+    "url": "https://www.redfin.com/FL/Osprey/168-Park-Trace-Blvd-34229/home/47835968",
+    "first_seen": "2026-09-28"
+  },
+  {
+    "address": "524 Oak Bay Drive, Osprey, FL 34229",
+    "price": 749000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2116,
+    "url": "https://www.buysarasota.com/listing/a4627306-524-oak-bay-drive-osprey-fl-34229/",
+    "first_seen": "2026-09-28"
   }
 ]
