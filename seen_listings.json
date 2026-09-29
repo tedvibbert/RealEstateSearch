@@ -1998,5 +1998,45 @@
     "sqft": 2116,
     "url": "https://www.buysarasota.com/listing/a4627306-524-oak-bay-drive-osprey-fl-34229/",
     "first_seen": "2026-09-28"
+  },
+  {
+    "address": "9596 Vibrant Ln, Venice, FL 34292",
+    "price": 474990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2384,
+    "url": "https://www.zillow.com/homedetails/9596-Vibrant-Ln-Venice-FL-34292/443583856_zpid/",
+    "first_seen": "2026-09-29",
+    "note": "New construction, Brighton community by Park Square Residential"
+  },
+  {
+    "address": "13631 Salinas St, Venice, FL 34293",
+    "price": 899500,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3670,
+    "url": "https://www.redfin.com/FL/Venice/13631-Salinas-St-34293/home/47611183",
+    "first_seen": "2026-09-29",
+    "note": "MLS N6144108, former Pinnacle model home with loft in IslandWalk, built 2014, preserve view, cul-de-sac"
+  },
+  {
+    "address": "2020 Calusa Lakes Blvd, Nokomis, FL 34275",
+    "price": 974900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3018,
+    "url": "https://www.zillow.com/homedetails/2020-Calusa-Lakes-Blvd-Nokomis-FL-34275/47549741_zpid/",
+    "first_seen": "2026-09-29",
+    "note": "Updated custom home in Calusa Lakes; one other source showed a conflicting Pending status at ~$695,000 - verify current status before pursuing"
+  },
+  {
+    "address": "3621 Massini Ave, North Port, FL 34286",
+    "price": 365000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2484,
+    "url": "https://www.michaelsaunders.com/properties/property-detail/3621-massini-ave-north-port-fl-34286/D6118623/",
+    "first_seen": "2026-09-29",
+    "note": "Double lot ~0.46 acres; conflicting MLS numbers/prices across sources (D6118623 vs D6148943, $365,000-$385,000, baths listed 2-4) - verify details before pursuing"
   }
 ]
