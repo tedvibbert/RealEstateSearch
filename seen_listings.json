@@ -2038,5 +2038,95 @@
     "url": "https://www.michaelsaunders.com/properties/property-detail/3621-massini-ave-north-port-fl-34286/D6118623/",
     "first_seen": "2026-09-29",
     "note": "Double lot ~0.46 acres; conflicting MLS numbers/prices across sources (D6118623 vs D6148943, $365,000-$385,000, baths listed 2-4) - verify details before pursuing"
+  },
+  {
+    "address": "1533 Olympia Road, Venice, FL 34293",
+    "price": 389900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1552,
+    "url": "https://seaglass.neutrinoinc.com/for-sale/homes/fl-venice-34293-1533-olympia-road-a4624872-1269700",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "979 Kimball Road, Venice, FL 34293",
+    "price": 346000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1309,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/979-kimball-road-venice",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "5659 Equator Court, Nokomis, FL 34275",
+    "price": 599000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2473,
+    "url": "https://investproinc.com/fl/nokomis/sorrento-ph-ii/5659-equator-court/",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "516 Orange Blossom Lane, Nokomis, FL 34275",
+    "price": 707000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2633,
+    "url": "https://seaglass.neutrinoinc.com/print/html/1344436",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "104 Park Trace Boulevard, Osprey, FL 34229",
+    "price": 647000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2557,
+    "url": "https://century21cariotirealestate.com/fl/osprey/park-trace-estates/104-park-trace-boulevard/a4674221/",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "1420 Mackintosh Boulevard, Nokomis, FL 34275",
+    "price": 699000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2771,
+    "url": "https://www.coldwellbanker.com/fl/nokomis/1420-mackintosh-blvd/lid-P00800000HDmIeuOVzxRIcRgDPOm8DRQb2RGX61V",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "352 Toscavilla Boulevard, Nokomis, FL 34275",
+    "price": 597500,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2431,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/352-toscavilla-boulevard-nokomis",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "564 Maraviya Boulevard, Nokomis, FL 34275",
+    "price": 509900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2023,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/564-maraviya-boulevard-nokomis",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "10153 Colubrina Drive, Venice, FL 34293",
+    "price": 699900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://raveis.com/property/flyer/18809933",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "address": "12132 Granite Woods Loop, Venice, FL 34292",
+    "price": 475000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.raveis.com/property/flyer/21353539",
+    "first_seen": "2026-09-29"
   }
 ]
