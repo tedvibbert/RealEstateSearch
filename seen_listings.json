@@ -2188,5 +2188,155 @@
     "url": "https://evemetlis.realgeeks.com/property/TB8527460/",
     "first_seen": "2026-09-30",
     "note": "New construction, built 2026, energy-efficient"
+  },
+  {
+    "address": "1521 Banyan Drive, Venice, FL 34293",
+    "price": 349900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2435,
+    "url": "https://tinaclements.remax.com/property/24-A4687086-1521-banyan-dr-venice-FL-34293",
+    "first_seen": "2026-09-30",
+    "note": "MLS A4687086, Venice Gardens, built 1960, rare 3-car garage, 83 days on market"
+  },
+  {
+    "address": "649 Allora Avenue, Nokomis, FL 34275",
+    "price": 479990,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2434,
+    "url": "https://www.weichert.com/134957734/",
+    "first_seen": "2026-09-30",
+    "note": "David Weekley Homes 'Kingsbridge' plan, new construction, built 2026"
+  },
+  {
+    "address": "188 Daylily Boulevard, Nokomis, FL 34275",
+    "price": 512000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1888,
+    "url": "https://2myfloridabroker.realgeeks.com/property/A4688568/",
+    "first_seen": "2026-09-30",
+    "note": "MLS A4688568, built 2022, 4BR plus den with water view, Venice Woodlands community, 131 days on market with recent $8k price cut"
+  },
+  {
+    "address": "100 Gentle Rain Lane, Nokomis, FL 34275",
+    "price": 415360,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1840,
+    "url": "https://mybrokerone.com/en/homedetails/single-family-residence-100-gentle-rain-nokomis-fl-34275-TB8526949",
+    "first_seen": "2026-09-30",
+    "note": "MLS TB8526949, new construction 'Foxglove' floorplan, under construction, available by Sept 2026"
+  },
+  {
+    "address": "403 Longbow Trail, Osprey, FL 34229",
+    "price": 1095000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2770,
+    "url": "https://www.raveis.com/property/flyer/21076556",
+    "first_seen": "2026-09-30",
+    "note": "MLS A4672081, Pine Ranch, built 1978, on 2-acre lot with pool and in-law suite, ~15 min from Nokomis Beach"
+  },
+  {
+    "address": "5436 Jessamine Avenue, North Port, FL 34291",
+    "price": 424900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2138,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/5436-jessamine-avenue-north-port",
+    "first_seen": "2026-09-30",
+    "note": "Farmhouse-style, built 2021, plus den/office, Port Charlotte Sub 18"
+  },
+  {
+    "address": "2888 Shabonne Lane, North Port, FL 34286",
+    "price": 405000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://maxliferealty.com/listings/MFR784553173",
+    "first_seen": "2026-09-30",
+    "note": "Move-in ready pool home, price reduced from $415,000 (status changed 2026-03-17)"
+  },
+  {
+    "address": "400 Marlin Road, Venice, FL 34293",
+    "price": 625000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2331,
+    "url": "https://www.trulia.com/home/400-marlin-rd-venice-fl-34293-99875540",
+    "first_seen": "2026-09-30",
+    "note": "MLS N6145164, built 2021, fully furnished, corner lot, no HOA; exact list price uncertain, one source (Raveis) shows $649,000 vs $625,000 elsewhere; listed very recently"
+  },
+  {
+    "address": "1736 Lugano Circle, Nokomis, FL 34275",
+    "price": 899999,
+    "beds": 4,
+    "baths": 4,
+    "sqft": null,
+    "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes/juniper-plan/1668-lugano-circle",
+    "first_seen": "2026-09-30",
+    "note": "MLS MFRR4910644, Cassata Lakes new construction; sources conflict on sqft (3,119 vs 4,173) and exact price - verify current price/status before pursuing"
+  },
+  {
+    "address": "144 Grand Oak Circle, Venice, FL 34292",
+    "price": 544990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2671,
+    "url": "https://kennewick.homefront.com/homes/fl/venice/property/144-grand-oak-circle-5ea7f6ab-76e3-3063-bf3a-687478a1e268",
+    "first_seen": "2026-09-30",
+    "note": "MLS N6141355, Hidden Lakes Club gated community, built 2000, solar-heated pool, listed 2 days ago"
+  },
+  {
+    "address": "2171 Chenille Court, Venice, FL 34292",
+    "price": 539900,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2644,
+    "url": "https://www.redfin.com/sitemap/18790/FL/Sarasota-County/Venice/street/Chenille+Ct",
+    "first_seen": "2026-09-30",
+    "note": "Gated community, tile floors, Corian countertops; exact current status not fully confirmed - verify before pursuing"
+  },
+  {
+    "address": "3126 Belleville Terrace, North Port, FL 34286",
+    "price": 465000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2401,
+    "url": "https://www.brickellsold.com/en/real-estate/3126-belleville-ter-north-port-fl-34286-a12078991",
+    "first_seen": "2026-09-30",
+    "note": "New construction built 2026, no HOA; configuration is 3BR+den in main residence plus a separate 1BR/1BA in-law suite (4 bedrooms total) - verify this matches a standard 4BR layout before pursuing"
+  },
+  {
+    "address": "1828 Spaniel Avenue, North Port, FL 34288",
+    "price": 361029,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2607,
+    "url": "https://www.bexrealty.com/FL/North-Port/1828-spaniel-avenue/home/MFROM690129",
+    "first_seen": "2026-09-30",
+    "note": "Built 2022, Port Charlotte Sub 33; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
+  },
+  {
+    "address": "4501 Carrizal Terrace, North Port, FL 34288",
+    "price": 376156,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/4501-carrizal-terrace-north-port",
+    "first_seen": "2026-09-30",
+    "note": "New construction, reduced price, move-in ready; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
+  },
+  {
+    "address": "5519 Baker Road, North Port, FL 34288",
+    "price": 374900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/5519-baker-road-north-port",
+    "first_seen": "2026-09-30",
+    "note": "Move-in ready new construction, open/split floor plan with 9'4\" ceilings; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
   }
 ]
