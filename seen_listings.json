@@ -2128,5 +2128,65 @@
     "sqft": null,
     "url": "https://www.raveis.com/property/flyer/21353539",
     "first_seen": "2026-09-29"
+  },
+  {
+    "address": "819 Shadow Bay Way, Osprey, FL 34229",
+    "price": 689000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2145,
+    "url": "https://www.weichert.com/128907748",
+    "first_seen": "2026-09-30",
+    "note": "Rivendell community pool home, built 2002, new 2025 roof; price seen $674,000-$689,000 across sources"
+  },
+  {
+    "address": "2961 Valencia Road, Venice, FL 34293",
+    "price": 525000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2267,
+    "url": "https://seaglass.neutrinoinc.com/print/html/1242268",
+    "first_seen": "2026-09-30",
+    "note": "South Venice, corner lot, pool, access to private beach ferry/boat ramp"
+  },
+  {
+    "address": "100 Outback Hideaway Avenue, Nokomis, FL 34275",
+    "price": 429870,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://evemetlis.realgeeks.com/property/TB8526947/",
+    "first_seen": "2026-09-30",
+    "note": "New construction, built 2026, energy-efficient"
+  },
+  {
+    "address": "153 Canoe Bend Avenue, Nokomis, FL 34275",
+    "price": 389080,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://evemetlis.realgeeks.com/property/TB8527436/",
+    "first_seen": "2026-09-30",
+    "note": "New construction, built 2026, energy-efficient"
+  },
+  {
+    "address": "360 Lazy Shore Drive, Nokomis, FL 34275",
+    "price": 430640,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://evemetlis.realgeeks.com/property/TB8526954/",
+    "first_seen": "2026-09-30",
+    "note": "New construction, built 2026, energy-efficient"
+  },
+  {
+    "address": "105 Outback Hideaway Avenue, Nokomis, FL 34275",
+    "price": 439080,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://evemetlis.realgeeks.com/property/TB8527460/",
+    "first_seen": "2026-09-30",
+    "note": "New construction, built 2026, energy-efficient"
   }
 ]
