@@ -2438,5 +2438,115 @@
     "url": "https://www.homesbymarco.com/properties/19267-kirella-st-venice-fl-34293/4459214",
     "first_seen": "2026-10-01",
     "note": "IslandWalk, Carlyle floor plan, built 2011, turn-key furnished, cul-de-sac with water views"
+  },
+  {
+    "address": "108 Gentle Rain Lane, Nokomis, FL 34275",
+    "price": 454660,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2503,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/108-gentle-rain-lane-nokomis",
+    "first_seen": "2026-10-01",
+    "note": "New construction built 2026, Magnolia Bay community"
+  },
+  {
+    "address": "144 Vistera Boulevard, Nokomis, FL 34275",
+    "price": 649999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2628,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/144-vistera-boulevard-nokomis",
+    "first_seen": "2026-10-01",
+    "note": "MLS R4911521, new construction built 2026, Vistera of Venice community, under construction"
+  },
+  {
+    "address": "121 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 500000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2574,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/121-shady-edge-loop-nokomis",
+    "first_seen": "2026-10-01",
+    "note": "New construction built 2026, Magnolia Bay community"
+  },
+  {
+    "address": "101 Outback Hideaway Avenue, Nokomis, FL 34275",
+    "price": 419040,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1840,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/101-outback-hideaway-avenue-nokomis",
+    "first_seen": "2026-10-01",
+    "note": "New construction built 2026, Magnolia Bay community"
+  },
+  {
+    "address": "112 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 525115,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2830,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/112-shady-edge-loop-nokomis",
+    "first_seen": "2026-10-01",
+    "note": "New construction built 2026, Magnolia Bay community"
+  },
+  {
+    "address": "2197 Nita Ter, North Port, FL 34286",
+    "price": 649000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2257,
+    "url": "https://www.homesbymarco.com/properties/2197-nita-ter-north-port-fl-34286/2507773",
+    "first_seen": "2026-10-01",
+    "note": "Built 2017, waterfront pool home; one source showed 2,970 sqft - verify exact figure before pursuing"
+  },
+  {
+    "address": "1400 Mendavia Terrace, North Port, FL 34286",
+    "price": 429000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 1975,
+    "url": "https://www.bexrealty.com/FL/North-Port/1400-mendavia-terrace/home/MFRO6368951",
+    "first_seen": "2026-10-01",
+    "note": "MLS O6368951, King's Homes 'Crown II' model, under construction, active listing"
+  },
+  {
+    "address": "675 Crane Prairie Way, Osprey, FL 34229",
+    "price": 794000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://seaglass.neutrinoinc.com/print/html/234941",
+    "first_seen": "2026-10-01",
+    "note": "Lee Wetherington Homes build, Willowbend maintenance-free community"
+  },
+  {
+    "address": "825 Oak Briar Lane, Osprey, FL 34229",
+    "price": 750000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://seaglass.neutrinoinc.com/print/html/461650",
+    "first_seen": "2026-10-01",
+    "note": "Wraparound water views; distinct from previously-seen 801 Oak Briar Lane"
+  },
+  {
+    "address": "1011 Creek Nine Drive, North Port, FL 34291",
+    "price": 635000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2710,
+    "url": "https://sanfrancisco.homefront.com/homes/fl/north-port/property/1011-creek-nine-drive-24ed14d1-6c12-3faf-aa64-02cddbcadf39",
+    "first_seen": "2026-10-01",
+    "note": "Built 2005, Heron Creek gated golf course community, gunite pool/spa; zip 34291 drive time to school less certain, may be near upper end of ~20 min range"
+  },
+  {
+    "address": "6065 Tidwell Street, North Port, FL 34291",
+    "price": 648800,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2839,
+    "url": "https://jordanlink.homefront.com/homes/fl/north-port/property/6065-tidwell-street-a7959b2d-2080-347a-8ade-5c55d6874223",
+    "first_seen": "2026-10-01",
+    "note": "North Port Estates, 4.62-acre horse property with barn; distinct from previously-seen 6068 Tidwell St; zip 34291 drive time to school less certain, may be near upper end of ~20 min range"
   }
 ]
