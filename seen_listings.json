@@ -2338,5 +2338,105 @@
     "url": "https://movewithmomentum.com/listings/idx-stellar/5519-baker-road-north-port",
     "first_seen": "2026-09-30",
     "note": "Move-in ready new construction, open/split floor plan with 9'4\" ceilings; zip 34288 is on the more interior/eastern side of North Port, drive time to the school is less certain and may exceed ~20 minutes"
+  },
+  {
+    "address": "17690 Sylvester Drive, Venice, FL 34293",
+    "price": 667990,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2962,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/17690-sylvester-drive-venice",
+    "first_seen": "2026-10-01",
+    "note": "New construction, Palmera at Wellen Park (Lot 116), built 2026, HOA ~$347/mo"
+  },
+  {
+    "address": "12186 Wakulla Place, Venice, FL 34293",
+    "price": 518900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2202,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/12186-wakulla-place-venice",
+    "first_seen": "2026-10-01",
+    "note": "Grand Palm community, built 2014, pond and preserve views"
+  },
+  {
+    "address": "3268 Tishman Avenue, North Port, FL 34286",
+    "price": 354900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.lakehouse.com/3268-tishman-ave-north-port-florida-34286-p7723991.html",
+    "first_seen": "2026-10-01",
+    "note": "Brand new construction, just completed; zip 34286 drive time to school less certain, verify before pursuing"
+  },
+  {
+    "address": "1317 Ringtail Road, Venice, FL 34293",
+    "price": 465000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1800,
+    "url": "https://www.bexrealty.com/FL/Venice/1317-ringtail-road/home/MFRN6145114",
+    "first_seen": "2026-10-01",
+    "note": "South Venice, fully remodeled pool home, built 1972, new 2026 roof, no HOA/CDD"
+  },
+  {
+    "address": "400 Barcelona Avenue, Venice, FL 34285",
+    "price": 929000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2600,
+    "url": "https://www.countrylife.co.uk/international-property/sale/united-states/venice-island/1263409",
+    "first_seen": "2026-10-01",
+    "note": "Venice Island, updated pool home on almost half an acre, few blocks from beach"
+  },
+  {
+    "address": "1099 Nokomis Avenue S, Venice, FL 34285",
+    "price": 1050000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2578,
+    "url": "https://raveis.com/property/flyer/19214862",
+    "first_seen": "2026-10-01",
+    "note": "Venice Island, beach access, pool, built 1959; price reduced from $1,200,000"
+  },
+  {
+    "address": "13356 Verandi Street, Venice, FL 34293",
+    "price": 1200000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3868,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/13356-verandi-street-venice",
+    "first_seen": "2026-10-01",
+    "note": "IslandWalk at the West Villages, built 2020, private pool/spa, 3-car garage, 10 days on market"
+  },
+  {
+    "address": "13631 Salinas Street, Venice, FL 34293",
+    "price": 875000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3670,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/13631-salinas-street-venice",
+    "first_seen": "2026-10-01",
+    "note": "IslandWalk at the West Villages, built 2014, private pool, 3-car garage"
+  },
+  {
+    "address": "13785 Tomaro Street, Venice, FL 34293",
+    "price": 775000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2757,
+    "url": "https://dave.palmparadiserealty.com/property-search/detail/240/N6143620/13785-tomaro-st-venice-fl-34293/",
+    "first_seen": "2026-10-01",
+    "note": "IslandWalk at the West Villages, built 2016, corner lot with long water views"
+  },
+  {
+    "address": "19267 Kirella Street, Venice, FL 34293",
+    "price": 650000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2537,
+    "url": "https://www.homesbymarco.com/properties/19267-kirella-st-venice-fl-34293/4459214",
+    "first_seen": "2026-10-01",
+    "note": "IslandWalk, Carlyle floor plan, built 2011, turn-key furnished, cul-de-sac with water views"
   }
 ]
