@@ -2788,5 +2788,32 @@
     "url": "https://www.brickellsold.com/en/real-estate/7511-blutter-rd-north-port-fl-34291-a12028016",
     "first_seen": "2026-10-03",
     "note": "Brand-new 2026 construction, MLS AX-12028016; 34291 is east North Port, drive time to school may run closer to 20-25 min"
+  },
+  {
+    "address": "5179 Schubert Trail, North Port, FL 34287",
+    "price": 274999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1498,
+    "url": "https://2myfloridabroker.realgeeks.com/property/C7516990/",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "address": "1074 Kacerik Street, North Port, FL 34288",
+    "price": 439900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2000,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/1074-kacerik-street-north-port",
+    "first_seen": "2026-10-03"
+  },
+  {
+    "address": "11360 Dancing River Drive, Venice, FL 34292",
+    "price": 589000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2356,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/11360-dancing-river-drive-venice",
+    "first_seen": "2026-10-03"
   }
 ]
