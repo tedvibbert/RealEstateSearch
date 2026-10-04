@@ -2815,5 +2815,32 @@
     "sqft": 2356,
     "url": "https://movewithmomentum.com/listings/idx-stellar/11360-dancing-river-drive-venice",
     "first_seen": "2026-10-03"
+  },
+  {
+    "address": "136 Vistera Boulevard, Nokomis, FL 34275",
+    "price": 669999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2628,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/136-vistera-boulevard-nokomis",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "134 Da Vinci Drive, Nokomis, FL 34275",
+    "price": 445000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2076,
+    "url": "https://seaglass.neutrinoinc.com/print/html/1411533",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "380 Holly Road, Venice, FL 34293",
+    "price": 559000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1826,
+    "url": "https://www.raveis.com/property/flyer/20009496",
+    "first_seen": "2026-10-04"
   }
 ]
