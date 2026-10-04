@@ -2842,5 +2842,59 @@
     "sqft": 1826,
     "url": "https://www.raveis.com/property/flyer/20009496",
     "first_seen": "2026-10-04"
+  },
+  {
+    "address": "9824 Hilltop Drive, Venice, FL 34292",
+    "price": 485000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://2myfloridabroker.realgeeks.com/property/N6144955/",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "1251 Tuscany Blvd, Venice, FL 34292",
+    "price": 985450,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3102,
+    "url": "https://www.zoocasa.com/venice-fl-real-estate/1251-tuscany-blvd",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "19916 Bridgetown Loop, Venice, FL 34293",
+    "price": 889900,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3021,
+    "url": "https://www.homesbymarco.com/properties/19916-bridgetown-loop-venice-fl-34293/8543508",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "19060 Cabernet Court, Venice, FL 34293",
+    "price": 419000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://2myfloridabroker.realgeeks.com/property/N6143637/",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "18073 Grand Prosperity Drive, Venice, FL 34293",
+    "price": 564900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2209,
+    "url": "https://www.bexrealty.com/FL/Venice/18073-grand-prosperity-drive/home/MFRN6144931",
+    "first_seen": "2026-10-04"
+  },
+  {
+    "address": "8211 Elkenberry Avenue, North Port, FL 34291",
+    "price": 382900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1850,
+    "url": "https://evemetlis.realgeeks.com/property/A4701232/",
+    "first_seen": "2026-10-04"
   }
 ]
