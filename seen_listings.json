@@ -2896,5 +2896,32 @@
     "sqft": 1850,
     "url": "https://evemetlis.realgeeks.com/property/A4701232/",
     "first_seen": "2026-10-04"
+  },
+  {
+    "address": "5813 Regent Road, South Venice, Venice, FL 34293",
+    "price": 498000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1947,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/5813-regent-road-venice",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "address": "1761 Okolona Street, North Port, FL 34287",
+    "price": 650000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2348,
+    "url": "https://www.bexrealty.com/FL/North-Port/1761-okolona-street/home/MFRC7528023",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "address": "3707 Giblin Drive, North Port, FL 34286",
+    "price": 449900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2358,
+    "url": "https://www.lakehouse.com/3707-giblin-dr-north-port-florida-34286-p7229183.html",
+    "first_seen": "2026-10-05"
   }
 ]
