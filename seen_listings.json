@@ -2923,5 +2923,114 @@
     "sqft": 2358,
     "url": "https://www.lakehouse.com/3707-giblin-dr-north-port-florida-34286-p7229183.html",
     "first_seen": "2026-10-05"
+  },
+  {
+    "address": "17690 Sylvester Dr, Venice, FL 34293",
+    "price": 667990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2962,
+    "url": "https://www.houzeo.com/homes/17690-sylvester-dr-venice-fl-34293/hzid_fb8d87c0",
+    "first_seen": "2026-10-05",
+    "note": "New construction 2026, Wellen Park"
+  },
+  {
+    "address": "5813 Regent Road, Venice, FL 34293",
+    "price": 498000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1947,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/5813-regent-road-venice",
+    "first_seen": "2026-10-05",
+    "note": "New construction 2026, South Venice"
+  },
+  {
+    "address": "105 Dartmouth Road, Venice, FL 34293",
+    "price": 464900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1749,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/105-dartmouth-road-venice",
+    "first_seen": "2026-10-05",
+    "note": "Built 2022, South Venice"
+  },
+  {
+    "address": "17698 Sylvester Drive, Venice, FL 34293",
+    "price": 627990,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2429,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/17698-sylvester-drive-venice",
+    "first_seen": "2026-10-05",
+    "note": "Under construction, Palmera at Wellen Park"
+  },
+  {
+    "address": "1521 Banyan Dr, Venice, FL 34293",
+    "price": 369900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2435,
+    "url": "https://investproinc.com/fl/venice/venice-gardens/1521-banyan-dr-/",
+    "first_seen": "2026-10-05",
+    "note": "Built 1960, Venice Gardens, 3-car garage"
+  },
+  {
+    "address": "13349 Verandi St, Venice, FL 34293",
+    "price": 1200000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3863,
+    "url": "https://2myfloridabroker.realgeeks.com/property/A4689745/",
+    "first_seen": "2026-10-05",
+    "note": "IslandWalk at West Villages, built 2020, wine cellar/sauna"
+  },
+  {
+    "address": "3362 Rogue Street, North Port, FL 34291",
+    "price": 329999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1742,
+    "url": "https://colenesmith.c21.com/property/3362-rogue-street-north-port-fl-34291-REN031742838",
+    "first_seen": "2026-10-05"
+  },
+  {
+    "address": "4667 Brasher Ave, North Port, FL 34287",
+    "price": 434900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2002,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/4667-brasher-avenue-north-port",
+    "first_seen": "2026-10-05",
+    "note": "Built 2023"
+  },
+  {
+    "address": "5436 Jessamine Ave, North Port, FL 34291",
+    "price": 424900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2138,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/5436-jessamine-avenue-north-port",
+    "first_seen": "2026-10-05",
+    "note": "Built 2021"
+  },
+  {
+    "address": "564 Maraviya Blvd, Nokomis, FL 34275",
+    "price": 509900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2023,
+    "url": "https://www.houzeo.com/homes/564-maraviya-blvd-nokomis-fl-34275/hzid_a6719b4d",
+    "first_seen": "2026-10-05",
+    "note": "Toscana Isles, built 2021, 3-car garage"
+  },
+  {
+    "address": "352 Toscavilla Blvd, Nokomis, FL 34275",
+    "price": 597500,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2431,
+    "url": "https://www.houzeo.com/homes/352-toscavilla-blvd-nokomis-fl-34275/hzid_cebca81b",
+    "first_seen": "2026-10-05",
+    "note": "Toscana Isles, built 2020"
   }
 ]
