@@ -3082,5 +3082,32 @@
     "url": "https://www.bexrealty.com/FL/Nokomis/120-outback-hideaway-avenue/home/MFRTB8527464",
     "first_seen": "2026-10-06",
     "note": "New construction built 2026, Magnolia Bay community"
+  },
+  {
+    "address": "5604 Blue Reef Place, Nokomis, FL 34275",
+    "price": 639000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2410,
+    "url": "https://kaufmanrealty.com/listings/234300521/5604+BLUE+REEF+PLACE%2C+NOKOMIS%2C+FL+34275",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "address": "2328 Irondale Rd, North Port, FL 34287",
+    "price": 469900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2401,
+    "url": "https://www.brickellsold.com/en/real-estate/2328-irondale-rd-north-port-fl-34287-a12074490",
+    "first_seen": "2026-10-06"
+  },
+  {
+    "address": "1385 Winslow Lane, North Port, FL 34286",
+    "price": 388600,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2265,
+    "url": "https://www.weichert.com/134846296/",
+    "first_seen": "2026-10-06"
   }
 ]
