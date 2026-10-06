@@ -3032,5 +3032,55 @@
     "url": "https://www.houzeo.com/homes/352-toscavilla-blvd-nokomis-fl-34275/hzid_cebca81b",
     "first_seen": "2026-10-05",
     "note": "Toscana Isles, built 2020"
+  },
+  {
+    "address": "180 Vistera Boulevard, Nokomis, FL 34275",
+    "price": 664999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2628,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/180-vistera-boulevard-nokomis",
+    "first_seen": "2026-10-06",
+    "note": "New construction built 2026, Vistera of Venice community, 67 days on market"
+  },
+  {
+    "address": "4638 Clarke Street, North Port, FL 34286",
+    "price": 479999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2171,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/4638-clarke-street-north-port",
+    "first_seen": "2026-10-06",
+    "note": "Built 2020, new 2025 saltwater pool, no HOA/CDD; price reported as 479999-498749 across sources"
+  },
+  {
+    "address": "21238 Chattahoochee Avenue, Venice, FL 34293",
+    "price": 950000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2703,
+    "url": "https://www.bexrealty.com/FL/Venice/21238-chattahoochee-avenue/home/MFRN6144894",
+    "first_seen": "2026-10-06",
+    "note": "EXCLUDED from new-matches report: under contract/accepting backup offers, not strictly active"
+  },
+  {
+    "address": "11909 Hunters Creek Road, Venice, FL 34293",
+    "price": 925000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3164,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/11909-hunters-creek-road-venice",
+    "first_seen": "2026-10-06",
+    "note": "Grand Palm community, built 2019, new saltwater pool/spa, active, 6 days on market"
+  },
+  {
+    "address": "120 Outback Hideaway Avenue, Nokomis, FL 34275",
+    "price": 424340,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2193,
+    "url": "https://www.bexrealty.com/FL/Nokomis/120-outback-hideaway-avenue/home/MFRTB8527464",
+    "first_seen": "2026-10-06",
+    "note": "New construction built 2026, Magnolia Bay community"
   }
 ]
