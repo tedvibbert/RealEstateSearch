@@ -3136,5 +3136,50 @@
     "sqft": 2849,
     "url": "https://seaglass.neutrinoinc.com/print/html/465947",
     "first_seen": "2026-10-07"
+  },
+  {
+    "address": "2713 Embassy Rd, North Port, FL 34291",
+    "price": 379900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1824,
+    "url": "https://www.bexrealty.com/FL/North-Port/2713-embassy-road/home/MFRC7528119",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "address": "9544 Vibrant Ln, Venice, FL 34292",
+    "price": 812310,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2384,
+    "url": "https://maxliferealty.com/listings/MFR756441549",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "address": "472 Park Trace Boulevard, Osprey, FL 34229",
+    "price": 599000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2217,
+    "url": "https://century21cariotirealestate.com/fl/osprey/park-trace-estates/472-park-trace-boulevard/a4680326/",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "address": "3041 Nocturne Road, Venice, FL 34293",
+    "price": 515000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2062,
+    "url": "https://www.coldwellbanker.com/fl/venice/3041-nocturne-rd/lid-P00800000HCDjJg5DxJ24pPBVEQmA03wqMvzVagc",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "address": "617 Mistiflower Circle, Nokomis, FL 34275",
+    "price": 939000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2808,
+    "url": "https://www.houzeo.com/homes/617-mistiflower-cir-nokomis-fl-34275/hzid_48b2b59d",
+    "first_seen": "2026-10-07"
   }
 ]
