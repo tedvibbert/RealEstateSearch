@@ -3109,5 +3109,32 @@
     "sqft": 2265,
     "url": "https://www.weichert.com/134846296/",
     "first_seen": "2026-10-06"
+  },
+  {
+    "address": "405 Bay Point Avenue, Nokomis, FL 34275",
+    "price": 1590000,
+    "beds": 6,
+    "baths": 5.5,
+    "sqft": 3716,
+    "url": "https://www.bexrealty.com/FL/Nokomis/405-bay-point-avenue/home/MFRA4694924",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "address": "297 Martellago Drive, North Venice, FL 34275",
+    "price": 790000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2649,
+    "url": "https://windermere.homefront.com/homes/fl/north-venice/property/297-martellago-drive-21be7ead-2988-3d34-be6c-a1d01ce06712",
+    "first_seen": "2026-10-07"
+  },
+  {
+    "address": "109 Terra Bella Court, North Venice, FL 34275",
+    "price": 849900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2849,
+    "url": "https://seaglass.neutrinoinc.com/print/html/465947",
+    "first_seen": "2026-10-07"
   }
 ]
