@@ -3199,5 +3199,55 @@
     "sqft": 2190,
     "url": "https://www.redfin.com/neighborhood/411854/FL/Laurel/Mission-Valley-Estates",
     "first_seen": "2026-10-08"
+  },
+  {
+    "address": "11965 Starbright Path, Venice, FL 34293",
+    "price": 781493,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2867,
+    "url": "https://jome.com/new-home/fl/2670027-11965-starbright-path-venice-fl-34293",
+    "first_seen": "2026-10-08",
+    "note": "Mattamy Homes quick move-in, Wellen Park, HOA ~$307/mo; data verified by aggregator as of Aug 4 2026 snapshot, confirm current status"
+  },
+  {
+    "address": "12012 Ethos Ct, Venice, FL 34293",
+    "price": 726667,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2867,
+    "url": "https://jome.com/new-home/fl/2670007-12012-ethos-ct-venice-fl-34293",
+    "first_seen": "2026-10-08",
+    "note": "Mattamy Homes quick move-in, Wellen Park, same floor plan as 11965 Starbright Path; data verified by aggregator as of Aug 4 2026 snapshot, confirm current status"
+  },
+  {
+    "address": "18015 Foxtail Loop, Venice, FL 34293",
+    "price": 1299900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3148,
+    "url": "https://www.newhomesource.com/specdetail/18015-foxtail-loop-venice-fl-34293/3282977",
+    "first_seen": "2026-10-08",
+    "note": "Homes by Towne, 3-car garage, listed as under construction - verify completion/move-in timeline before pursuing"
+  },
+  {
+    "address": "11290 Blissby St, Venice, FL 34293",
+    "price": 1274092,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3621,
+    "url": "https://www.newhomesource.com/specdetail/11290-blissby-st-venice-fl-34293/3354646",
+    "first_seen": "2026-10-08",
+    "note": "Homes by WestBay, 3-car garage, listed as under construction - verify completion/move-in timeline before pursuing"
+  },
+  {
+    "address": "3515 Nemo Avenue, North Port, FL 34287",
+    "price": 409000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1671,
+    "url": "https://danielle.c21.com/property/3515-nemo-avenue-north-port-fl-34287-REN032369373",
+    "first_seen": "2026-10-08",
+    "note": "MLS TB8356765, no HOA, impact windows/doors, generator hookup, on greenbelt; a secondary aggregator page described a different 3BR+office layout for same address - verify bed count before pursuing"
   }
 ]
