@@ -3181,5 +3181,23 @@
     "sqft": 2808,
     "url": "https://www.houzeo.com/homes/617-mistiflower-cir-nokomis-fl-34275/hzid_48b2b59d",
     "first_seen": "2026-10-07"
+  },
+  {
+    "address": "18138 Home Run Drive, Venice, FL 34293",
+    "price": 1201443,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2501,
+    "url": "https://www.raveis.com/property/flyer/19062388",
+    "first_seen": "2026-10-08"
+  },
+  {
+    "address": "168 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 502380,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2190,
+    "url": "https://www.redfin.com/neighborhood/411854/FL/Laurel/Mission-Valley-Estates",
+    "first_seen": "2026-10-08"
   }
 ]
