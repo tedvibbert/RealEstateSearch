@@ -3249,5 +3249,45 @@
     "url": "https://danielle.c21.com/property/3515-nemo-avenue-north-port-fl-34287-REN032369373",
     "first_seen": "2026-10-08",
     "note": "MLS TB8356765, no HOA, impact windows/doors, generator hookup, on greenbelt; a secondary aggregator page described a different 3BR+office layout for same address - verify bed count before pursuing"
+  },
+  {
+    "address": "2573 Tulsa Avenue, North Port, FL 34286",
+    "price": 374900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2067,
+    "url": "https://www.lakehouse.com/2573-tulsa-ave-north-port-florida-34286-p7499115.html",
+    "first_seen": "2026-10-09",
+    "note": "MLS OM721695, built 2023, Port Charlotte Sub 19; also listed on movewithmomentum.com"
+  },
+  {
+    "address": "1216 Whitney Drive, Venice, FL 34292",
+    "price": 495000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2308,
+    "url": "https://www.homesbymarco.com/properties/1216-whitney-dr-venice-fl-34292/2285007",
+    "first_seen": "2026-10-09",
+    "note": "Manors of Chestnut Creek, built 1990, low HOA/no CDD, pool/lake view, solar panels; listed since ~May 2026"
+  },
+  {
+    "address": "1212 Whitney Drive, Venice, FL 34292",
+    "price": 579000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2290,
+    "url": "https://naples.homefront.com/homes/fl/venice/property/1212-whitney-drive-01b5823b-d6a9-3098-ba78-fe7d4e5b2c7e",
+    "first_seen": "2026-10-09",
+    "note": "Manors of Chestnut Creek, built 1990, 2-car garage, 0.3-acre lot; only one source found - verify current status before pursuing"
+  },
+  {
+    "address": "20722 Romagna Place, Venice, FL 34293",
+    "price": 450000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/20722-romagna-place-venice",
+    "first_seen": "2026-10-09",
+    "note": "Gran Paradiso Ph 1, Trevi floor plan, gated community"
   }
 ]
