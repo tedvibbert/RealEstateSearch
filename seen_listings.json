@@ -3339,5 +3339,35 @@
     "url": "https://maxliferealty.com/listings/MFR779397770",
     "first_seen": "2026-10-10",
     "note": "4BR+den, Heron Creek gated golf community, lakefront cul-de-sac lot, private pool, flood zone AE; zip 34291 drive time to school less certain, may be near upper end of ~20 min range; price reduced from $649,900"
+  },
+  {
+    "address": "19345 Cruise Drive, Venice, FL 34292",
+    "price": 519900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/19345-cruise-drive-venice",
+    "first_seen": "2026-10-10",
+    "note": "Watercrest Un 1, built 2019, gated community, MLS# TB8502654, active"
+  },
+  {
+    "address": "2705 Lamkin Road, North Port, FL 34288",
+    "price": 699900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2431,
+    "url": "https://www.bexrealty.com/FL/North-Port/2705-lamkin-road/home/MFRC7528458",
+    "first_seen": "2026-10-10",
+    "note": "Pool home, 3-car garage, built 2020, 0.54 acre lot, price reduced from $749,900, ~4 days on market; zip 34288 is farther north/east in North Port, drive time to school less certain, may be near upper end of ~20 min range"
+  },
+  {
+    "address": "21244 Holmes Circle, Venice, FL 34293",
+    "price": 1149000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2871,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/21244-holmes-circle-venice",
+    "first_seen": "2026-10-10",
+    "note": "Grand Palm (Wellen Park), built 2023, private pool, 3-car garage, 0.27 acre lot; sources show inconsistent price history ($999,999-$1,190,000) from different snapshot dates, most recent appears to be ~$1,149,000 reduced from $1,190,000"
   }
 ]
