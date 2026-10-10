@@ -3309,5 +3309,35 @@
     "url": "https://jupiter.homefront.com/homes/fl/venice/property/20655-valprato-court-1fb80dcf-3ec8-38d6-bb96-8687aeffffe8",
     "first_seen": "2026-10-09",
     "note": "Gran Paradiso at Wellen Park, built 2019, 3-car garage, waterfront lot; exact price uncertain, sources show range ~$760,000-$825,000"
+  },
+  {
+    "address": "2671 Averland Loop, North Port, FL 34287",
+    "price": 345400,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1820,
+    "url": "https://www.bexrealty.com/real-estate/North-Port/Watercress-Cove/",
+    "first_seen": "2026-10-10",
+    "note": "New construction (Adams Homes) in Watercress Cove; price reduced from $370,867; sqft varies by source (1,820-2,200); MLS A4636612"
+  },
+  {
+    "address": "7072 Foxboro Way, Nokomis, FL 34275",
+    "price": 536256,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2582,
+    "url": "https://maxliferealty.com/listings/MFR763064876",
+    "first_seen": "2026-10-10",
+    "note": "New construction (Taylor Morrison) in Tiburon community; price/status per aggregator snapshot, verify current MLS status"
+  },
+  {
+    "address": "1301 Night Wind Terrace, North Port, FL 34291",
+    "price": 645000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2711,
+    "url": "https://maxliferealty.com/listings/MFR779397770",
+    "first_seen": "2026-10-10",
+    "note": "4BR+den, Heron Creek gated golf community, lakefront cul-de-sac lot, private pool, flood zone AE; zip 34291 drive time to school less certain, may be near upper end of ~20 min range; price reduced from $649,900"
   }
 ]
