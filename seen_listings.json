@@ -3387,5 +3387,41 @@
     "sqft": 2609,
     "url": "https://www.houzeo.com/homes/12541-cinqueterre-dr-venice-fl-34293/hzid_c8aee443",
     "first_seen": "2026-10-11"
+  },
+  {
+    "address": "4424 Conchfish Ln, Osprey, FL 34229",
+    "price": 550000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2370,
+    "url": "https://www.homesbymarco.com/properties/4424-conchfish-ln-osprey-fl-34229/3817095",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "address": "1062 Eagles Flight Way, North Port, FL 34287",
+    "price": 649900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2608,
+    "url": "https://www.bexrealty.com/FL/North-Port/1062-eagles-flight-way/home/MFRN6145158",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "address": "15 Gulf Manor Drive, Venice, FL 34285",
+    "price": 1525000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2705,
+    "url": "https://2myfloridabroker.realgeeks.com/property/N6143530/",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "address": "10801 Whisk Fern Drive, Venice, FL 34293",
+    "price": 1149000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3079,
+    "url": "https://espanol.century21.com/propiedad-en-venta/10801-whisk-fern-drive-venice-fl-34293-REN030307297",
+    "first_seen": "2026-10-11"
   }
 ]
