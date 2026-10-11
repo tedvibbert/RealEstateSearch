@@ -3369,5 +3369,23 @@
     "url": "https://movewithmomentum.com/listings/idx-stellar/21244-holmes-circle-venice",
     "first_seen": "2026-10-10",
     "note": "Grand Palm (Wellen Park), built 2023, private pool, 3-car garage, 0.27 acre lot; sources show inconsistent price history ($999,999-$1,190,000) from different snapshot dates, most recent appears to be ~$1,149,000 reduced from $1,190,000"
+  },
+  {
+    "address": "507 Acacia Lane, Nokomis, FL 34275",
+    "price": 1890000,
+    "beds": 5,
+    "baths": 4,
+    "sqft": 3701,
+    "url": "https://bozeman.homefront.com/homes/fl/nokomis/property/507-acacia-lane-7347a0a4-205d-3fc9-933e-243ec91ac7a7",
+    "first_seen": "2026-10-11"
+  },
+  {
+    "address": "12541 Cinqueterre Drive, Venice, FL 34293",
+    "price": 599900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2609,
+    "url": "https://www.houzeo.com/homes/12541-cinqueterre-dr-venice-fl-34293/hzid_c8aee443",
+    "first_seen": "2026-10-11"
   }
 ]
