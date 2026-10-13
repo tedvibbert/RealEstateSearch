@@ -3450,5 +3450,32 @@
     "sqft": 3196,
     "url": "https://maxliferealty.com/listings/MFR786780429",
     "first_seen": "2026-10-12"
+  },
+  {
+    "address": "4428 Conchfish Ln, Osprey, FL 34229",
+    "price": 548000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1861,
+    "url": "https://www.homesbymarco.com/properties/4428-conchfish-ln-osprey-fl-34229/2613026",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "address": "1177 Petronia St, North Port, FL 34286",
+    "price": 529000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2153,
+    "url": "https://orchard.com/homes/details/1177-petronia-st-north-port-fl-34286",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "address": "6932 Prairie Oak Way, Nokomis, FL 34275",
+    "price": 549586,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2862,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/6932-prairie-oak-way-nokomis",
+    "first_seen": "2026-10-13"
   }
 ]
