@@ -3486,5 +3486,24 @@
     "sqft": 2566,
     "url": "https://movewithmomentum.com/listings/idx-stellar/301-holly-bank-avenue-nokomis",
     "first_seen": "2026-10-13"
+  },
+  {
+    "address": "2534 Stagnaro Road, North Port, FL 34287",
+    "price": 399900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2474,
+    "url": "https://jamesboyertherealtor.c21.com/property/2534-stagnaro-road-north-port-fl-34287-REN031931106",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "address": "1036 Oak Meadow Lane, Osprey, FL 34229",
+    "price": 585000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2186,
+    "url": "https://www.raveis.com/property/flyer/20979209",
+    "first_seen": "2026-10-14",
+    "note": "MLS A4701532, Rivendell community, built 2001; price sources conflict ($585,000-$630,000), verify current list price"
   }
 ]
