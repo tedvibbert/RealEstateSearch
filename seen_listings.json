@@ -3505,5 +3505,50 @@
     "url": "https://www.raveis.com/property/flyer/20979209",
     "first_seen": "2026-10-14",
     "note": "MLS A4701532, Rivendell community, built 2001; price sources conflict ($585,000-$630,000), verify current list price"
+  },
+  {
+    "address": "366 South Creek Court, Osprey, FL 34229",
+    "price": 1049000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2775,
+    "url": "https://www.nestseekers.com/5793400/366-s-creek-ct-welcome-to-366-south-creek-court-located-in",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "address": "8905 Excelsior Loop, Venice, FL 34293",
+    "price": 395000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "url": "https://www.coldwellbanker.com/fl/venice/8905-excelsior-loop/lid-P00800000HEeN2BdoBDxchM7bicuYy3UHxptovTx",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "address": "18065 Grand Prosperity Drive, Venice, FL 34293",
+    "price": 579000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2005,
+    "url": "https://www.exprealty.com/venice-fl-real-estate/18065-grand-prosperity-dr",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "address": "17260 Jadestone Court, Venice, FL 34293",
+    "price": 739900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://www.zoocasa.com/venice-fl-real-estate/wellen-park-golf-and-country-club/17260-jadestone-ct",
+    "first_seen": "2026-10-14"
+  },
+  {
+    "address": "11245 Blissby Street, Venice, FL 34293",
+    "price": 1237138,
+    "beds": 4,
+    "baths": 4.5,
+    "sqft": null,
+    "url": "https://mybrokerone.com/en/homedetails/single-family-residence-11245-blissby-venice-fl-34293-TB8504658",
+    "first_seen": "2026-10-14"
   }
 ]
