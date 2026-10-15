@@ -3550,5 +3550,23 @@
     "sqft": null,
     "url": "https://mybrokerone.com/en/homedetails/single-family-residence-11245-blissby-venice-fl-34293-TB8504658",
     "first_seen": "2026-10-14"
+  },
+  {
+    "address": "7028 Foxboro Way, Nokomis, FL 34275",
+    "price": 674979,
+    "beds": 5,
+    "baths": 4,
+    "sqft": 3053,
+    "url": "https://investproinc.com/fl/nokomis/tiburon/7028-foxboro-way/",
+    "first_seen": "2026-10-15"
+  },
+  {
+    "address": "5551 Reisterstown Road, North Port, FL 34291",
+    "price": 618000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2633,
+    "url": "https://century21cariotirealestate.com/fl/north-port/north-port-charlotte-estates-add-01/5551-reisterstown-road/c7496988",
+    "first_seen": "2026-10-15"
   }
 ]
