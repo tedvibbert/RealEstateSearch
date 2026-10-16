@@ -3586,5 +3586,23 @@
     "sqft": 2067,
     "url": "https://movewithmomentum.com/listings/idx-stellar/5519-baker-road-north-port",
     "first_seen": "2026-10-16"
+  },
+  {
+    "address": "13682 Vancanza Drive, Venice, FL 34293",
+    "price": 719000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2836,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/13682-vancanza-drive-venice",
+    "first_seen": "2026-10-16"
+  },
+  {
+    "address": "20186 Cristoforo Place, Venice, FL 34293",
+    "price": 715000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2358,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/20186-cristoforo-place-venice",
+    "first_seen": "2026-10-16"
   }
 ]
