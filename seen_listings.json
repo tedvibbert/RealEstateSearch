@@ -3631,5 +3631,35 @@
     "sqft": 2329,
     "url": "https://www.bexrealty.com/FL/Venice/2199-terracina-drive/home/MFRA4701098",
     "first_seen": "2026-10-17"
+  },
+  {
+    "address": "126 Villa Perosa Way, Nokomis, FL 34275",
+    "price": 634900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2023,
+    "url": "https://2myfloridabroker.realgeeks.com/property/N6145198/",
+    "first_seen": "2026-10-17",
+    "note": "Toscana Isles, built 2024 by D.R. Horton; MLS N6145198, sources disagree on days on market"
+  },
+  {
+    "address": "155 Toscavilla Boulevard, Nokomis, FL 34275",
+    "price": 719000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2340,
+    "url": "https://evemetlis.realgeeks.com/property/N6144824/",
+    "first_seen": "2026-10-17",
+    "note": "Toscana Isles, built 2017, MLS N6144824, lake view with pool, 3-car garage; one source shows sqft as 3,159 and price as high as 39,000 - verify before pursuing"
+  },
+  {
+    "address": "13077 Rinella Street, Venice, FL 34293",
+    "price": 699000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1997,
+    "url": "https://saintrobert.homefront.com/homes/fl/venice/property/13077-rinella-street-54a087f7-b4da-37ec-8a9b-b3bbf90369a1",
+    "first_seen": "2026-10-17",
+    "note": "IslandWalk at Wellen Park, built 2019, saltwater heated pool, screened lanai with lake views"
   }
 ]
