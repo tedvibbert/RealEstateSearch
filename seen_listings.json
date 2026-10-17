@@ -3604,5 +3604,32 @@
     "sqft": 2358,
     "url": "https://movewithmomentum.com/listings/idx-stellar/20186-cristoforo-place-venice",
     "first_seen": "2026-10-16"
+  },
+  {
+    "address": "4919 Lemon Bay Drive, Venice, FL 34293",
+    "price": 359900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2188,
+    "url": "https://www.weichert.com/129867789",
+    "first_seen": "2026-10-17"
+  },
+  {
+    "address": "11937 Blazing Star Dr, Venice, FL 34293",
+    "price": 469900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2038,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/11937-blazing-star-dr-venice",
+    "first_seen": "2026-10-17"
+  },
+  {
+    "address": "2199 Terracina Drive, Venice, FL 34292",
+    "price": 499000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2329,
+    "url": "https://www.bexrealty.com/FL/Venice/2199-terracina-drive/home/MFRA4701098",
+    "first_seen": "2026-10-17"
   }
 ]
