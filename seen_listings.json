@@ -3661,5 +3661,55 @@
     "url": "https://saintrobert.homefront.com/homes/fl/venice/property/13077-rinella-street-54a087f7-b4da-37ec-8a9b-b3bbf90369a1",
     "first_seen": "2026-10-17",
     "note": "IslandWalk at Wellen Park, built 2019, saltwater heated pool, screened lanai with lake views"
+  },
+  {
+    "address": "4696 April Avenue, North Port, FL 34288",
+    "price": 349900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1558,
+    "url": "https://www.brickellsold.com/en/real-estate/4696-april-avenue-north-port-fl-34288-b26070659",
+    "first_seen": "2026-10-18",
+    "note": "New build (2025); 34288 is on the eastern edge of North Port, likely near/slightly over 20-min drive from the school"
+  },
+  {
+    "address": "116 San Rafael Avenue, North Port, FL 34287",
+    "price": 379000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1716,
+    "url": "https://www.brickellsold.com/en/real-estate/116-san-rafael-ave-north-port-fl-34287-a11916570",
+    "first_seen": "2026-10-18",
+    "note": "Warm Mineral Springs area of North Port, built 1980, private suite with separate entrance"
+  },
+  {
+    "address": "2496 Wurtsmith Avenue, North Port, FL 34286",
+    "price": 560000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 3235,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/2496-wurtsmith-north-port",
+    "first_seen": "2026-10-18",
+    "note": "Built 2007"
+  },
+  {
+    "address": "153 Sandhurst Drive, Venice, FL 34293",
+    "price": 299900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1636,
+    "url": "https://seaglass.neutrinoinc.com/for-sale/homes/fl-venice-34293-153-sandhurst-drive-a4539656-247914",
+    "first_seen": "2026-10-18",
+    "note": null
+  },
+  {
+    "address": "314 S Shore Drive, Osprey, FL 34229",
+    "price": 1495000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3853,
+    "url": "https://www.bexrealty.com/real-estate/Osprey/Sorrento-Shores/?by=ASC",
+    "first_seen": "2026-10-18",
+    "note": "Reduced from $1,649,000; Sorrento Shores, Gulf-access waterfront, pool, 0.54 acres, MLS# MFRTB8510971; sources disagree on sqft (3,853 vs 5,273)"
   }
 ]
