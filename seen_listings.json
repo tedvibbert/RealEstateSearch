@@ -3711,5 +3711,32 @@
     "url": "https://www.bexrealty.com/real-estate/Osprey/Sorrento-Shores/?by=ASC",
     "first_seen": "2026-10-18",
     "note": "Reduced from $1,649,000; Sorrento Shores, Gulf-access waterfront, pool, 0.54 acres, MLS# MFRTB8510971; sources disagree on sqft (3,853 vs 5,273)"
+  },
+  {
+    "address": "1036 Oak Meadow Lane, Osprey, FL 34229",
+    "price": 585000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2186,
+    "url": "https://www.raveis.com/property/flyer/20979209",
+    "first_seen": "2026-10-19"
+  },
+  {
+    "address": "2026 Micanopy Trail, Nokomis, FL 34275",
+    "price": 879000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3256,
+    "url": "https://www.weichert.com/132096367",
+    "first_seen": "2026-10-19"
+  },
+  {
+    "address": "6288 Winding Pine Drive, Nokomis, FL 34275",
+    "price": 700000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2202,
+    "url": "https://maxliferealty.com/listings/MFR791239334",
+    "first_seen": "2026-10-19"
   }
 ]
