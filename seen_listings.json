@@ -3738,5 +3738,34 @@
     "sqft": 2202,
     "url": "https://maxliferealty.com/listings/MFR791239334",
     "first_seen": "2026-10-19"
+  },
+  {
+    "address": "2328 Irondale Road, North Port, FL 34287",
+    "price": 469900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2401,
+    "url": "https://www.brickellsold.com/en/real-estate/2328-irondale-rd-north-port-fl-34287-a12074490",
+    "first_seen": "2026-10-19",
+    "note": "New construction 2026; layout described as 3BR+den in main home plus 1BR/1BA in-law suite (totals 4BR/3BA per some sources) - confirm layout with agent"
+  },
+  {
+    "address": "4442 Antioch Street, North Port, FL 34288",
+    "price": 364900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1868,
+    "url": "https://www.bexrealty.com/FL/North-Port/4442-antioch-street/home/MFRA4697405",
+    "first_seen": "2026-10-19",
+    "note": "New construction 2026 by Kanopy Homes; includes a den in addition to 4 bedrooms"
+  },
+  {
+    "address": "4668 Addley Avenue, North Port, FL 34288",
+    "price": 319900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1556,
+    "url": "https://www.bexrealty.com/FL/North-Port/4668-addley-avenue/home/MFRC7522780",
+    "first_seen": "2026-10-19"
   }
 ]
