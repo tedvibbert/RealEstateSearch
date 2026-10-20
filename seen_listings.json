@@ -3767,5 +3767,32 @@
     "sqft": 1556,
     "url": "https://www.bexrealty.com/FL/North-Port/4668-addley-avenue/home/MFRC7522780",
     "first_seen": "2026-10-19"
+  },
+  {
+    "address": "20925 Loggia Court, Venice, FL 34293",
+    "price": 849000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2925,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/20925-loggia-court-venice",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "108 Pescador Place, Nokomis, FL 34275",
+    "price": 650000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2340,
+    "url": "https://seaglass.neutrinoinc.com/for-sale/homes/fl-nokomis-34275-108-pescador-place-a4623412-1246092",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "403 Lansbrook Drive, Venice, FL 34292",
+    "price": 1295000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3265,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4702444/",
+    "first_seen": "2026-10-20"
   }
 ]
