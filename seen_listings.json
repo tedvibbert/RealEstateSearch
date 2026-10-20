@@ -3794,5 +3794,86 @@
     "sqft": 3265,
     "url": "https://www.floridaneighborhoodrealty.com/property/A4702444/",
     "first_seen": "2026-10-20"
+  },
+  {
+    "address": "1290 Lakeside Drive, Venice, FL 34293",
+    "price": 449000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2040,
+    "url": "https://www.raveis.com/property/flyer/21692742",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "1023 Deer Run, Venice, FL 34293",
+    "price": 385000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1808,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/1023-deer-run-venice",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "639 Eagle Watch Lane, Osprey, FL 34229",
+    "price": 1395000,
+    "beds": 4,
+    "baths": 6,
+    "sqft": 3906,
+    "url": "https://demo3.wpresidence.net/?p=422505",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "2041 Mesic Hammock Way, Venice, FL 34292",
+    "price": 534900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2623,
+    "url": "https://seaglass.neutrinoinc.com/print/html/727697",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "1124 Sunset Drive, Venice, FL 34285",
+    "price": 4000000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2292,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/1124-sunset-drive-venice",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "231 Nippino Trail E, Nokomis, FL 34275",
+    "price": 339000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2214,
+    "url": "https://www.bexrealty.com/FL/Nokomis/231-nippino-trail/home/MFRA4700691",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "108 Stanford Road, Venice, FL 34293",
+    "price": 344900,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1126,
+    "url": "https://tamarayork.evrealestate.com/listing-detail/1161694865/108_STANFORD_RD-Venice-FL",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "4892 Kent Road, Venice, FL 34293",
+    "price": 425000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1730,
+    "url": "https://raveis.com/property/flyer/19154922",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "address": "1720 Sandy Court, Venice, FL 34293",
+    "price": 469000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2187,
+    "url": "https://investproinc.com/fl/venice/venice-gardens/1720-sandy-court/",
+    "first_seen": "2026-10-20"
   }
 ]
