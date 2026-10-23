@@ -3911,5 +3911,14 @@
     "sqft": 2333,
     "url": "https://anyone.com/listings-external/0195b926-4eac-7d22-8898-7ab01fbd8b40",
     "first_seen": "2026-10-22"
+  },
+  {
+    "address": "609 Allora Avenue, Nokomis, FL 34275",
+    "price": 499990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2577,
+    "url": "https://www.bexrealty.com/FL/Nokomis/609-allora-avenue/home/MFRTB8516120",
+    "first_seen": "2026-10-23"
   }
 ]
