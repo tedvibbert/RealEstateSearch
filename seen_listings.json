@@ -3920,5 +3920,23 @@
     "sqft": 2577,
     "url": "https://www.bexrealty.com/FL/Nokomis/609-allora-avenue/home/MFRTB8516120",
     "first_seen": "2026-10-23"
+  },
+  {
+    "address": "18 Riverfront Drive, Venice, FL 34293",
+    "price": 1100000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2606,
+    "url": "https://www.homesbymarco.com/properties/18-riverfront-dr-venice-fl-34293/4450176",
+    "first_seen": "2026-10-24"
+  },
+  {
+    "address": "18073 Grand Prosperity Drive, Venice, FL 34293",
+    "price": 557500,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2209,
+    "url": "https://www.bexrealty.com/FL/Venice/18073-grand-prosperity-drive/home/MFRN6144931",
+    "first_seen": "2026-10-24"
   }
 ]
