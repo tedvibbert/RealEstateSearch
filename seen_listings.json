@@ -3947,5 +3947,23 @@
     "sqft": 4166,
     "url": "https://maxliferealty.com/listings/MFR779849908",
     "first_seen": "2026-10-25"
+  },
+  {
+    "address": "25261 Spartina Drive, Venice, FL 34293",
+    "price": 1299500,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2810,
+    "url": "https://raveis.com/property/flyer/19342970",
+    "first_seen": "2026-10-26"
+  },
+  {
+    "address": "20123 Passagio Drive, Venice, FL 34293",
+    "price": 999850,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3215,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/20123-passagio-drive-venice",
+    "first_seen": "2026-10-26"
   }
 ]
