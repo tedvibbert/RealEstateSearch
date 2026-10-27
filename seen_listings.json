@@ -3965,5 +3965,41 @@
     "sqft": 3215,
     "url": "https://movewithmomentum.com/listings/idx-stellar/20123-passagio-drive-venice",
     "first_seen": "2026-10-26"
+  },
+  {
+    "address": "4912 Tuscola Boulevard, North Port, FL 34287",
+    "price": 371875,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "url": "https://www.bexrealty.com/FL/North-Port/4912-tuscola-boulevard/home/MFRC7528118",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "address": "4948 Tuscola Boulevard, North Port, FL 34287",
+    "price": 373680,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/4948-tuscola-boulevard-north-port",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "address": "4844 Flint Dr, North Port, FL 34288",
+    "price": 329900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1810,
+    "url": "https://www.coldwellbanker.com/fl/north-port/4844-flint-dr/lid-P00800000HDmkZ5yK0mLYUnT9fzhqXUnKcL4JZQr",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "address": "1217 E Price Boulevard, North Port, FL 34288",
+    "price": 408900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2000,
+    "url": "https://www.weichert.com/136178519/",
+    "first_seen": "2026-10-27"
   }
 ]
