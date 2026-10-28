@@ -4028,5 +4028,32 @@
     "sqft": 2378,
     "url": "https://kaufmanrealty.com/listings/220077659/23633+Copperleaf+DRIVE%2C+VENICE%2C+FL+34293",
     "first_seen": "2026-10-28"
+  },
+  {
+    "address": "18607 Arbor Vista Drive, Venice, FL 34293",
+    "price": 789551,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2867,
+    "url": "https://www.weichert.com/133463471/",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "address": "1886 Killdeer Court, Venice, FL 34293",
+    "price": 800000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2781,
+    "url": "https://windermere.homefront.com/homes/fl/venice/property/1886-killdeer-court-09867a0f-ff00-3491-8dba-a27158ebf9d7",
+    "first_seen": "2026-10-28"
+  },
+  {
+    "address": "201 Eaglenook Way, Osprey, FL 34229",
+    "price": 1200000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3379,
+    "url": "https://shanevanderson.com/listing-detail/1158626015/201_EAGLENOOK_WAY-Osprey-FL",
+    "first_seen": "2026-10-28"
   }
 ]
