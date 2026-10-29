@@ -4055,5 +4055,23 @@
     "sqft": 3379,
     "url": "https://shanevanderson.com/listing-detail/1158626015/201_EAGLENOOK_WAY-Osprey-FL",
     "first_seen": "2026-10-28"
+  },
+  {
+    "address": "188 Daylily Blvd, Nokomis, FL 34275",
+    "price": 512000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1888,
+    "url": "https://www.lakehouse.com/188-daylily-blvd-nokomis-florida-34275-p7511052.html",
+    "first_seen": "2026-10-29"
+  },
+  {
+    "address": "583 Pine Ranch East Road, Osprey, FL 34229",
+    "price": 579000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2203,
+    "url": "https://www.raveis.com/property/flyer/21012208",
+    "first_seen": "2026-10-29"
   }
 ]
