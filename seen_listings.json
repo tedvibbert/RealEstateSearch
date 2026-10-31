@@ -4091,5 +4091,23 @@
     "sqft": 2336,
     "url": "https://www.bexrealty.com/FL/North-Port/4109-cranberry-boulevard/home/MFRN6143122",
     "first_seen": "2026-10-31"
+  },
+  {
+    "address": "7024 Foxboro Way, Nokomis, FL 34275",
+    "price": 624764,
+    "beds": 5,
+    "baths": 4,
+    "sqft": 3053,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4702375/",
+    "first_seen": "2026-10-31"
+  },
+  {
+    "address": "2028 Bolsena Street, Nokomis, FL 34275",
+    "price": 749630,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2973,
+    "url": "https://www.mihomes.com/new-homes/florida/southwest-florida/venice/cassata-lakes/crystal-plan/2028-bolsena-street",
+    "first_seen": "2026-10-31"
   }
 ]
