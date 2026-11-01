@@ -4136,5 +4136,65 @@
     "sqft": 2378,
     "url": "https://2myfloridabroker.realgeeks.com/property/N6143487/",
     "first_seen": "2026-11-01"
+  },
+  {
+    "address": "460 Bard Rd, Venice, FL 34293",
+    "price": 469000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.coldwellbanker.com/fl/venice/460-bard-rd/lid-P00800000GsWZbE1F8y8kFHxFvSvLJDsds1hpAoI",
+    "first_seen": "2026-11-01",
+    "note": "status: pending"
+  },
+  {
+    "address": "4004 Coleman Road, Venice, FL 34293",
+    "price": 449900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1973,
+    "url": "https://seaglass.neutrinoinc.com/for-sale/homes/fl-venice-34293-4004-coleman-road-a4591281-230991",
+    "first_seen": "2026-11-01",
+    "note": "status: closed"
+  },
+  {
+    "address": "2340 Bayshore Rd, Nokomis, FL 34275",
+    "price": 3500000,
+    "beds": 4,
+    "baths": 5.5,
+    "sqft": 4750,
+    "url": "https://www.redfin.com/city/23694/FL/Laurel/4-bedrooms",
+    "first_seen": "2026-11-01",
+    "note": "over $2M budget"
+  },
+  {
+    "address": "312 Winfield Way, Nokomis, FL 34275",
+    "price": 595000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1746,
+    "url": "https://2myfloridabroker.realgeeks.com/property/A4694207/",
+    "first_seen": "2026-11-01",
+    "note": "only 3 beds, below minimum"
+  },
+  {
+    "address": "420 Signorelli Drive, Nokomis, FL 34275",
+    "price": 420000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1985,
+    "url": "https://seaglass.neutrinoinc.com/print/html/299066",
+    "first_seen": "2026-11-01",
+    "note": "status: closed"
+  },
+  {
+    "address": "445 Baneberry Court, Nokomis, FL 34275",
+    "price": 649900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2596,
+    "url": "https://seaglass.neutrinoinc.com/print/html/716771",
+    "first_seen": "2026-11-01",
+    "note": "status: closed"
   }
 ]
