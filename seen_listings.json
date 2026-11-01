@@ -4109,5 +4109,32 @@
     "sqft": 2973,
     "url": "https://www.mihomes.com/new-homes/florida/southwest-florida/venice/cassata-lakes/crystal-plan/2028-bolsena-street",
     "first_seen": "2026-10-31"
+  },
+  {
+    "address": "853 Hillcrest Dr, Nokomis, FL 34275",
+    "price": 1625000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3602,
+    "url": "https://www.homes.com/laurel-fl/under-2m/",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "address": "312 Bayshore Rd, Nokomis, FL 34275",
+    "price": 1129000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2351,
+    "url": "https://2myfloridabroker.realgeeks.com/property/C7520010/",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "address": "117 Aurora St E, Venice, FL 34285",
+    "price": 830000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2378,
+    "url": "https://2myfloridabroker.realgeeks.com/property/N6143487/",
+    "first_seen": "2026-11-01"
   }
 ]
