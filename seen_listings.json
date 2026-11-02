@@ -4214,5 +4214,23 @@
     "sqft": 2260,
     "url": "https://movewithmomentum.com/listings/idx-stellar/102-bayamo-drive-north-port",
     "first_seen": "2026-11-02"
+  },
+  {
+    "address": "1420 Mackintosh Blvd, Nokomis, FL 34275",
+    "price": 699000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2771,
+    "url": "https://www.coldwellbanker.com/fl/nokomis/1420-mackintosh-blvd/lid-P00800000HDmIeuOVzxRIcRgDPOm8DRQb2RGX61V",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "address": "17822 Sylvester Drive, Venice, FL 34293",
+    "price": 629990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2429,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4709436/",
+    "first_seen": "2026-11-02"
   }
 ]
