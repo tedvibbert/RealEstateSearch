@@ -4196,5 +4196,23 @@
     "url": "https://seaglass.neutrinoinc.com/print/html/716771",
     "first_seen": "2026-11-01",
     "note": "status: closed"
+  },
+  {
+    "address": "117 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 534980,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2830,
+    "url": "https://www.newhomesource.com/specdetail/117-shady-edge-loop-nokomis-fl-34275/3337620",
+    "first_seen": "2026-11-02"
+  },
+  {
+    "address": "102 Bayamo Drive, North Port, FL 34287",
+    "price": 579000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2260,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/102-bayamo-drive-north-port",
+    "first_seen": "2026-11-02"
   }
 ]
