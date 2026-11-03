@@ -4232,5 +4232,25 @@
     "sqft": 2429,
     "url": "https://www.floridaneighborhoodrealty.com/property/A4709436/",
     "first_seen": "2026-11-02"
+  },
+  {
+    "address": "11691 Breadfruit Lane, Venice, FL 34292",
+    "price": 595000,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 3268,
+    "url": "https://2myfloridabroker.realgeeks.com/property/A4700175/",
+    "first_seen": "2026-11-03",
+    "note": "MLS A4700175, built 2010, loft/bonus room, 3-car garage, 44 days on market, ~0.23 acre lot"
+  },
+  {
+    "address": "97 Sugar Mill Dr, Osprey, FL 34229",
+    "price": 1950000,
+    "beds": 5,
+    "baths": 6,
+    "sqft": 4885,
+    "url": "https://maxliferealty.com/listings/MFR789024155",
+    "first_seen": "2026-11-03",
+    "note": "MLS A4691789, Oaks Club community (mandatory club membership likely), built 1990, ~0.4 acre lot; one older source shows a lower ,850,000 / MLS A4542820 listing for same address, possibly prior listing version"
   }
 ]
