@@ -4252,5 +4252,23 @@
     "url": "https://maxliferealty.com/listings/MFR789024155",
     "first_seen": "2026-11-03",
     "note": "MLS A4691789, Oaks Club community (mandatory club membership likely), built 1990, ~0.4 acre lot; one older source shows a lower ,850,000 / MLS A4542820 listing for same address, possibly prior listing version"
+  },
+  {
+    "address": "15312 Shady Palms Ln, Nokomis, FL 34275",
+    "price": 635000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2411,
+    "url": "https://www.century21.com/homes/detail/fl/nokomis/15312-shady-palms-ln/lid-P00800000H5XwDuNYdaanH7ueHRCSMMuQgBzMpq3",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "address": "1105 Gulf Coast Boulevard, Venice, FL 34285",
+    "price": 435000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2362,
+    "url": "https://www.floridaneighborhoodrealty.com/property/C7531843/",
+    "first_seen": "2026-11-03"
   }
 ]
