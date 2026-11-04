@@ -4270,5 +4270,68 @@
     "sqft": 2362,
     "url": "https://www.floridaneighborhoodrealty.com/property/C7531843/",
     "first_seen": "2026-11-03"
+  },
+  {
+    "address": "402 Walls Way, Osprey, FL 34229",
+    "price": 1500000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3464,
+    "url": "https://www.coldwellbankerluxury.com/properties/G39WJF/402-walls-way",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "address": "1094 Bradberry Dr, Nokomis, FL 34275",
+    "price": 699900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3165,
+    "url": "https://michaelwyckoff.evrealestate.com/listing-detail/1160370951/1094_BRADBERRY_DR-Nokomis-FL",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "address": "1878 Mesic Hammock Way, Venice, FL 34292",
+    "price": 599000,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 3280,
+    "url": "https://2myfloridabroker.realgeeks.com/property/D6145272/",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "address": "113 Colonia Ln, Nokomis, FL 34275",
+    "price": 379900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1714,
+    "url": "https://www.bexrealty.com/FL/Nokomis/113-colonia-lane/home/MFRA4665224",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "address": "5988 Viola Rd, Venice, FL 34293",
+    "price": 625000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2426,
+    "url": "https://www.coldwellbankerhomes.com/fl/venice/5988-viola-rd/pid_70637241/",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "address": "1886 Killdeer Ct, Venice, FL 34293",
+    "price": 800000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2781,
+    "url": "https://www.bhgre.com/home/detail/fl/venice/1886-killdeer-ct/lid-P00800000Gp6VxqQTgAQQcZL6D4U3b4c1m7rlrfM",
+    "first_seen": "2026-11-04"
+  },
+  {
+    "address": "5648 Blue Reef Place, Nokomis, FL 34275",
+    "price": null,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3037,
+    "url": "https://www.ratemyagent.com/property/5648-blue-reef-place-laurel-fl-34275-r4324",
+    "first_seen": "2026-11-04"
   }
 ]
