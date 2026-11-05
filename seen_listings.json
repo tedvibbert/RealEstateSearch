@@ -4342,5 +4342,104 @@
     "sqft": 3158,
     "url": "https://www.nestseekers.com/5808653/18504-foxtail-loop-welcome-to-a-home-where-thoughtful-design",
     "first_seen": "2026-11-04"
+  },
+  {
+    "address": "241 Fareham Dr, Venice, FL 34293",
+    "price": 479900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1954,
+    "url": "https://www.zillow.com/homedetails/241-Fareham-Dr-Venice-FL-34293/47570238_zpid",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "19085 Cabernet Ct, Venice, FL 34293",
+    "price": 565900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://www.bexrealty.com/FL/Venice/19085-cabernet-court/home/MFRA4687275",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "4115 Hemingway Dr, Venice, FL 34293",
+    "price": 565000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2209,
+    "url": "https://www.zillow.com/homedetails/4115-Hemingway-Dr-Venice-FL-34293/47572429_zpid",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "1255 Sorrento Woods Blvd, Nokomis, FL 34275",
+    "price": 975000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3861,
+    "url": "https://www.homesandcondostampa.com/Nokomis/homes-for-sale/1255-SORRENTO-WOODS-BOULEVARD-NOKOMIS-FL-34275/A4658585.htm",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "20655 Valprato Court, Venice, FL 34293",
+    "price": 760000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2548,
+    "url": "https://www.bexrealty.com/FL/Venice/20655-valprato-court/home/MFRA4683314",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "1177 Petronia St, North Port, FL 34286",
+    "price": 502000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2153,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/1177-petronia-st/pid_66461683",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "116 San Rafael Ave, North Port, FL 34287",
+    "price": 379000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1716,
+    "url": "https://www.bexrealty.com/FL/North-Port/116-san-rafael-ave/home/A11916570",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "4184 Nahkoda Ave, North Port, FL 34286",
+    "price": 379000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2138,
+    "url": "https://www.zillow.com/homedetails/4184-Nahkoda-Ave-North-Port-FL-34286/99855556_zpid",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "1151 Creek Nine Dr, North Port, FL 34291",
+    "price": 499900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/1151-creek-nine-dr/pid_67106438",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "1230 Creek Nine Dr, North Port, FL 34291",
+    "price": 660000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3144,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/1230-creek-nine-dr/pid_70584503",
+    "first_seen": "2026-11-05"
+  },
+  {
+    "address": "1011 Creek Nine Dr, North Port, FL 34291",
+    "price": 595000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2710,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/1011-creek-nine-dr/pid_67693030",
+    "first_seen": "2026-11-05"
   }
 ]
