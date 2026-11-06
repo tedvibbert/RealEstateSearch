@@ -4450,5 +4450,23 @@
     "sqft": 2035,
     "url": "https://raveis.com/prop/D6138504/19060-moscato-court-venice-fl-34293",
     "first_seen": "2026-11-05"
+  },
+  {
+    "address": "104 Park Trace Blvd, Osprey, FL 34229",
+    "price": 595000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2557,
+    "url": "https://century21cariotirealestate.com/fl/osprey/park-trace-estates/104-park-trace-boulevard/a4674221/",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "address": "890 Morgan Towne Way, Venice, FL 34292",
+    "price": 460000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1967,
+    "url": "https://www.bexrealty.com/FL/Venice/890-morgan-towne-way/home/MFRO6371389",
+    "first_seen": "2026-11-06"
   }
 ]
