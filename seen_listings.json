@@ -4468,5 +4468,50 @@
     "sqft": 1967,
     "url": "https://www.bexrealty.com/FL/Venice/890-morgan-towne-way/home/MFRO6371389",
     "first_seen": "2026-11-06"
+  },
+  {
+    "address": "759 Fordingbridge Way, Osprey, FL 34229",
+    "price": 727000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2950,
+    "url": "https://www.raveis.com/prop/O6399774/759-fordingbridge-way-osprey-fl-34229",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "address": "4239 Corso Venetia Blvd, Venice, FL 34293",
+    "price": 645000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2890,
+    "url": "https://www.raveis.com/prop/N6141567/4239-corso-venetia-boulevard-venice-fl-34293",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "address": "12031 Lovegrass St, Venice, FL 34293",
+    "price": 460000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2038,
+    "url": "https://www.raveis.com/prop/D6146603/12031-lovegrass-street-venice-fl-34293",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "address": "17988 Foxtail Loop, Venice, FL 34293",
+    "price": 849990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2749,
+    "url": "https://www.raveis.com/prop/TB8478238/17988-foxtail-loop-venice-fl-34293",
+    "first_seen": "2026-11-06"
+  },
+  {
+    "address": "17818 Broadleaf Loop, Venice, FL 34293",
+    "price": 549990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2813,
+    "url": "https://www.zillow.com/homedetails/456738616_zpid/",
+    "first_seen": "2026-11-06"
   }
 ]
