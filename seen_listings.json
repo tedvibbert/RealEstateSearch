@@ -4585,5 +4585,23 @@
     "sqft": 2340,
     "url": "https://www.zillow.com/homedetails/104-Vintage-Glen-Rd-Nokomis-FL-34275/457624303_zpid",
     "first_seen": "2026-11-07"
+  },
+  {
+    "address": "5684 Blue Reef Place, Nokomis, FL 34275",
+    "price": 655000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2411,
+    "url": "https://regalgroup.evrealestate.com/listing-detail/1161951945/5684_BLUE_REEF_PLACE-Nokomis-FL",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "1241 Creek Nine Drive, North Port, FL 34291",
+    "price": 599999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2714,
+    "url": "https://century21cariotirealestate.com/fl/north-port/heron-creek/1241-creek-nine-drive/n6138408/",
+    "first_seen": "2026-11-07"
   }
 ]
