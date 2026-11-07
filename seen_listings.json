@@ -4513,5 +4513,77 @@
     "sqft": 2813,
     "url": "https://www.zillow.com/homedetails/456738616_zpid/",
     "first_seen": "2026-11-06"
+  },
+  {
+    "address": "20332 Bandera Pl, Venice, FL 34293",
+    "price": 650000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2669,
+    "url": "https://www.zillow.com/homedetails/20332-Bandera-Pl-Venice-FL-34293/305879501_zpid",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "1036 Oak Meadow Ln, Osprey, FL 34229",
+    "price": 585000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2186,
+    "url": "https://www.zillow.com/homedetails/1036-Oak-Meadow-Ln-Osprey-FL-34229/54264938_zpid",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "644 Rivendell Blvd, Osprey, FL 34229",
+    "price": 699900,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2298,
+    "url": "https://www.zillow.com/homedetails/644-Rivendell-Blvd-Osprey-FL-34229/52915854_zpid",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "866 Oak Briar Ln, Osprey, FL 34229",
+    "price": 699900,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2434,
+    "url": "https://www.zillow.com/homedetails/866-Oak-Briar-Ln-Osprey-FL-34229/54264849_zpid",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "403 Longbow Trl, Osprey, FL 34229",
+    "price": 1197000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2770,
+    "url": "https://www.zillow.com/homedetails/403-Longbow-Trl-Osprey-FL-34229/47534540_zpid",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "137 Osprey Point Dr, Osprey, FL 34229",
+    "price": 1425000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3303,
+    "url": "https://www.zillow.com/homedetails/137-Osprey-Point-Dr-Osprey-FL-34229/47533986_zpid",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "5131 Schubert Trl, North Port, FL 34287",
+    "price": 359900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "url": "https://www.floridaneighborhoodrealty.com/property/N6145588/",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "address": "104 Vintage Glen Rd, Nokomis, FL 34275",
+    "price": 442050,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2340,
+    "url": "https://www.zillow.com/homedetails/104-Vintage-Glen-Rd-Nokomis-FL-34275/457624303_zpid",
+    "first_seen": "2026-11-07"
   }
 ]
