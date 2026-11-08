@@ -4723,5 +4723,14 @@
     "url": "https://www.bexrealty.com/FL/Venice/9829-hilltop-drive/home/MFRN6140069",
     "first_seen": "2026-11-08",
     "status_note": "pending as of ~Jun 2026 - not active"
+  },
+  {
+    "address": "5302 White Ibis Ct, North Port, FL 34287",
+    "price": 590000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/5302-white-ibis-ct-north-port",
+    "first_seen": "2026-11-08"
   }
 ]
