@@ -4603,5 +4603,125 @@
     "sqft": 2714,
     "url": "https://century21cariotirealestate.com/fl/north-port/heron-creek/1241-creek-nine-drive/n6138408/",
     "first_seen": "2026-11-07"
+  },
+  {
+    "address": "24253 Gallberry Drive, Venice, FL 34293",
+    "price": 585000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2242,
+    "url": "https://www.zillow.com/homedetails/24253-Gallberry-Dr-Venice-FL-34293/246057068_zpid",
+    "first_seen": "2026-11-08",
+    "status_note": "likely pending/backup-offers as of ~Jun 2026; not confirmed active"
+  },
+  {
+    "address": "11380 Burgundy Drive, Venice, FL 34293",
+    "price": 399000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2035,
+    "url": "https://www.zillow.com/homedetails/11380-Burgundy-Dr-Venice-FL-34293/2060712263_zpid",
+    "first_seen": "2026-11-08",
+    "status_note": "under contract as of ~Apr 2026 - not active"
+  },
+  {
+    "address": "13303 Rinella Street, Venice, FL 34293",
+    "price": 1159900,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3709,
+    "url": "https://www.zillow.com/homedetails/13303-Rinella-St-Venice-FL-34293/305880121_zpid",
+    "first_seen": "2026-11-08",
+    "status_note": "status uncertain - some records show a sale of this address for $985,000 on 2/27/2026, others show active at $1,159,900; needs verification"
+  },
+  {
+    "address": "12110 Meditation Trail, Venice, FL 34293",
+    "price": 532740,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2365,
+    "url": "https://www.zillow.com/homedetails/12110-Meditation-Trl-Venice-FL-34293/456937147_zpid",
+    "first_seen": "2026-11-08",
+    "status_note": "sold 12/18/2025 - no longer active"
+  },
+  {
+    "address": "15324 Shady Palms Lane, Nokomis, FL 34275",
+    "price": 673000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3492,
+    "url": "https://www.coldwellbankerhomes.com/fl/nokomis/15324-shady-palms-ln/pid_66827033",
+    "first_seen": "2026-11-08",
+    "status_note": "sold 2/17/2026 - no longer active"
+  },
+  {
+    "address": "114 Nippino Trail W, Nokomis, FL 34275",
+    "price": 695000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2950,
+    "url": "https://raveis.com/prop/O6224243/114-nippino-trail-w-nokomis-fl-34275",
+    "first_seen": "2026-11-08",
+    "status_note": "status uncertain - price has varied widely ($589,900-$749,000) across sources with no clear current date; needs verification"
+  },
+  {
+    "address": "1048 Bradberry Drive, Nokomis, FL 34275",
+    "price": 615000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3164,
+    "url": "https://www.bexrealty.com/FL/Nokomis/1048-bradberry-drive/home/MFRC7519068",
+    "first_seen": "2026-11-08",
+    "status_note": "sold 5/8/2026 - no longer active"
+  },
+  {
+    "address": "640 Allora Avenue, Nokomis, FL 34275",
+    "price": 533000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2972,
+    "url": "https://www.bexrealty.com/FL/Nokomis/640-allora-avenue/home/MFRTB8401471",
+    "first_seen": "2026-11-08",
+    "status_note": "sold 11/21/2025 - no longer active"
+  },
+  {
+    "address": "701 Eaglenook Way, Osprey, FL 34229",
+    "price": 950000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3533,
+    "url": "https://www.zillow.com/homedetails/701-Eaglenook-Way-Osprey-FL-34229/47534548_zpid",
+    "first_seen": "2026-11-08",
+    "status_note": "sold 2/10/2026 - no longer active"
+  },
+  {
+    "address": "1646 Creek Nine Drive, North Port, FL 34291",
+    "price": 674000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2985,
+    "url": "https://kaufmanrealty.com/listings/236362170/1646+CREEK+NINE+DRIVE%2C+NORTH+PORT%2C+FL+34291",
+    "first_seen": "2026-11-08",
+    "status_note": "status uncertain - price varied $659k-$689k across sources, no clear current date; needs verification"
+  },
+  {
+    "address": "1008 Beckley Circle, Venice, FL 34292",
+    "price": 485000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2665,
+    "url": "https://www.raveis.com/prop/N6142228/1008-beckley-circle-venice-fl-34292",
+    "first_seen": "2026-11-08",
+    "status_note": "sold 3/27/2026 - no longer active"
+  },
+  {
+    "address": "9829 Hilltop Drive, Venice, FL 34292",
+    "price": 550000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://www.bexrealty.com/FL/Venice/9829-hilltop-drive/home/MFRN6140069",
+    "first_seen": "2026-11-08",
+    "status_note": "pending as of ~Jun 2026 - not active"
   }
 ]
