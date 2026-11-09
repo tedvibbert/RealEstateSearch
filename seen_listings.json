@@ -4768,5 +4768,86 @@
     "sqft": 2190,
     "url": "https://jome.com/new-home/fl/2553584-152-sun-chaser-dr-nokomis-fl-34275",
     "first_seen": "2026-11-09"
+  },
+  {
+    "address": "19060 Moscato Ct, Venice, FL 34293",
+    "price": 475900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://rockethomes.com/homes/19060-moscato-ct-venice-fl-34293",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "105 Dartmouth Rd, Venice, FL 34293",
+    "price": 464900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1749,
+    "url": "https://www.bexrealty.com/FL/Venice/105-dartmouth-road/home/MFRU8255950",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "1317 Ringtail Rd, Venice, FL 34293",
+    "price": 465000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1794,
+    "url": "https://www.exprealty.com/venice-fl-real-estate/south-venice/1317-ringtail-rd",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "400 Marlin Rd, Venice, FL 34293",
+    "price": 625000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2331,
+    "url": "https://www.bexrealty.com/FL/Venice/400-marlin-road/home/MFRC7516994",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "228 Caserta Ct, Nokomis, FL 34275",
+    "price": 690000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2934,
+    "url": "https://www.zillow.com/homedetails/228-Caserta-Ct-Nokomis-FL-34275/333779567_zpid",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "421 Bayside Ln, Nokomis, FL 34275",
+    "price": 719000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2473,
+    "url": "https://www.zillow.com/homedetails/421-Bayside-Ln-Nokomis-FL-34275/47536391_zpid",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "341 Daylily Blvd, Nokomis, FL 34275",
+    "price": 650000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2333,
+    "url": "https://www.zillow.com/homedetails/341-Daylily-Blvd-Nokomis-FL-34275/305878766_zpid",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "2123 Calusa Lakes Blvd, Nokomis, FL 34275",
+    "price": 1249000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 4255,
+    "url": "https://www.raveis.com/eprop/A4633957/2123-calusa-lakes-boulevard-nokomis-fl-34275",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "2463 Carnation Ct, North Port, FL 34289",
+    "price": 479000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3100,
+    "url": "https://raveis.com/prop/TB8377954/2463-carnation-court-north-port-fl-34289",
+    "first_seen": "2026-11-09"
   }
 ]
