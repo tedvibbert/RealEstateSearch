@@ -4732,5 +4732,41 @@
     "sqft": null,
     "url": "https://movewithmomentum.com/listings/idx-stellar/5302-white-ibis-ct-north-port",
     "first_seen": "2026-11-08"
+  },
+  {
+    "address": "1184 Kenisco Road, Venice, FL 34293",
+    "price": 499000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2263,
+    "url": "https://www.bexrealty.com/FL/Venice/1184-kenisco-road/home/MFRA4691904",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "497 Firebush Drive, Nokomis, FL 34275",
+    "price": 545000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2185,
+    "url": "https://edwardbarry.evrealestate.com/listing-detail/1172580603/497-FIREBUSH-DR-Nokomis-FL",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "184 Shady Edge Loop, Nokomis, FL 34275",
+    "price": 512150,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2574,
+    "url": "https://www.raveis.com/prop/TB8495207/184-shady-edge-loop-nokomis-fl-34275",
+    "first_seen": "2026-11-09"
+  },
+  {
+    "address": "152 Sun Chaser Drive, Nokomis, FL 34275",
+    "price": 447120,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2190,
+    "url": "https://jome.com/new-home/fl/2553584-152-sun-chaser-dr-nokomis-fl-34275",
+    "first_seen": "2026-11-09"
   }
 ]
