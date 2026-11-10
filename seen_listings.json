@@ -4867,5 +4867,23 @@
     "sqft": 2390,
     "url": "https://century21cariotirealestate.com/fl/north-port/port-charlotte-sub-25/2154-azure-road/c7519576/",
     "first_seen": "2026-11-10"
+  },
+  {
+    "address": "17553 Foxtail Loop, Venice, FL 34293",
+    "price": 1329990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3271,
+    "url": "https://www.raveis.com/eprop/TB8501084/17553-foxtail-loop-venice-fl-34293",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "address": "159 Toscavilla Boulevard, Nokomis, FL 34275",
+    "price": 825000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2419,
+    "url": "https://kaufmanrealty.com/listings/237377744/159+TOSCAVILLA+BOULEVARD%2C+NOKOMIS%2C+FL+34275",
+    "first_seen": "2026-11-10"
   }
 ]
