@@ -4849,5 +4849,23 @@
     "sqft": 3100,
     "url": "https://raveis.com/prop/TB8377954/2463-carnation-court-north-port-fl-34289",
     "first_seen": "2026-11-09"
+  },
+  {
+    "address": "1603 Pecan Street, Nokomis, FL 34275",
+    "price": 689000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://century21cariotirealestate.com/fl/nokomis/duquoin-heights/1603-pecan-street/n6144717/",
+    "first_seen": "2026-11-10"
+  },
+  {
+    "address": "2154 Azure Road, North Port, FL 34286",
+    "price": 1400000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2390,
+    "url": "https://century21cariotirealestate.com/fl/north-port/port-charlotte-sub-25/2154-azure-road/c7519576/",
+    "first_seen": "2026-11-10"
   }
 ]
