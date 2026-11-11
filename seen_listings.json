@@ -4885,5 +4885,32 @@
     "sqft": 2419,
     "url": "https://kaufmanrealty.com/listings/237377744/159+TOSCAVILLA+BOULEVARD%2C+NOKOMIS%2C+FL+34275",
     "first_seen": "2026-11-10"
+  },
+  {
+    "address": "10379 Medjool Dr, Venice, FL 34293",
+    "price": 729900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://tomo.com/property/10379-medjool-dr-venice-fl-34293/id-rn8zkj46v0",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "address": "20591 Ovid Ln, Venice, FL 34293",
+    "price": 765000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2671,
+    "url": "https://regalgroup.evrealestate.com/listing-detail/1161328778/20591_OVID_LN-Venice-FL",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "address": "4360 Corso Venetia Boulevard, Venice, FL 34293",
+    "price": 699900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2718,
+    "url": "https://www.realestategroupcentralflorida.com/homes/4360-Corso-Venetia-Boulevard/Venice/FL/34293/171680491/",
+    "first_seen": "2026-11-11"
   }
 ]
