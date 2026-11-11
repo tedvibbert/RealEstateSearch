@@ -4912,5 +4912,23 @@
     "sqft": 2718,
     "url": "https://www.realestategroupcentralflorida.com/homes/4360-Corso-Venetia-Boulevard/Venice/FL/34293/171680491/",
     "first_seen": "2026-11-11"
+  },
+  {
+    "address": "13571 Vancanza Drive, Venice, FL 34293",
+    "price": 1095000,
+    "beds": 6,
+    "baths": 5,
+    "sqft": 3904,
+    "url": "https://www.century21.com/homes/detail/fl/venice/13571-vancanza-dr/lid-P00800000HC2BFFfL4jjtfdzfZjD54p3eyS9eKVE",
+    "first_seen": "2026-11-11"
+  },
+  {
+    "address": "366 S Creek Court, Osprey, FL 34229",
+    "price": 1049000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2775,
+    "url": "https://www.coldwellbanker.com/fl/osprey/366-s-creek-ct/lid-P00800000HIZbv0wfaE9QN952ZeDsuzSSOGdt8Gi",
+    "first_seen": "2026-11-11"
   }
 ]
