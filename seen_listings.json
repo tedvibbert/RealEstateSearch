@@ -4930,5 +4930,41 @@
     "sqft": 2775,
     "url": "https://www.coldwellbanker.com/fl/osprey/366-s-creek-ct/lid-P00800000HIZbv0wfaE9QN952ZeDsuzSSOGdt8Gi",
     "first_seen": "2026-11-11"
+  },
+  {
+    "address": "803 Carnoustie Dr, Venice, FL 34293",
+    "price": 585000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2356,
+    "url": "https://teamtell.evrealestate.com/listing-detail/1157718117/803_CARNOUSTIE_DR-Venice-FL",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "710 Albee Rd W, Nokomis, FL 34275",
+    "price": 1450000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3094,
+    "url": "https://www.compass.com/homedetails/710-Albee-Rd-W-Nokomis-FL-34275/PAYJY_pid",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "583 Pine Ranch East Rd, Osprey, FL 34229",
+    "price": 569000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2203,
+    "url": "https://www.compass.com/homedetails/583-Pine-Ranch-East-Rd-Osprey-FL-34229/P1JM1_pid",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "4418 Ponce De Leon Blvd, North Port, FL 34291",
+    "price": 329900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1810,
+    "url": "https://www.bexrealty.com/FL/North-Port/4418-ponce-de-leon-boulevard/home/MFRTB8522309",
+    "first_seen": "2026-11-12"
   }
 ]
