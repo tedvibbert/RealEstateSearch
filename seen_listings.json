@@ -4966,5 +4966,50 @@
     "sqft": 1810,
     "url": "https://www.bexrealty.com/FL/North-Port/4418-ponce-de-leon-boulevard/home/MFRTB8522309",
     "first_seen": "2026-11-12"
+  },
+  {
+    "address": "282 Holly Bank Avenue, Nokomis, FL 34275",
+    "price": 699900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2713,
+    "url": "https://evemetlis.realgeeks.com/property/TB8529950/",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "2111 Muskogee Trail, Nokomis, FL 34275",
+    "price": 825000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2996,
+    "url": "https://century21cariotirealestate.com/fl/nokomis/calusa-lakes-unit-5/2111-muskogee-trail/a4671911/",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "6917 Prairie Oak Way, Nokomis, FL 34275",
+    "price": 642874,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2394,
+    "url": "https://2myfloridabroker.realgeeks.com/property/A4685604/",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "6933 Prairie Oak Way, Nokomis, FL 34275",
+    "price": 649688,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2721,
+    "url": "https://2myfloridabroker.realgeeks.com/property/A4693071/",
+    "first_seen": "2026-11-12"
+  },
+  {
+    "address": "155 Toscavilla Boulevard, Nokomis, FL 34275",
+    "price": 665000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2340,
+    "url": "https://www.lakehomes.com/florida/knight-lake/155-toscavilla-boulevard-nokomis-fl-34275-lhrmls-04282362",
+    "first_seen": "2026-11-12"
   }
 ]
