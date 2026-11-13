@@ -5061,5 +5061,25 @@
     "url": "https://www.zillow.com/homedetails/201-Vinadio-Blvd-Nokomis-FL-34275/383220529_zpid",
     "first_seen": "2026-11-13",
     "note": "Toscana Isles gated community, waterfront, built 2022, HOA ~$264/mo; most recent source update from mid-2025, verify still active before pursuing"
+  },
+  {
+    "address": "1929 Norvell Ave, North Port, FL 34286",
+    "price": 369000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1925,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/1929-norvell-ave/pid_70744455/",
+    "first_seen": "2026-11-13",
+    "note": "LOW CONFIDENCE: built 2003, sqft conflicts across sources (1,925 vs 2,589), price conflicts (49,000-75,000); most pages dated mid-2026 and may be stale caches - verify current active status before pursuing"
+  },
+  {
+    "address": "4413 Hansard Ave, North Port, FL 34286",
+    "price": 315000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1800,
+    "url": "https://www.exprealty.com/north-port-fl-real-estate/4413-hansard-ave",
+    "first_seen": "2026-11-13",
+    "note": "LOW CONFIDENCE: built 2003, MLS C7520637, snippet showed Days Active 7 suggesting recent listing, but status not independently confirmed - verify current active status before pursuing"
   }
 ]
