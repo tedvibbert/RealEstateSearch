@@ -5011,5 +5011,55 @@
     "sqft": 2340,
     "url": "https://www.lakehomes.com/florida/knight-lake/155-toscavilla-boulevard-nokomis-fl-34275-lhrmls-04282362",
     "first_seen": "2026-11-12"
+  },
+  {
+    "address": "11383 Burgundy Dr, Venice, FL 34293",
+    "price": 500000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://www.redfin.com/FL/Venice/11383-Burgundy-Dr-34293/home/182724863",
+    "first_seen": "2026-11-13",
+    "note": "MLS C7511737, Wellen Park/Antigua area, built 2023; conflicting records - a different MLS# (MFRO6388594) shows a possible sale at $450,000 in April 2026, verify current status before pursuing"
+  },
+  {
+    "address": "4462 Amari Road, North Port, FL 34291",
+    "price": 356900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1868,
+    "url": "https://www.bexrealty.com/FL/North-Port/4462-amari-road/home/MFRC7529197",
+    "first_seen": "2026-11-13",
+    "note": "MLS C7529197, new construction (built 2026), page last updated 2026-08-05"
+  },
+  {
+    "address": "4447 Heyward Street, North Port, FL 34291",
+    "price": 395000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1681,
+    "url": "https://www.buyfla.com/homes/4447-Heyward-Street/North-Port/FL/34291/165517431/",
+    "first_seen": "2026-11-13",
+    "note": "MLS O6321753, built 2025 on 0.23 acre lot; most recent price data from early 2026 (~$389,000-$395,000), verify current price before pursuing"
+  },
+  {
+    "address": "3269 Ponce De Leon Blvd, North Port, FL 34291",
+    "price": 359000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1743,
+    "url": "https://tamarayork.evrealestate.com/listing-detail/1163698882/3269_PONCE_DE_LEON_BLVD-North_Port-FL",
+    "first_seen": "2026-11-13",
+    "note": "Built 2024 on 9,583 sqft lot; listing date shown as May 2025, so data may be stale - verify still active before pursuing"
+  },
+  {
+    "address": "201 Vinadio Blvd, Nokomis, FL 34275",
+    "price": 717000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2431,
+    "url": "https://www.zillow.com/homedetails/201-Vinadio-Blvd-Nokomis-FL-34275/383220529_zpid",
+    "first_seen": "2026-11-13",
+    "note": "Toscana Isles gated community, waterfront, built 2022, HOA ~$264/mo; most recent source update from mid-2025, verify still active before pursuing"
   }
 ]
