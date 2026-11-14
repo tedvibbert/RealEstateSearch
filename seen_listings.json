@@ -5081,5 +5081,54 @@
     "url": "https://www.exprealty.com/north-port-fl-real-estate/4413-hansard-ave",
     "first_seen": "2026-11-13",
     "note": "LOW CONFIDENCE: built 2003, MLS C7520637, snippet showed Days Active 7 suggesting recent listing, but status not independently confirmed - verify current active status before pursuing"
+  },
+  {
+    "address": "13834 Vancanza Drive, Venice, FL 34293",
+    "price": 719900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2251,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4704082/",
+    "first_seen": "2026-11-14"
+  },
+  {
+    "address": "4924 Tuscola Boulevard, North Port, FL 34287",
+    "price": 371480,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1828,
+    "url": "https://www.floridaneighborhoodrealty.com/property/C7524027/",
+    "first_seen": "2026-11-14",
+    "note": "New-construction/pre-construction spec home (D.R. Horton, Central Parc community); listing data snapshots from mid-2026, status Active as of most recent snapshot but not independently re-verified today."
+  },
+  {
+    "address": "1091 Comfort Lane, North Port, FL 34288",
+    "price": 474900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": null,
+    "url": "https://www.raveis.com/property/flyer/21923422",
+    "first_seen": "2026-11-14",
+    "note": "LOW-MEDIUM CONFIDENCE: most recent snapshot found (June 2026) showed Active, but data is ~5 months stale - verify current status before pursuing."
+  },
+  {
+    "address": "3710 Oceanside St, North Port, FL 34286",
+    "price": 377600,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2115,
+    "url": "https://movewithmomentum.com/listings/idx-stellar/3710-oceanside-st-north-port",
+    "first_seen": "2026-11-14",
+    "note": "LOW CONFIDENCE: new-construction home (built 2026), snippet showed Days on Market 1 suggesting a recent listing, but snapshot date unclear and zip code varied (34286 vs 34287) across sources - verify current active status before pursuing."
+  },
+  {
+    "address": "19864 Petrino Street, Venice, FL 34293",
+    "price": 999000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 3704,
+    "url": "https://www.floridaneighborhoodrealty.com/property/D6149195/",
+    "first_seen": "2026-11-14",
+    "note": "LOW CONFIDENCE: sources conflicted on listing date (some snapshots nearly 2 years old), one recent snippet showed 9 days on market suggesting a possible relist - verify current active status and price before pursuing."
   }
 ]
