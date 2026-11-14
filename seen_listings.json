@@ -5130,5 +5130,14 @@
     "url": "https://www.floridaneighborhoodrealty.com/property/D6149195/",
     "first_seen": "2026-11-14",
     "note": "LOW CONFIDENCE: sources conflicted on listing date (some snapshots nearly 2 years old), one recent snippet showed 9 days on market suggesting a possible relist - verify current active status and price before pursuing."
+  },
+  {
+    "address": "13145 Amerigo Ln, Venice, FL 34293",
+    "price": 749900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2243,
+    "url": "https://michaelwyckoff.evrealestate.com/listing-detail/1159084172/13145_AMERIGO_LN-Venice-FL",
+    "first_seen": "2026-11-14"
   }
 ]
