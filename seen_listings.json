@@ -5139,5 +5139,55 @@
     "sqft": 2243,
     "url": "https://michaelwyckoff.evrealestate.com/listing-detail/1159084172/13145_AMERIGO_LN-Venice-FL",
     "first_seen": "2026-11-14"
+  },
+  {
+    "address": "460 Briarwood Rd, Venice, FL 34293",
+    "price": 405000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1566,
+    "url": "https://www.raveis.com/prop/A4660407/460-briarwood-road-venice-fl-34293",
+    "first_seen": "2026-11-15",
+    "note": "LOW CONFIDENCE / CAVEAT: this is a duplex with both units currently tenant-occupied (annual rentals), not a standalone single-family home - may not fit intent of a 4BR home to live in. Most recent price data from Jan 2026 (~05k after cuts from 40k); current status not independently re-verified today."
+  },
+  {
+    "address": "318 Holly Bank Ave, Nokomis, FL 34275",
+    "price": 599900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2566,
+    "url": "https://orchard.com/homes/details/318-holly-bank-ave-nokomis-fl-34275",
+    "first_seen": "2026-11-15",
+    "note": "MEDIUM CONFIDENCE: new-construction home (Perry Homes, Magnolia Bay community). Sources conflict on status - one shows Active at 49,900 (after 5K price drop), another shows Pending at 99,900 - verify current status/price before pursuing."
+  },
+  {
+    "address": "3617 Inverness St, North Port, FL 34288",
+    "price": 475000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2211,
+    "url": "https://www.zillow.com/homedetails/3617-Inverness-St-North-Port-FL-34288/66754773_zpid",
+    "first_seen": "2026-11-15",
+    "note": "LOW CONFIDENCE: most sources show this home sold 12/31/2025 for 62,000, but Century 21 shows a Pending status under a different (newer) MLS number (O6367669), suggesting a possible relisting - verify current active status before pursuing."
+  },
+  {
+    "address": "5519 Baker Rd, North Port, FL 34288",
+    "price": 374900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2067,
+    "url": "https://www.raveis.com/prop/OM721982/5519-baker-road-north-port-fl-34288",
+    "first_seen": "2026-11-15",
+    "note": "MEDIUM CONFIDENCE: built 2023. Most recent snapshot found (~July 2026) showed Active; no sold/pending signal found, but data is ~4 months stale - verify current status before pursuing."
+  },
+  {
+    "address": "5659 Equator Ct, Nokomis, FL 34275",
+    "price": 599000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": null,
+    "url": "https://investproinc.com/fl/nokomis/sorrento-ph-ii/5659-equator-court/",
+    "first_seen": "2026-11-15",
+    "note": "MEDIUM CONFIDENCE: 2025-built home with a loft, MLS #A4704015, shown Active on a 2026-dated page. A conflicting record for the same address shows a 2025 sale with a different bed/bath/build-year config, likely a mismatched/stale entry - verify before pursuing."
   }
 ]
