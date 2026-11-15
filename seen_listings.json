@@ -5189,5 +5189,104 @@
     "url": "https://investproinc.com/fl/nokomis/sorrento-ph-ii/5659-equator-court/",
     "first_seen": "2026-11-15",
     "note": "MEDIUM CONFIDENCE: 2025-built home with a loft, MLS #A4704015, shown Active on a 2026-dated page. A conflicting record for the same address shows a 2025 sale with a different bed/bath/build-year config, likely a mismatched/stale entry - verify before pursuing."
+  },
+  {
+    "address": "15360 Isla Palma Ln, Nokomis, FL 34275",
+    "price": 759000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2582,
+    "url": "https://www.coldwellbanker.com/fl/nokomis/15360-isla-palma-ln/lid-P00800000Gzf9GCDY8fdyWPVsHVCqvk0tLqecJ96",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "1603 Pecan St, Nokomis, FL 34275",
+    "price": 659000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2605,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4703131/",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "231 Nippino Trl E, Nokomis, FL 34275",
+    "price": 339000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2214,
+    "url": "https://www.coldwellbankerhomes.com/fl/nokomis/231-nippino-trail-e/pid_72832405/",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "212 Teracorsa Drive, Nokomis, FL 34275",
+    "price": 643990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2456,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4709138/",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "13682 Vancanza Dr, Venice, FL 34293",
+    "price": 740000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 2836,
+    "url": "https://www.homesbymarco.com/properties/13682-vancanza-dr-venice-fl-34293/4575715",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "19267 Kirella St, Venice, FL 34293",
+    "price": 629000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2537,
+    "url": "https://rockethomes.com/homes/19267-kirella-st-venice-fl-34293",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "12642 Harney St, Venice, FL 34293",
+    "price": 949900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2902,
+    "url": "https://www.coldwellbankerhomes.com/fl/venice/12642-harney-st/pid_71710155/",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "242 Lookout Point Drive, Osprey, FL 34229",
+    "price": 995000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2413,
+    "url": "https://www.floridaneighborhoodrealty.com/property/A4711269/",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "5675 Bannock Cir, North Port, FL 34288",
+    "price": 401000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2604,
+    "url": "https://www.floridaneighborhoodrealty.com/property/C7532564/",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "5783 Brenmar Ave, North Port, FL 34291",
+    "price": 479000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2078,
+    "url": "https://www.bhgre.com/home/detail/fl/north-port/5783-brenmar-ave/lid-P00800000H6vLmAkkp9YHacX1gMTpx1l75fm1sZ8",
+    "first_seen": "2026-11-15"
+  },
+  {
+    "address": "6296 Hornbuckle Blvd, North Port, FL 34291",
+    "price": 429900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3000,
+    "url": "https://vanessafauquier.remax.com/property/24-A4699861-6296-hornbuckle-boulevard-north-port-FL-34291",
+    "first_seen": "2026-11-15"
   }
 ]
