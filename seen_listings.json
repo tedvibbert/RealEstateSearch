@@ -5288,5 +5288,14 @@
     "sqft": 3000,
     "url": "https://vanessafauquier.remax.com/property/24-A4699861-6296-hornbuckle-boulevard-north-port-FL-34291",
     "first_seen": "2026-11-15"
+  },
+  {
+    "address": "11484 Montserrat Drive, Venice, FL 34293",
+    "price": 719000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2385,
+    "url": "https://www.bexrealty.com/FL/Venice/11484-montserrat-drive/home/MFRN6144577",
+    "first_seen": "2026-11-16"
   }
 ]
