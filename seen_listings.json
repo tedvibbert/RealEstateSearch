@@ -5297,5 +5297,14 @@
     "sqft": 2385,
     "url": "https://www.bexrealty.com/FL/Venice/11484-montserrat-drive/home/MFRN6144577",
     "first_seen": "2026-11-16"
+  },
+  {
+    "address": "18432 Vista Park Ter, Venice, FL 34293",
+    "price": 731000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2867,
+    "url": "https://www.zillow.com/homedetails/18432-Vista-Park-Ter-Venice-FL-34293/457362533_zpid",
+    "first_seen": "2026-11-16"
   }
 ]
