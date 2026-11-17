@@ -5315,5 +5315,50 @@
     "sqft": 2557,
     "url": "https://www.coldwellbanker.com/fl/north-port/8151-bristol-ave/lid-P00800000HCUJ5ev8hJZO0iV6T1AlfYMBES0ZYZM",
     "first_seen": "2026-11-17"
+  },
+  {
+    "address": "167 Pescador Pl, Nokomis, FL 34275",
+    "price": 591990,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2038,
+    "url": "https://www.zillow.com/homedetails/167-Pescador-Pl-Nokomis-FL-34275/250946923_zpid",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "address": "12501 Cinqueterre Dr, Venice, FL 34293",
+    "price": 659000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://www.raveis.com/raveis/A4649137/12501-cinqueterre-drive-venice-fl-34293",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "address": "524 Oak Bay Dr, Osprey, FL 34229",
+    "price": 799000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2767,
+    "url": "https://raveis.com/prop/A4627306/524-oak-bay-drive-osprey-fl-34229",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "address": "277 Villoresi Blvd, Nokomis, FL 34275",
+    "price": 699900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2023,
+    "url": "https://www.century21.com/homes/detail/fl/nokomis/277-villoresi-blvd/lid-P00800000H6qANUP8oedmmEI9IQGbczmIjgHbgpV",
+    "first_seen": "2026-11-17"
+  },
+  {
+    "address": "1099 Nokomis Ave S, Venice, FL 34285",
+    "price": 865000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2578,
+    "url": "https://www.raveis.com/prop/N6141252/1099-nokomis-avenue-s-venice-fl-34285",
+    "first_seen": "2026-11-17"
   }
 ]
