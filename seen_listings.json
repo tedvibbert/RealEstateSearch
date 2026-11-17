@@ -5306,5 +5306,14 @@
     "sqft": 2867,
     "url": "https://www.zillow.com/homedetails/18432-Vista-Park-Ter-Venice-FL-34293/457362533_zpid",
     "first_seen": "2026-11-16"
+  },
+  {
+    "address": "8151 Bristol Ave, North Port, FL 34291",
+    "price": 422000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2557,
+    "url": "https://www.coldwellbanker.com/fl/north-port/8151-bristol-ave/lid-P00800000HCUJ5ev8hJZO0iV6T1AlfYMBES0ZYZM",
+    "first_seen": "2026-11-17"
   }
 ]
