@@ -5387,5 +5387,41 @@
     "sqft": 2340,
     "url": "https://maxliferealty.com/listings/MFR794572391",
     "first_seen": "2026-11-18"
+  },
+  {
+    "address": "117 Daylily Boulevard, Nokomis, FL 34275",
+    "price": 729999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2336,
+    "url": "https://www.raveis.com/prop/N6144434/117-daylily-boulevard-nokomis-fl-34275",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "address": "12031 Lovegrass Street, Venice, FL 34293",
+    "price": 460000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2038,
+    "url": "https://www.century21.com/homes/detail/fl/venice/12031-lovegrass-st/lid-P00800000H7pKu5e04NEd9N6pFoCQkxeyzuHOmTL",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "address": "20655 Valprato Court, Venice, FL 34293",
+    "price": 760000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": null,
+    "url": "https://www.zillow.com/homedetails/20655-Valprato-Ct-Venice-FL-34293/250947195_zpid",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "address": "5734 Ganyard Avenue, North Port, FL 34291",
+    "price": 395000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1681,
+    "url": "https://www.estately.com/listings/info/5734-ganyard-avenue-north-port-fl-34291",
+    "first_seen": "2026-11-18"
   }
 ]
