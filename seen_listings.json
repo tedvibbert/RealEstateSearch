@@ -5360,5 +5360,32 @@
     "sqft": 2578,
     "url": "https://www.raveis.com/prop/N6141252/1099-nokomis-avenue-s-venice-fl-34285",
     "first_seen": "2026-11-17"
+  },
+  {
+    "address": "15001 Shady Palms Ln, Nokomis, FL 34275",
+    "price": 536450,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2138,
+    "url": "https://releverealestate.com/listing/d1e1f67bb04c885f4f6c50f47c9de002/15001-shady-palms",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "address": "4409 Lacoco Street, North Port, FL 34291",
+    "price": 374999,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2111,
+    "url": "https://www.bexrealty.com/FL/North-Port/4409-lacoco-street/home/MFRC7520063",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "address": "155 Toscavilla Blvd, Nokomis, FL 34275",
+    "price": 665000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2340,
+    "url": "https://maxliferealty.com/listings/MFR794572391",
+    "first_seen": "2026-11-18"
   }
 ]
