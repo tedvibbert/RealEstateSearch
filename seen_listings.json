@@ -5423,5 +5423,32 @@
     "sqft": 1681,
     "url": "https://www.estately.com/listings/info/5734-ganyard-avenue-north-port-fl-34291",
     "first_seen": "2026-11-18"
+  },
+  {
+    "address": "15540 Foxtail Lane, Nokomis, FL 34275",
+    "price": 578634,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2582,
+    "url": "https://www.raveis.com/prop/A4682403/15540-foxtail-lane-nokomis-fl-34275",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "address": "20700 Granlago Drive, Venice, FL 34293",
+    "price": 550000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2251,
+    "url": "https://www.raveis.com/property/flyer/21490629",
+    "first_seen": "2026-11-19"
+  },
+  {
+    "address": "16733 Carmine Road, Venice, FL 34293",
+    "price": 615000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2017,
+    "url": "https://estately.com/listings/info/16733-carmine-road-venice-fl-34293",
+    "first_seen": "2026-11-19"
   }
 ]
