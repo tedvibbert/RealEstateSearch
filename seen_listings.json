@@ -5509,5 +5509,15 @@
     "sqft": 3954,
     "url": "https://www.zillow.com/homedetails/793-Vanderbilt-Dr-Nokomis-FL-34275/99784748_zpid/",
     "first_seen": "2026-11-20"
+  },
+  {
+    "address": "1017 Tuscany Blvd, Venice, FL 34292",
+    "price": 799999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2628,
+    "url": "https://www.bhgre.com/home/detail/fl/venice/1017-tuscany-blvd/lid-P00800000Gu8apMuA0DFjCntT84jVjnPHM9QGfgi",
+    "first_seen": "2026-11-20",
+    "note": "Pelican Pointe Golf & Country Club, built 2003; listed Active; price seen as low as $750,000 on an older snapshot, so confirm current price before acting"
   }
 ]
