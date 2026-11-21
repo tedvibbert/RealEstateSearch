@@ -5519,5 +5519,41 @@
     "url": "https://www.bhgre.com/home/detail/fl/venice/1017-tuscany-blvd/lid-P00800000Gu8apMuA0DFjCntT84jVjnPHM9QGfgi",
     "first_seen": "2026-11-20",
     "note": "Pelican Pointe Golf & Country Club, built 2003; listed Active; price seen as low as $750,000 on an older snapshot, so confirm current price before acting"
+  },
+  {
+    "address": "17845 Blue Hespher Dr, Venice, FL 34293",
+    "price": 889990,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 3022,
+    "url": "https://www.newhomesource.com/homedetail/specid-3204646",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "address": "18035 Home Run Drive, Venice, FL 34293",
+    "price": 1480000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2940,
+    "url": "https://www.bexrealty.com/FL/Venice/18035-home-run-drive/home/MFRA4687448",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "address": "12717 Morning Mist Place, Venice, FL 34293",
+    "price": 675000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2387,
+    "url": "https://kaufmanrealty.com/listings/235431436/12717+MORNING+MIST+PLACE%2C+VENICE%2C+FL+34293",
+    "first_seen": "2026-11-21"
+  },
+  {
+    "address": "18429 Vista Park Ter, Venice, FL 34293",
+    "price": 684690,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2600,
+    "url": "https://www.newhomesource.com/specdetail/18429-vista-park-ter-venice-fl-34293/3005202",
+    "first_seen": "2026-11-21"
   }
 ]
