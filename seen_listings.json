@@ -5555,5 +5555,14 @@
     "sqft": 2600,
     "url": "https://www.newhomesource.com/specdetail/18429-vista-park-ter-venice-fl-34293/3005202",
     "first_seen": "2026-11-21"
+  },
+  {
+    "address": "366 S Creek Ct, Osprey, FL 34229",
+    "price": 1049000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2775,
+    "url": "https://www.coldwellbanker.com/fl/osprey/366-s-creek-ct/lid-P00800000HIZbv0wfaE9QN952ZeDsuzSSOGdt8Gi",
+    "first_seen": "2026-11-22"
   }
 ]
