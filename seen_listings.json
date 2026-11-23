@@ -5564,5 +5564,41 @@
     "sqft": 2775,
     "url": "https://www.coldwellbanker.com/fl/osprey/366-s-creek-ct/lid-P00800000HIZbv0wfaE9QN952ZeDsuzSSOGdt8Gi",
     "first_seen": "2026-11-22"
+  },
+  {
+    "address": "181 S Auburn Rd, Venice, FL 34292",
+    "price": 1500000,
+    "beds": 4,
+    "baths": 5,
+    "sqft": 3570,
+    "url": "https://www.bexrealty.com/FL/Venice/181-auburn-road/home/MFRN6138522",
+    "first_seen": "2026-11-23"
+  },
+  {
+    "address": "20655 Valprato Ct, Venice, FL 34293",
+    "price": 760000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2548,
+    "url": "https://www.raveis.com/prop/A4683314/20655-valprato-court-venice-fl-34293",
+    "first_seen": "2026-11-23"
+  },
+  {
+    "address": "12315 Canavese Ln, Venice, FL 34293",
+    "price": 579900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://raveis.com/prop/A4650486/12315-canavese-lane-venice-fl-34293",
+    "first_seen": "2026-11-23"
+  },
+  {
+    "address": "2350 Mission Valley Blvd, Nokomis, FL 34275",
+    "price": 1300000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3570,
+    "url": "https://kaufmanrealty.com/listings/238374330/2350-mission-valley-boulevard-nokomis-fl-34275",
+    "first_seen": "2026-11-23"
   }
 ]
