@@ -5600,5 +5600,32 @@
     "sqft": 3570,
     "url": "https://kaufmanrealty.com/listings/238374330/2350-mission-valley-boulevard-nokomis-fl-34275",
     "first_seen": "2026-11-23"
+  },
+  {
+    "address": "415 Fieldstone Dr, Venice, FL 34292",
+    "price": 1050000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3016,
+    "url": "https://www.nestseekers.com/5854516/415-fieldstone-dr-breathtaking-lake-and-golf-course-views",
+    "first_seen": "2026-11-24"
+  },
+  {
+    "address": "11200 Balfour St, Venice, FL 34293",
+    "price": 646000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2035,
+    "url": "https://www.remax.com/fl/venice/home-details/11200-balfour-st-venice-fl-34293/9826757187425038700/M00000146/N6133087",
+    "first_seen": "2026-11-24"
+  },
+  {
+    "address": "13270 Famiglia Dr, Venice, FL 34293",
+    "price": 629900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2254,
+    "url": "https://www.zillow.com/homedetails/13270-Famiglia-Dr-Venice-FL-34293/125960957_zpid",
+    "first_seen": "2026-11-24"
   }
 ]
