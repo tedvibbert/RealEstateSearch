@@ -5627,5 +5627,35 @@
     "sqft": 2254,
     "url": "https://www.zillow.com/homedetails/13270-Famiglia-Dr-Venice-FL-34293/125960957_zpid",
     "first_seen": "2026-11-24"
+  },
+  {
+    "address": "1764 Lugano Cir, Nokomis, FL 34275",
+    "price": 699150,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2309,
+    "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes/crystal-plan/1764-lugano-circle",
+    "first_seen": "2026-11-24",
+    "note": "New construction (M/I Homes Cassata Lakes, Crystal plan), built 2026; active/under construction. Some aggregator pages show a stale MLS price of $763,957 from May 2026."
+  },
+  {
+    "address": "1753 Lugano Cir, Nokomis, FL 34275",
+    "price": 896209,
+    "beds": 5,
+    "baths": 5,
+    "sqft": 3521,
+    "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes/wekiva-plan/1753-lugano-circle",
+    "first_seen": "2026-11-24",
+    "note": "New construction (M/I Homes Cassata Lakes, Wekiva plan), under construction/active. MLS aggregator (Max Life Realty, updated Sept 2026) shows active at $899,999."
+  },
+  {
+    "address": "1641 Lugano Cir, Nokomis, FL 34275",
+    "price": 929999,
+    "beds": 5,
+    "baths": 3,
+    "sqft": 3899,
+    "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes/santa-fe-plan/1641-lugano-circle",
+    "first_seen": "2026-11-24",
+    "note": "New construction (M/I Homes Cassata Lakes, Santa Fe plan), Ready Now per builder; active. Zillow shows a higher figure ($956,840) possibly reflecting options/upgrades."
   }
 ]
