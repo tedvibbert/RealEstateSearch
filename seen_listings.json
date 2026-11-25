@@ -5676,6 +5676,42 @@
     "sqft": 2207,
     "url": "https://www.floridaneighborhoodrealty.com/property/N6145802/",
     "first_seen": "2026-11-25",
-    "note": "Active, MLS N6145802, 43 days on market. Other aggregator pages show conflicting prices ($599,000, $629,000) that appear to be stale or separate listing snapshots — $549,000 is the most detailed/current match found."
+    "note": "Active, MLS N6145802, 43 days on market. Other aggregator pages show conflicting prices ($599,000, $629,000) that appear to be stale or separate listing snapshots \u2014 $549,000 is the most detailed/current match found."
+  },
+  {
+    "address": "19890 Montenero Way, Venice, FL 34293",
+    "price": 615000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2136,
+    "url": "https://www.coldwellbanker.com/fl/venice/19890-montenero-way/lid-P00800000H64DjnArLO0v1P9fG7AILtwjx1BZvOJ",
+    "first_seen": "2026-11-25"
+  },
+  {
+    "address": "138 Toscavilla Blvd, Nokomis, FL 34275",
+    "price": 799900,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2431,
+    "url": "https://www.coldwellbankerluxury.com/properties/GYD3R9/138-toscavilla-boulevard",
+    "first_seen": "2026-11-25"
+  },
+  {
+    "address": "159 Toscavilla Blvd, Nokomis, FL 34275",
+    "price": 855000,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2419,
+    "url": "https://www.coldwellbankerluxury.com/properties/7CQRDF/159-toscavilla-boulevard",
+    "first_seen": "2026-11-25"
+  },
+  {
+    "address": "25143 Spartina Dr, Venice, FL 34293",
+    "price": 720000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2252,
+    "url": "https://www.zillow.com/homedetails/25143-Spartina-Dr-Venice-FL-34293/305879212_zpid",
+    "first_seen": "2026-11-25"
   }
 ]
