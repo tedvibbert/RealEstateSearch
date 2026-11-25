@@ -5657,5 +5657,25 @@
     "url": "https://www.mihomes.com/new-homes/florida/sarasota-metro/venice/cassata-lakes/santa-fe-plan/1641-lugano-circle",
     "first_seen": "2026-11-24",
     "note": "New construction (M/I Homes Cassata Lakes, Santa Fe plan), Ready Now per builder; active. Zillow shows a higher figure ($956,840) possibly reflecting options/upgrades."
+  },
+  {
+    "address": "11631 Dancing River Dr, Venice, FL 34292",
+    "price": 499000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2207,
+    "url": "https://www.raveis.com/property/flyer/21937569",
+    "first_seen": "2026-11-25",
+    "note": "Active per listing update dated 10/30/2026 (90 days on market, price cut from $534,900). Some older cached pages still show the prior $534,900 price."
+  },
+  {
+    "address": "11504 Dancing River Dr, Venice, FL 34292",
+    "price": 549000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2207,
+    "url": "https://www.floridaneighborhoodrealty.com/property/N6145802/",
+    "first_seen": "2026-11-25",
+    "note": "Active, MLS N6145802, 43 days on market. Other aggregator pages show conflicting prices ($599,000, $629,000) that appear to be stale or separate listing snapshots — $549,000 is the most detailed/current match found."
   }
 ]
