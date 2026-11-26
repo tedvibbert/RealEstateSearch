@@ -5758,5 +5758,41 @@
     "sqft": 2092,
     "url": "https://www.bhgre.com/home/detail/fl/north-port/4175-polynesia-rd/lid-P00800000HCmss1l4XGyVLJhvAfoeUiRwtGwzfem",
     "first_seen": "2026-11-26"
+  },
+  {
+    "address": "538 Dove Pointe Dr, Osprey, FL 34229",
+    "price": 1950000,
+    "beds": 4,
+    "baths": 5.5,
+    "sqft": 4346,
+    "url": "https://www.zillow.com/homedetails/538-Dove-Pointe-Osprey-FL-34229/47533157_zpid",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "314 S Shore Dr, Osprey, FL 34229",
+    "price": 1495000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3853,
+    "url": "https://www.raveis.com/eprop/TB8510971/314-s-shore-drive-osprey-fl-34229",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "13238 Famiglia Dr, Venice, FL 34293",
+    "price": 630000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2254,
+    "url": "https://www.bexrealty.com/FL/Venice/13238-famiglia-drive/home/MFRA4684623",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "100 Charles Dr, Nokomis, FL 34275",
+    "price": 697000,
+    "beds": 4,
+    "baths": 4,
+    "sqft": 2248,
+    "url": "https://century21cariotirealestate.com/fl/nokomis/laurel-villa/100-charles-drive/tb8507286",
+    "first_seen": "2026-11-26"
   }
 ]
