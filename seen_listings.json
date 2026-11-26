@@ -5713,5 +5713,50 @@
     "sqft": 2252,
     "url": "https://www.zillow.com/homedetails/25143-Spartina-Dr-Venice-FL-34293/305879212_zpid",
     "first_seen": "2026-11-25"
+  },
+  {
+    "address": "500 Hazelwood Rd, Venice, FL 34293",
+    "price": 350000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1795,
+    "url": "https://www.coldwellbanker.com/fl/venice/500-hazelwood-rd/lid-P00800000GxUqlcUJQgJDw0bloHWxUL0MLZWk5eP",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "4447 Heyward St, North Port, FL 34291",
+    "price": 389000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1681,
+    "url": "https://www.coldwellbankerhomes.com/fl/north-port/4447-heyward-st/pid_66207832",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "8211 Elkenberry Ave, North Port, FL 34291",
+    "price": 382900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 1850,
+    "url": "https://www.bexrealty.com/FL/North-Port/8211-elkenberry-avenue/home/MFRA4701232",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "2675 Averland Loop, North Port, FL 34287",
+    "price": 384648,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2200,
+    "url": "https://www.century21.com/homes/detail/fl/north-port/2675-averland-loop/lid-P00800000Gni3BCXNhTFIDcOdsLPh7IoTtNIzqtg",
+    "first_seen": "2026-11-26"
+  },
+  {
+    "address": "4175 Polynesia Rd, North Port, FL 34288",
+    "price": 359900,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2092,
+    "url": "https://www.bhgre.com/home/detail/fl/north-port/4175-polynesia-rd/lid-P00800000HCmss1l4XGyVLJhvAfoeUiRwtGwzfem",
+    "first_seen": "2026-11-26"
   }
 ]
