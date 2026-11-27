@@ -5803,5 +5803,59 @@
     "sqft": 2813,
     "url": "https://www.ratemyagent.com/property/17829-broadleaf-loop-north-port-fl-34293-y3dsa",
     "first_seen": "2026-11-27"
+  },
+  {
+    "address": "11571 Gleaming Ter, Venice, FL 34293",
+    "price": 1345000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3621,
+    "url": "https://www.zillow.com/homedetails/11571-Gleaming-Ter-Venice-FL-34293/339884782_zpid",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "address": "17336 Sandpearl Rd, Venice, FL 34293",
+    "price": 899999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2395,
+    "url": "https://teamtell.evrealestate.com/listing-detail/1154585346/17336_SANDPEARL_RD-Venice-FL",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "address": "17260 Jadestone Ct, Venice, FL 34293",
+    "price": 739900,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2242,
+    "url": "https://www.coldwellbanker.com/fl/venice/17260-jadestone-ct/lid-P00800000HEsQVmUJmJBuueW6he32SdMeUM9ADak",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "address": "17601 Foxtail Loop, Venice, FL 34293",
+    "price": 849990,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 3035,
+    "url": "https://www.trulia.com/home/17601-foxtail-loop-venice-fl-34293-458509010",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "address": "12217 Meditation Trl, Venice, FL 34293",
+    "price": 540000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2209,
+    "url": "https://www.zillow.com/homedetails/12217-Meditation-Trl-Venice-FL-34293/443578404_zpid",
+    "first_seen": "2026-11-27"
+  },
+  {
+    "address": "2443 Lancaster Ln, North Port, FL 34286",
+    "price": 524800,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 2138,
+    "url": "https://www.coldwellbanker.com/fl/north-port/2443-lancaster-ln/lid-P00800000HCQYu7gfUV76xIpyeALGAz2COm2KMAN",
+    "first_seen": "2026-11-27"
   }
 ]
