@@ -5857,5 +5857,32 @@
     "sqft": 2138,
     "url": "https://www.coldwellbanker.com/fl/north-port/2443-lancaster-ln/lid-P00800000HCQYu7gfUV76xIpyeALGAz2COm2KMAN",
     "first_seen": "2026-11-27"
+  },
+  {
+    "address": "4413 Hansard Avenue, North Port, FL 34286",
+    "price": 315000,
+    "beds": 4,
+    "baths": 2,
+    "sqft": 1800,
+    "url": "https://www.weichert.com/132837547",
+    "first_seen": "2026-11-28"
+  },
+  {
+    "address": "19807 Bridgetown Loop, Venice, FL 34293",
+    "price": 665000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2309,
+    "url": "https://www.coldwellbankerhomes.com/fl/venice/19807-bridgetown-loop/pid_67735188",
+    "first_seen": "2026-11-28"
+  },
+  {
+    "address": "12675 Richezza Drive, Venice, FL 34293",
+    "price": 459999,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2025,
+    "url": "https://www.bexrealty.com/FL/Venice/12675-richezza-drive/home/MFRA4673630",
+    "first_seen": "2026-11-28"
   }
 ]
